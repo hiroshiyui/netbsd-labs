@@ -13,6 +13,8 @@ RUN apt-get update && apt-get install -y \
     curl \
     git \
     vim \
+    mkbootimg \
+    cpio \
     && apt-get clean
 
 RUN apt-get update && apt-get install -y locales && \
