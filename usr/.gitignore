@@ -1,0 +1,8 @@
+!.gitkeep
+src/
+
+bin/
+obj/
+release/
+scripts/
+tools/
