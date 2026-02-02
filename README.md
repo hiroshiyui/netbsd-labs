@@ -1,8 +1,8 @@
 # NetBSD Labs: A Containerized Cross-Compilation Environment
 
-This repository provides a streamlined, container-based environment for cross-compiling the NetBSD operating system. By leveraging a container engine like Podman or Docker, you can build NetBSD for various target architectures (e.g., ARM64/AArch64) without managing complex dependencies or altering your host system's configuration. This approach ensures a consistent, reproducible build process across different Linux distributions.
+This repository provides a streamlined, container-based environment for cross-compiling the [NetBSD](https://www.netbsd.org/) operating system.ating system. By leveraging a container engine like [Podman](https://podman.io/) or [Docker](https://www.docker.com/), you can build NetBSD for various target architectures (e.g., ARM64/AArch64) without managing complex dependencies or altering your host system's configuration. This approach ensures a consistent, reproducible build process across different Linux distributions.
 
-This guide also provides instructions for emulating the resulting NetBSD ARM64 system using QEMU.
+This guide also provides instructions for emulating the resulting NetBSD ARM64 system using [QEMU](https://www.qemu.org/).
 
 ## 1. Prerequisites: Fetching the Source Code
 
@@ -103,9 +103,10 @@ After the build completes, you can exit the container. The following steps are p
 First, create a directory to serve as the root filesystem. Then, extract the core `base` and `etc` sets from the release into this directory.
 
 ```bash
-mkdir -p usr/rootfs_qemu && \
+mkdir -p /work/rootfs_qemu && \
+cd /work/ && \
 for set in base etc; do
-  tar -xpf usr/obj/releasedir/evbarm-aarch64/binary/sets/${set}.tar.xz -C usr/rootfs_qemu
+  tar -xpf ./obj/releasedir/evbarm-aarch64/binary/sets/${set}.tar.xz -C ./rootfs_qemu
 done
 ```
 
@@ -113,13 +114,12 @@ done
 
 Before creating the disk image, we must perform first-boot configuration:
 1.  Enable `rc.conf` to signify that the system is configured.
-2.  Create a `master.passwd` file with a root user.
-3.  Use the `pwd_mkdb` tool (from our cross-compiled tools) to generate the secure password database from the `master.passwd` file.
+2.  Use the `pwd_mkdb` tool (from our cross-compiled tools) to generate the secure password database from the `master.passwd` file.
 
 ```bash
-sed -i 's/rc_configured=NO/rc_configured=YES/' usr/rootfs_qemu/etc/rc.conf
-echo "root::0:0::0:0:The Admin:/root:/bin/sh" > usr/rootfs_qemu/etc/master.passwd
-./usr/tools/bin/nbpwd_mkdb -p -d usr/rootfs_qemu usr/rootfs_qemu/etc/master.passwd
+cd /work/ && \
+sed -i 's/rc_configured=NO/rc_configured=YES/' ./rootfs_qemu/etc/rc.conf && \
+./tools/bin/nbpwd_mkdb -p -d rootfs_qemu ./rootfs_qemu/etc/master.passwd
 ```
 
 ### Step 3: Create the Disk Image
@@ -127,9 +127,8 @@ echo "root::0:0::0:0:The Admin:/root:/bin/sh" > usr/rootfs_qemu/etc/master.passw
 This command uses the `nbmakefs` tool to create a 1 GB filesystem image file, `qemu_disk.img`, populated with the contents of the `rootfs_qemu` directory.
 
 ```bash
-cd usr/rootfs_qemu && \
-../../tools/bin/nbmakefs -s 1g ../qemu_disk.img . && \
-cd ../..
+cd /work/rootfs_qemu && \
+../tools/bin/nbmakefs -s 1g ../qemu_disk.img .
 ```
 
 ### Step 4: Launch QEMU
@@ -144,7 +143,6 @@ qemu-system-aarch64 -M virt -cpu cortex-a57 -smp 4 -m 2G \
   -netdev user,id=net0 -device virtio-net-device,netdev=net0 \
   -append "root=ld4a console=fb" \
   -serial stdio
-
 ```
 
 **Understanding the QEMU Flags:**
@@ -168,12 +166,12 @@ Press **Enter** to drop into the single-user emergency shell. Then, run the foll
 
 ```sh
 # Remount the root filesystem as read-write
-mount -u -w /dev/ld0a /
+mount -u -w /dev/ld4a /
 
 # Create the fstab file with standard entries
 cat << EOF > /etc/fstab
-/dev/ld0a  /      ffs  rw  1 1
-/dev/ld0b  none   swap sw  0 0
+/dev/ld4a  /      ffs  rw  1 1
+/dev/ld4b  none   swap sw  0 0
 kernfs     /kern  kernfs rw
 ptyfs      /dev/pts ptyfs rw
 procfs     /proc  procfs rw
