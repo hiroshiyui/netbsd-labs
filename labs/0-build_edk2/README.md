@@ -1,10 +1,13 @@
 # Module 0: Building the EDK II Development Environment
 
-This module outlines the procedure for creating a consistent and isolated build environment for the EFI Development Kit II (EDK II). By leveraging container technology (Podman), this setup guarantees a uniform toolchain (including GCC, NASM, and IASL) across different development machines and prevents modifications to the host system's configuration.
+This module outlines the procedure for creating a consistent and isolated build environment for the EFI Development Kit II (EDK II). By leveraging container technology (Podman), this setup guarantees a uniform toolchain (including GCC, NASM, and IASL) across different development machines. This approach ensures build reproducibility, eliminates "works on my machine" issues, and prevents modifications to the host system's configuration.
 
 ## Prerequisites
 
-Before proceeding, ensure you have a functional Podman installation on your system.
+Before proceeding, ensure you have the following software installed on your host system:
+
+*   A functional [Podman](https://podman.io/getting-started/installation) installation.
+*   [QEMU](https://www.qemu.org/download/), specifically the `qemu-system-aarch64` binary for running the compiled firmware.
 
 ## Environment Setup
 
@@ -54,3 +57,65 @@ podman run -it --rm \
 *   `edk2-build`: Specifies the image to use for creating the container.
 
 You are now in a shell environment within the container, ready to proceed with the EDK II build process.
+
+## Building EDK II
+
+Once inside the container, you are ready to compile the EDK II source code. This involves setting up the build environment and then invoking the main build tool.
+
+### 1. Build the BaseTools
+
+The EDK II build system relies on a set of host-based utilities known as `BaseTools` for tasks like generating firmware files and processing configuration data. These tools must be compiled first using the compiler within the container.
+
+```bash
+cd ./edk2/ && \
+make -C BaseTools
+```
+
+### 2. Configure the Build Environment
+
+The `edksetup.sh` script prepares the shell environment by setting necessary variables.
+
+From the `/work` directory inside the container, source the script:
+
+```bash
+source edk2/edksetup.sh
+```
+
+### 3. Compile the Firmware
+
+With the environment configured, you can now compile a target platform. We will use `ArmVirtPkg` as an example, which is designed for QEMU ARM-based virtual machines. The toolchain prefix needs to be set to match the cross-compiler installed in the container.
+
+```bash
+export GCC5_AARCH64_PREFIX=aarch64-linux-gnu-
+build -a AARCH64 -t GCC5 -p ArmVirtPkg/ArmVirtQemu.dsc -b DEBUG
+```
+
+**Command Breakdown:**
+*   `export GCC5_AARCH64_PREFIX=...`: This environment variable tells the EDK II build system where to find the AARCH64 cross-compiler.
+*   `build`: The primary EDK II build script.
+*   `-a AARCH64`: Specifies the target architecture.
+*   `-t GCC5`: Defines the toolchain profile to use (GCC version 5 or compatible).
+*   `-p ArmVirtPkg/ArmVirtQemu.dsc`: Points to the platform description (`.dsc`) file, which dictates which components are included in the final firmware.
+*   `-b DEBUG`: Specifies a debug build, which includes extra symbols and information useful for development. For release builds, you would use `-b RELEASE`.
+
+After a successful build, the resulting firmware artifacts will be located in the `edk2/Build/ArmVirtQemu-AArch64/DEBUG_GCC5/FV/` directory. The primary output file is typically `QEMU_EFI.fd`.
+
+## Running the Firmware with QEMU
+
+After successfully building the firmware, you can test it by running it in QEMU. This allows you to boot a virtual machine using your compiled firmware.
+
+### Execute QEMU on the host system (not in the development container)
+
+From the project root, run the following command:
+
+```bash
+qemu-system-aarch64 \
+  -M virt \
+  -cpu cortex-a57 \
+  -m 1024 \
+  -bios edk2/Build/ArmVirtQemu-AArch64/DEBUG_GCC5/FV/QEMU_EFI.fd \
+  -nographic \
+  -serial pty
+```
+
+Attach the serial console by running `screen` such as `screen /dev/pts/3`.
