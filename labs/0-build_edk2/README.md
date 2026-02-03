@@ -118,4 +118,4 @@ qemu-system-aarch64 \
   -serial pty
 ```
 
-Attach the serial console by running `screen` such as `screen /dev/pts/3`.
+Attach the serial console by running `screen` such as `screen /dev/pts/3`. Or using `minicom` like `minicom -b 115200 -p /dev/pts/3`.
