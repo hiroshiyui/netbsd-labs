@@ -17,6 +17,8 @@ export CVSROOT="anoncvs@anoncvs.NetBSD.org:/cvsroot"
 export CVS_RSH=ssh
 ```
 
+Run `source ./envsetup.sh` to load predefined paths.
+
 ### Check Out the Source Tree
 
 This command checks out the NetBSD source code into `usr/src`, which is the standard directory structure required by the build system.
