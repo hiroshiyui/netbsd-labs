@@ -1,6 +1,6 @@
 # NetBSD Labs: A Containerized Cross-Compilation Environment
 
-This repository provides a streamlined, container-based environment for cross-compiling the [NetBSD](https://www.netbsd.org/) operating system.ating system. By leveraging a container engine like [Podman](https://podman.io/) or [Docker](https://www.docker.com/), you can build NetBSD for various target architectures (e.g., ARM64/AArch64) without managing complex dependencies or altering your host system's configuration. This approach ensures a consistent, reproducible build process across different Linux distributions.
+This repository provides a streamlined, container-based environment for cross-compiling the [NetBSD](https://www.netbsd.org/) operating system. By leveraging a container engine like [Podman](https://podman.io/) or [Docker](https://www.docker.com/), you can build NetBSD for various target architectures (e.g., ARM64/AArch64) without managing complex dependencies or altering your host system's configuration. This approach ensures a consistent, reproducible build process across different Linux distributions.
 
 This guide also provides instructions for emulating the resulting NetBSD ARM64 system using [QEMU](https://www.qemu.org/).
 
