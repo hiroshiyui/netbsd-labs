@@ -1,13 +1,17 @@
 PWD := $(shell pwd)
 
-.PHONY: default run-container clean-dryrun clean
+.PHONY: default build-dev-container run-container clean-dryrun clean
 
 default:
 	@echo "** NetBSD Labs **"
 	@echo ""
+	@echo "  - build-dev-container: build development container"
 	@echo "  - run-container: run development container"
 	@echo "  - clean-dryrun: list files to be cleaned from Git repository"
 	@echo "  - clean: clean files from Git repository and rootfs in container"
+
+build-dev-container:
+	podman build --squash-all -t netbsd-labs .
 
 run-container:
 	podman run -it --rm -v "$(PWD)/usr":/work --name my-netbsd-labs netbsd-labs
