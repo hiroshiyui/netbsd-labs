@@ -1,0 +1,13 @@
+/Makefile.am/1.1.1.1.2.2/Sun Feb 25 15:46:11 2024//Tnetbsd-10-0-RELEASE
+/Makefile.in/1.1.1.5.2.1/Sun Feb 25 15:46:11 2024//Tnetbsd-10-0-RELEASE
+/dns_master_load.c/1.2.2.2/Sun Feb 25 15:46:11 2024//Tnetbsd-10-0-RELEASE
+/dns_message_checksig.c/1.2.2.2/Sun Feb 25 15:46:11 2024//Tnetbsd-10-0-RELEASE
+/dns_message_parse.c/1.2.2.2/Sun Feb 25 15:46:11 2024//Tnetbsd-10-0-RELEASE
+/dns_name_fromtext_target.c/1.5.2.1/Sun Feb 25 15:46:11 2024//Tnetbsd-10-0-RELEASE
+/dns_rdata_fromtext.c/1.2.2.2/Sun Feb 25 15:46:11 2024//Tnetbsd-10-0-RELEASE
+/dns_rdata_fromwire_text.c/1.6.2.1/Sun Feb 25 15:46:11 2024//Tnetbsd-10-0-RELEASE
+/fuzz.h/1.5.2.2/Sun Feb 25 15:46:11 2024//Tnetbsd-10-0-RELEASE
+/isc_lex_getmastertoken.c/1.2.2.2/Sun Feb 25 15:46:11 2024//Tnetbsd-10-0-RELEASE
+/isc_lex_gettoken.c/1.2.2.2/Sun Feb 25 15:46:11 2024//Tnetbsd-10-0-RELEASE
+/main.c/1.5.2.1/Sun Feb 25 15:46:11 2024//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,16 @@
+/CMakeLists.txt/1.1.1.1/Sun May 30 01:27:21 2021//Tnetbsd-10-0-RELEASE
+/VEAsmBackend.cpp/1.1.1.1/Sun May 30 01:27:21 2021//Tnetbsd-10-0-RELEASE
+/VEELFObjectWriter.cpp/1.1.1.1/Sun May 30 01:27:21 2021//Tnetbsd-10-0-RELEASE
+/VEFixupKinds.h/1.1.1.1/Sun May 30 01:27:21 2021//Tnetbsd-10-0-RELEASE
+/VEInstPrinter.cpp/1.1.1.1/Sun May 30 01:27:21 2021//Tnetbsd-10-0-RELEASE
+/VEInstPrinter.h/1.1.1.1/Sun May 30 01:27:21 2021//Tnetbsd-10-0-RELEASE
+/VEMCAsmInfo.cpp/1.1.1.1/Sun May 30 01:27:21 2021//Tnetbsd-10-0-RELEASE
+/VEMCAsmInfo.h/1.1.1.1/Sun May 30 01:27:21 2021//Tnetbsd-10-0-RELEASE
+/VEMCCodeEmitter.cpp/1.1.1.1/Sun May 30 01:27:21 2021//Tnetbsd-10-0-RELEASE
+/VEMCExpr.cpp/1.1.1.1/Sun May 30 01:27:21 2021//Tnetbsd-10-0-RELEASE
+/VEMCExpr.h/1.1.1.1/Sun May 30 01:27:21 2021//Tnetbsd-10-0-RELEASE
+/VEMCTargetDesc.cpp/1.1.1.1/Sun May 30 01:27:21 2021//Tnetbsd-10-0-RELEASE
+/VEMCTargetDesc.h/1.1.1.1/Sun May 30 01:27:21 2021//Tnetbsd-10-0-RELEASE
+/VETargetStreamer.cpp/1.1.1.1/Sun May 30 01:27:21 2021//Tnetbsd-10-0-RELEASE
+/VETargetStreamer.h/1.1.1.1/Sun May 30 01:27:21 2021//Tnetbsd-10-0-RELEASE
+D

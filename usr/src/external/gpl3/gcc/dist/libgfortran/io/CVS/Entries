@@ -1,0 +1,24 @@
+/async.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/async.h/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/close.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/fbuf.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/fbuf.h/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/file_pos.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/format.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/format.h/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/inquire.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/intrinsics.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/io.h/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/list_read.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/lock.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/open.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/read.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/size_from_kind.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/transfer.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/transfer128.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/unit.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/unix.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/unix.h/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/write.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/write_float.def/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+D

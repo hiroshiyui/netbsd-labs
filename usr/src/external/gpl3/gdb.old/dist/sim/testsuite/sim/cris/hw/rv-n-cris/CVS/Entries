@@ -1,0 +1,23 @@
+/host1.ms/1.5/Thu Oct 13 01:19:01 2016//Tnetbsd-10-0-RELEASE
+/irq1.ms/1.5/Thu Oct 13 01:19:01 2016//Tnetbsd-10-0-RELEASE
+/irq2.ms/1.5/Thu Oct 13 01:19:01 2016//Tnetbsd-10-0-RELEASE
+/irq3.ms/1.5/Thu Oct 13 01:19:01 2016//Tnetbsd-10-0-RELEASE
+/irq4.ms/1.5/Thu Oct 13 01:19:01 2016//Tnetbsd-10-0-RELEASE
+/irq5.ms/1.5/Thu Oct 13 01:19:01 2016//Tnetbsd-10-0-RELEASE
+/irq6.ms/1.5/Thu Oct 13 01:19:01 2016//Tnetbsd-10-0-RELEASE
+/mbox1.ms/1.5/Thu Oct 13 01:19:01 2016//Tnetbsd-10-0-RELEASE
+/mem1.ms/1.5/Thu Oct 13 01:19:01 2016//Tnetbsd-10-0-RELEASE
+/mem2.ms/1.5/Thu Oct 13 01:19:01 2016//Tnetbsd-10-0-RELEASE
+/poll1.ms/1.5/Thu Oct 13 01:19:01 2016//Tnetbsd-10-0-RELEASE
+/quit.s/1.5/Thu Oct 13 01:19:01 2016//Tnetbsd-10-0-RELEASE
+/rvc.exp/1.8/Mon Sep 14 00:40:36 2020//Tnetbsd-10-0-RELEASE
+/std.dev/1.5/Thu Oct 13 01:19:01 2016//Tnetbsd-10-0-RELEASE
+/testutils.inc/1.5/Thu Oct 13 01:19:01 2016//Tnetbsd-10-0-RELEASE
+/trivial1.ms/1.5/Thu Oct 13 01:19:01 2016//Tnetbsd-10-0-RELEASE
+/trivial2.ms/1.5/Thu Oct 13 01:19:01 2016//Tnetbsd-10-0-RELEASE
+/trivial3.ms/1.5/Thu Oct 13 01:19:01 2016//Tnetbsd-10-0-RELEASE
+/trivial4.ms/1.5/Thu Oct 13 01:19:01 2016//Tnetbsd-10-0-RELEASE
+/trivial4.r/1.5/Thu Oct 13 01:19:01 2016//Tnetbsd-10-0-RELEASE
+/trivial5.ms/1.5/Thu Oct 13 01:19:01 2016//Tnetbsd-10-0-RELEASE
+/wd1.ms/1.5/Thu Oct 13 01:19:01 2016//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,9 @@
+/crti-hw.S/1.1.1.4/Tue Aug 11 05:30:06 2020//Tnetbsd-10-0-RELEASE
+/crti.S/1.1.1.7/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/crtn.S/1.1.1.7/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/epilog.S/1.1.1.1/Fri Feb  2 01:59:13 2018//Tnetbsd-10-0-RELEASE
+/lib1funcs.S/1.1.1.7/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/prolog.S/1.1.1.1/Fri Feb  2 01:59:13 2018//Tnetbsd-10-0-RELEASE
+/sfp-machine.h/1.1.1.1/Fri Feb  2 01:59:13 2018//Tnetbsd-10-0-RELEASE
+/t-ft32/1.1.1.1/Fri Feb  2 01:59:13 2018//Tnetbsd-10-0-RELEASE
+D

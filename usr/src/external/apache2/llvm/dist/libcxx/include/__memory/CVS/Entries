@@ -1,0 +1,15 @@
+/addressof.h/1.1.1.1/Sun May 30 01:29:19 2021//Tnetbsd-10-0-RELEASE
+/allocation_guard.h/1.1.1.1/Sun May 30 01:29:19 2021//Tnetbsd-10-0-RELEASE
+/allocator.h/1.1.1.1/Sun May 30 01:29:19 2021//Tnetbsd-10-0-RELEASE
+/allocator_traits.h/1.1.1.1/Sun May 30 01:29:19 2021//Tnetbsd-10-0-RELEASE
+/auto_ptr.h/1.1.1.1/Sun May 30 01:29:19 2021//Tnetbsd-10-0-RELEASE
+/compressed_pair.h/1.1.1.1/Sun May 30 01:29:19 2021//Tnetbsd-10-0-RELEASE
+/construct_at.h/1.1.1.1/Sun May 30 01:29:19 2021//Tnetbsd-10-0-RELEASE
+/pointer_safety.h/1.1.1.1/Sun May 30 01:29:19 2021//Tnetbsd-10-0-RELEASE
+/pointer_traits.h/1.1.1.1/Sun May 30 01:29:19 2021//Tnetbsd-10-0-RELEASE
+/raw_storage_iterator.h/1.1.1.1/Sun May 30 01:29:19 2021//Tnetbsd-10-0-RELEASE
+/shared_ptr.h/1.1.1.1/Sun May 30 01:29:19 2021//Tnetbsd-10-0-RELEASE
+/temporary_buffer.h/1.1.1.1/Sun May 30 01:29:19 2021//Tnetbsd-10-0-RELEASE
+/uninitialized_algorithms.h/1.1.1.1/Sun May 30 01:29:19 2021//Tnetbsd-10-0-RELEASE
+/unique_ptr.h/1.1.1.1/Sun May 30 01:29:19 2021//Tnetbsd-10-0-RELEASE
+D

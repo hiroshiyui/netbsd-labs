@@ -1,0 +1,14 @@
+/CMakeLists.txt/1.1.1.2/Sun May 30 01:27:10 2021//Tnetbsd-10-0-RELEASE
+/WebAssemblyAsmBackend.cpp/1.1.1.2/Sun May 30 01:27:10 2021//Tnetbsd-10-0-RELEASE
+/WebAssemblyFixupKinds.h/1.1.1.2/Sun May 30 01:27:10 2021//Tnetbsd-10-0-RELEASE
+/WebAssemblyInstPrinter.cpp/1.1.1.2/Sun May 30 01:27:10 2021//Tnetbsd-10-0-RELEASE
+/WebAssemblyInstPrinter.h/1.1.1.2/Sun May 30 01:27:10 2021//Tnetbsd-10-0-RELEASE
+/WebAssemblyMCAsmInfo.cpp/1.1.1.1/Fri Nov  8 14:29:05 2019//Tnetbsd-10-0-RELEASE
+/WebAssemblyMCAsmInfo.h/1.1.1.1/Fri Nov  8 14:29:05 2019//Tnetbsd-10-0-RELEASE
+/WebAssemblyMCCodeEmitter.cpp/1.1.1.2/Sun May 30 01:27:10 2021//Tnetbsd-10-0-RELEASE
+/WebAssemblyMCTargetDesc.cpp/1.1.1.2/Sun May 30 01:27:10 2021//Tnetbsd-10-0-RELEASE
+/WebAssemblyMCTargetDesc.h/1.1.1.2/Sun May 30 01:27:10 2021//Tnetbsd-10-0-RELEASE
+/WebAssemblyTargetStreamer.cpp/1.1.1.2/Sun May 30 01:27:10 2021//Tnetbsd-10-0-RELEASE
+/WebAssemblyTargetStreamer.h/1.1.1.2/Sun May 30 01:27:10 2021//Tnetbsd-10-0-RELEASE
+/WebAssemblyWasmObjectWriter.cpp/1.1.1.2/Sun May 30 01:27:10 2021//Tnetbsd-10-0-RELEASE
+D

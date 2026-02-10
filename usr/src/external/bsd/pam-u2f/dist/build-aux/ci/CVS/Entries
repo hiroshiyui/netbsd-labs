@@ -1,0 +1,7 @@
+/build-linux-clang.sh/1.1.1.1/Fri Sep 24 12:51:20 2021//Tnetbsd-10-0-RELEASE
+/build-linux-gcc.sh/1.1.1.1/Fri Sep 24 12:51:20 2021//Tnetbsd-10-0-RELEASE
+/build-osx.sh/1.1.1.2/Fri Sep 24 12:51:20 2021//Tnetbsd-10-0-RELEASE
+/distcheck.sh/1.1.1.1/Fri Sep 24 12:51:20 2021//Tnetbsd-10-0-RELEASE
+/format-code.sh/1.1.1.2/Fri Sep 24 12:51:20 2021//Tnetbsd-10-0-RELEASE
+/fuzz-linux-asan.sh/1.1.1.1/Fri Sep 24 12:51:20 2021//Tnetbsd-10-0-RELEASE
+D

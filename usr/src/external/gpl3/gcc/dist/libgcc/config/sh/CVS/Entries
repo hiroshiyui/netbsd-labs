@@ -1,0 +1,17 @@
+/crt.h/1.1.1.8/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/crt1.S/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/crti.S/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/crtn.S/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/lib1funcs-4-300.S/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/lib1funcs-Os-4-200.S/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/lib1funcs.S/1.1.1.10/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/lib1funcs.h/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/libgcc-excl.ver/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-10-0-RELEASE
+/libgcc-glibc.ver/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/linux-atomic.c/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/linux-unwind.h/1.1.1.11/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/t-linux/1.1.1.2/Sat Mar  1 08:41:47 2014//Tnetbsd-10-0-RELEASE
+/t-netbsd/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-10-0-RELEASE
+/t-sh/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/t-superh/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,7 @@
+/Makefile/1.1/Wed Aug 26 16:03:42 2020//Tnetbsd-10-0-RELEASE
+/common.sh/1.1/Wed Aug 26 16:03:42 2020//Tnetbsd-10-0-RELEASE
+/t_basic.sh/1.4/Tue Mar  2 07:16:24 2021//Tnetbsd-10-0-RELEASE
+/t_interoperability.sh/1.1/Wed Aug 26 16:03:42 2020//Tnetbsd-10-0-RELEASE
+/t_misc.sh/1.12/Mon Jun 13 07:59:15 2022//Tnetbsd-10-0-RELEASE
+/t_tunnel.sh/1.2/Sat Aug 29 07:22:49 2020//Tnetbsd-10-0-RELEASE
+D

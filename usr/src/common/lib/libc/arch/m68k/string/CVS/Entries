@@ -1,0 +1,17 @@
+/bcmp.S/1.6/Sat Sep  7 19:06:29 2013//Tnetbsd-10-0-RELEASE
+/bcopy.S/1.6/Sat Sep  7 19:06:29 2013//Tnetbsd-10-0-RELEASE
+/bzero.S/1.6/Sat Sep  7 19:06:29 2013//Tnetbsd-10-0-RELEASE
+/ffs.S/1.8/Tue Mar 10 08:15:44 2020//Tnetbsd-10-0-RELEASE
+/memcmp.S/1.5/Sat Sep  7 19:06:29 2013//Tnetbsd-10-0-RELEASE
+/memcpy.S/1.1/Tue Dec 20 19:28:49 2005//Tnetbsd-10-0-RELEASE
+/memmove.S/1.1/Tue Dec 20 19:28:49 2005//Tnetbsd-10-0-RELEASE
+/memset.S/1.7/Sat Sep  7 19:06:29 2013//Tnetbsd-10-0-RELEASE
+/strcat.S/1.4/Sat Sep  7 19:06:29 2013//Tnetbsd-10-0-RELEASE
+/strchr.S/1.4/Tue Jul 16 23:24:19 2013//Tnetbsd-10-0-RELEASE
+/strcmp.S/1.7/Sat Sep  7 19:06:29 2013//Tnetbsd-10-0-RELEASE
+/strcpy.S/1.4/Sat Sep  7 19:06:29 2013//Tnetbsd-10-0-RELEASE
+/strlen.S/1.4/Sat Sep  7 19:06:29 2013//Tnetbsd-10-0-RELEASE
+/strncmp.S/1.7/Sat Sep  7 19:06:29 2013//Tnetbsd-10-0-RELEASE
+/strncpy.S/1.5/Sat Sep  7 19:06:29 2013//Tnetbsd-10-0-RELEASE
+/strrchr.S/1.4/Tue Jul 16 23:24:19 2013//Tnetbsd-10-0-RELEASE
+D

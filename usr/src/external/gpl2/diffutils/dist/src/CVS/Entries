@@ -1,0 +1,19 @@
+/Makefile.am/1.1.1.1/Wed Jan 13 03:15:30 2016//Tnetbsd-10-0-RELEASE
+/Makefile.in/1.1.1.1/Wed Jan 13 03:15:30 2016//Tnetbsd-10-0-RELEASE
+/analyze.c/1.1.1.1/Wed Jan 13 03:15:30 2016//Tnetbsd-10-0-RELEASE
+/cmp.c/1.1.1.1/Wed Jan 13 03:15:30 2016//Tnetbsd-10-0-RELEASE
+/context.c/1.2/Wed Jan 13 03:39:28 2016//Tnetbsd-10-0-RELEASE
+/diff.c/1.2/Wed Jan 13 03:39:28 2016//Tnetbsd-10-0-RELEASE
+/diff.h/1.1.1.1/Wed Jan 13 03:15:30 2016//Tnetbsd-10-0-RELEASE
+/diff3.c/1.2/Wed Jan 13 03:39:28 2016//Tnetbsd-10-0-RELEASE
+/dir.c/1.1.1.1/Wed Jan 13 03:15:30 2016//Tnetbsd-10-0-RELEASE
+/ed.c/1.1.1.1/Wed Jan 13 03:15:30 2016//Tnetbsd-10-0-RELEASE
+/ifdef.c/1.1.1.1/Wed Jan 13 03:15:30 2016//Tnetbsd-10-0-RELEASE
+/io.c/1.1.1.1/Wed Jan 13 03:15:30 2016//Tnetbsd-10-0-RELEASE
+/normal.c/1.1.1.1/Wed Jan 13 03:15:30 2016//Tnetbsd-10-0-RELEASE
+/sdiff.c/1.2/Wed Jan 13 03:39:28 2016//Tnetbsd-10-0-RELEASE
+/side.c/1.1.1.1/Wed Jan 13 03:15:30 2016//Tnetbsd-10-0-RELEASE
+/system.h/1.2/Wed Jan 13 03:39:28 2016//Tnetbsd-10-0-RELEASE
+/util.c/1.2/Sun Dec 13 00:04:40 2020//Tnetbsd-10-0-RELEASE
+/version.c/1.1.1.1/Wed Jan 13 03:15:30 2016//Tnetbsd-10-0-RELEASE
+D

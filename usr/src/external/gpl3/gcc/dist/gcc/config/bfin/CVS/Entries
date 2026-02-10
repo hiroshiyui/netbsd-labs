@@ -1,0 +1,20 @@
+/bfin-modes.def/1.1.1.10/Sat Apr 10 22:09:44 2021//Tnetbsd-10-0-RELEASE
+/bfin-opts.h/1.1.1.9/Sat Apr 10 22:09:44 2021//Tnetbsd-10-0-RELEASE
+/bfin-protos.h/1.1.1.10/Sat Apr 10 22:09:44 2021//Tnetbsd-10-0-RELEASE
+/bfin.c/1.1.1.10/Sat Apr 10 22:09:45 2021//Tnetbsd-10-0-RELEASE
+/bfin.h/1.1.1.10/Sat Apr 10 22:09:44 2021//Tnetbsd-10-0-RELEASE
+/bfin.md/1.1.1.10/Sat Apr 10 22:09:44 2021//Tnetbsd-10-0-RELEASE
+/bfin.opt/1.1.1.10/Sat Apr 10 22:09:44 2021//Tnetbsd-10-0-RELEASE
+/constraints.md/1.1.1.10/Sat Apr 10 22:09:44 2021//Tnetbsd-10-0-RELEASE
+/elf.h/1.1.1.10/Sat Apr 10 22:09:44 2021//Tnetbsd-10-0-RELEASE
+/linux.h/1.1.1.10/Sat Apr 10 22:09:44 2021//Tnetbsd-10-0-RELEASE
+/predicates.md/1.1.1.10/Sat Apr 10 22:09:44 2021//Tnetbsd-10-0-RELEASE
+/print-sysroot-suffix.sh/1.1.1.10/Sat Apr 10 22:09:44 2021//Tnetbsd-10-0-RELEASE
+/rtems.h/1.1.1.10/Sat Apr 10 22:09:44 2021//Tnetbsd-10-0-RELEASE
+/sync.md/1.1.1.10/Sat Apr 10 22:09:44 2021//Tnetbsd-10-0-RELEASE
+/t-bfin-elf/1.1.1.10/Sat Apr 10 22:09:44 2021//Tnetbsd-10-0-RELEASE
+/t-bfin-linux/1.1.1.10/Sat Apr 10 22:09:44 2021//Tnetbsd-10-0-RELEASE
+/t-bfin-uclinux/1.1.1.10/Sat Apr 10 22:09:44 2021//Tnetbsd-10-0-RELEASE
+/t-rtems/1.1.1.1/Tue Jun 21 01:22:08 2011//Tnetbsd-10-0-RELEASE
+/uclinux.h/1.1.1.10/Sat Apr 10 22:09:44 2021//Tnetbsd-10-0-RELEASE
+D

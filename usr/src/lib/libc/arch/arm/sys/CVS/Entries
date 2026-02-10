@@ -1,0 +1,15 @@
+/__aeabi_read_tp.S/1.5/Mon Aug 19 22:10:51 2013//Tnetbsd-10-0-RELEASE
+/__clone.S/1.14/Wed Jun 30 21:20:30 2021//Tnetbsd-10-0-RELEASE
+/__sigtramp2.S/1.5/Sat Nov 27 10:00:01 2021//Tnetbsd-10-0-RELEASE
+/__syscall.S/1.4/Thu Aug  7 16:42:03 2003//Tnetbsd-10-0-RELEASE
+/__vfork14.S/1.10/Tue Sep  3 00:30:19 2013//Tnetbsd-10-0-RELEASE
+/brk.S/1.13/Thu Sep 12 15:36:15 2013//Tnetbsd-10-0-RELEASE
+/cerror.S/1.13/Sat Nov 30 20:20:42 2013//Tnetbsd-10-0-RELEASE
+/fork.S/1.7/Fri Aug 16 22:28:05 2013//Tnetbsd-10-0-RELEASE
+/getcontext.S/1.10/Tue Sep  3 00:30:19 2013//Tnetbsd-10-0-RELEASE
+/pipe.S/1.8/Fri Aug 16 22:21:59 2013//Tnetbsd-10-0-RELEASE
+/ptrace.S/1.12/Sat Nov 30 20:20:42 2013//Tnetbsd-10-0-RELEASE
+/sbrk.S/1.12/Thu Sep 12 15:36:15 2013//Tnetbsd-10-0-RELEASE
+/shmat.S/1.1/Fri Dec 29 20:14:04 2000//Tnetbsd-10-0-RELEASE
+/syscall.S/1.5/Sat Apr 18 23:55:50 2020//Tnetbsd-10-0-RELEASE
+D

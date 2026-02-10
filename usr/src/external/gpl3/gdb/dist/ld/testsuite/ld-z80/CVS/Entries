@@ -1,0 +1,26 @@
+/arch_default.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/arch_ez80_adl.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/arch_ez80_z80.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/arch_r800.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/arch_z180.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/arch_z80.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/arch_z80n.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/comb_arch_ez80_z80.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/comb_arch_z180_z80.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/comb_arch_z80_ez80.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/comb_arch_z80_z180.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/comb_arch_z80_z80n.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/dummy1.s/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/dummy2.s/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/jr.s/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/jr_b.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/jr_f.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/labels.s/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/relocs.s/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/relocs_b_ez80.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/relocs_b_z80.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/relocs_f_ez80.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/relocs_f_z80.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/relocs_f_z80n.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/z80.exp/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,16 @@
+/ASTSelection.h/1.1.1.2/Sun May 30 01:25:25 2021//Tnetbsd-10-0-RELEASE
+/AtomicChange.h/1.1.1.2/Sun May 30 01:25:24 2021//Tnetbsd-10-0-RELEASE
+/Lookup.h/1.1.1.1/Sun May 30 01:25:25 2021//Tnetbsd-10-0-RELEASE
+/RecursiveSymbolVisitor.h/1.1.1.2/Sun May 30 01:25:25 2021//Tnetbsd-10-0-RELEASE
+/RefactoringAction.h/1.1.1.1/Fri Nov  8 14:30:10 2019//Tnetbsd-10-0-RELEASE
+/RefactoringActionRule.h/1.1.1.2/Sun May 30 01:25:25 2021//Tnetbsd-10-0-RELEASE
+/RefactoringActionRuleRequirements.h/1.1.1.1/Fri Nov  8 14:30:10 2019//Tnetbsd-10-0-RELEASE
+/RefactoringActionRules.h/1.1.1.1/Fri Nov  8 14:30:10 2019//Tnetbsd-10-0-RELEASE
+/RefactoringActionRulesInternal.h/1.1.1.1/Fri Nov  8 14:30:10 2019//Tnetbsd-10-0-RELEASE
+/RefactoringDiagnostic.h/1.1.1.1/Fri Nov  8 14:30:10 2019//Tnetbsd-10-0-RELEASE
+/RefactoringOption.h/1.1.1.1/Fri Nov  8 14:30:10 2019//Tnetbsd-10-0-RELEASE
+/RefactoringOptionVisitor.h/1.1.1.1/Fri Nov  8 14:30:10 2019//Tnetbsd-10-0-RELEASE
+/RefactoringOptions.h/1.1.1.2/Sun May 30 01:25:25 2021//Tnetbsd-10-0-RELEASE
+/RefactoringResultConsumer.h/1.1.1.1/Fri Nov  8 14:30:10 2019//Tnetbsd-10-0-RELEASE
+/RefactoringRuleContext.h/1.1.1.2/Sun May 30 01:25:25 2021//Tnetbsd-10-0-RELEASE
+D

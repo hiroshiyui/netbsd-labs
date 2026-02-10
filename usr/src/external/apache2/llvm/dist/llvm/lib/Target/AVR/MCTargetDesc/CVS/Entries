@@ -1,0 +1,22 @@
+/AVRAsmBackend.cpp/1.1.1.2/Sun May 30 01:27:14 2021//Tnetbsd-10-0-RELEASE
+/AVRAsmBackend.h/1.1.1.2/Sun May 30 01:27:14 2021//Tnetbsd-10-0-RELEASE
+/AVRELFObjectWriter.cpp/1.1.1.2/Sun May 30 01:27:14 2021//Tnetbsd-10-0-RELEASE
+/AVRELFStreamer.cpp/1.1.1.1/Fri Nov  8 14:29:02 2019//Tnetbsd-10-0-RELEASE
+/AVRELFStreamer.h/1.1.1.1/Fri Nov  8 14:29:02 2019//Tnetbsd-10-0-RELEASE
+/AVRFixupKinds.h/1.1.1.2/Sun May 30 01:27:14 2021//Tnetbsd-10-0-RELEASE
+/AVRInstPrinter.cpp/1.1.1.2/Sun May 30 01:27:14 2021//Tnetbsd-10-0-RELEASE
+/AVRInstPrinter.h/1.1.1.2/Sun May 30 01:27:14 2021//Tnetbsd-10-0-RELEASE
+/AVRMCAsmInfo.cpp/1.1.1.2/Sun May 30 01:27:14 2021//Tnetbsd-10-0-RELEASE
+/AVRMCAsmInfo.h/1.1.1.1/Fri Nov  8 14:29:02 2019//Tnetbsd-10-0-RELEASE
+/AVRMCCodeEmitter.cpp/1.1.1.2/Sun May 30 01:27:14 2021//Tnetbsd-10-0-RELEASE
+/AVRMCCodeEmitter.h/1.1.1.1/Fri Nov  8 14:29:02 2019//Tnetbsd-10-0-RELEASE
+/AVRMCELFStreamer.cpp/1.1.1.2/Sun May 30 01:27:14 2021//Tnetbsd-10-0-RELEASE
+/AVRMCELFStreamer.h/1.1.1.2/Sun May 30 01:27:14 2021//Tnetbsd-10-0-RELEASE
+/AVRMCExpr.cpp/1.1.1.2/Sun May 30 01:27:14 2021//Tnetbsd-10-0-RELEASE
+/AVRMCExpr.h/1.1.1.2/Sun May 30 01:27:14 2021//Tnetbsd-10-0-RELEASE
+/AVRMCTargetDesc.cpp/1.1.1.2/Sun May 30 01:27:14 2021//Tnetbsd-10-0-RELEASE
+/AVRMCTargetDesc.h/1.1.1.2/Sun May 30 01:27:14 2021//Tnetbsd-10-0-RELEASE
+/AVRTargetStreamer.cpp/1.1.1.2/Sun May 30 01:27:14 2021//Tnetbsd-10-0-RELEASE
+/AVRTargetStreamer.h/1.1.1.1/Fri Nov  8 14:29:02 2019//Tnetbsd-10-0-RELEASE
+/CMakeLists.txt/1.1.1.2/Sun May 30 01:27:14 2021//Tnetbsd-10-0-RELEASE
+D

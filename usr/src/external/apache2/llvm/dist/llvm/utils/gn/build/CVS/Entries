@@ -1,0 +1,18 @@
+/BUILD.gn/1.1.1.2/Sun May 30 01:28:20 2021//Tnetbsd-10-0-RELEASE
+/BUILDCONFIG.gn/1.1.1.1/Fri Nov  8 14:28:11 2019//Tnetbsd-10-0-RELEASE
+/buildflags.gni/1.1.1.2/Sun May 30 01:28:20 2021//Tnetbsd-10-0-RELEASE
+/fuzzer.gni/1.1.1.1/Fri Nov  8 14:28:11 2019//Tnetbsd-10-0-RELEASE
+/mac_sdk.gni/1.1.1.2/Sun May 30 01:28:20 2021//Tnetbsd-10-0-RELEASE
+/run_tablegen.py/1.1.1.1/Fri Nov  8 14:28:11 2019//Tnetbsd-10-0-RELEASE
+/symbol_exports.gni/1.1.1.1/Sun May 30 01:28:20 2021//Tnetbsd-10-0-RELEASE
+/symbol_exports.py/1.1.1.1/Sun May 30 01:28:20 2021//Tnetbsd-10-0-RELEASE
+/symlink_or_copy.gni/1.1.1.2/Sun May 30 01:28:20 2021//Tnetbsd-10-0-RELEASE
+/symlink_or_copy.py/1.1.1.1/Fri Nov  8 14:28:11 2019//Tnetbsd-10-0-RELEASE
+/sync_source_lists_from_cmake.py/1.1.1.2/Sun May 30 01:28:20 2021//Tnetbsd-10-0-RELEASE
+/sysroot.gni/1.1.1.1/Sun May 30 01:28:20 2021//Tnetbsd-10-0-RELEASE
+/write_cmake_config.gni/1.1.1.2/Sun May 30 01:28:20 2021//Tnetbsd-10-0-RELEASE
+/write_cmake_config.py/1.1.1.2/Sun May 30 01:28:20 2021//Tnetbsd-10-0-RELEASE
+/write_library_dependencies.py/1.1.1.1/Sun May 30 01:28:20 2021//Tnetbsd-10-0-RELEASE
+/write_vcsrevision.gni/1.1.1.1/Sun May 30 01:28:20 2021//Tnetbsd-10-0-RELEASE
+/write_vcsrevision.py/1.1.1.2/Sun May 30 01:28:20 2021//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,20 @@
+/ChangeLog/1.1.1.1/Tue Jan 12 19:50:35 2016//Tnetbsd-10-0-RELEASE
+/Makefile.am/1.1.1.1/Tue Jan 12 19:50:35 2016//Tnetbsd-10-0-RELEASE
+/Makefile.in/1.1.1.1/Tue Jan 12 19:50:35 2016//Tnetbsd-10-0-RELEASE
+/dfa.c/1.1.1.1/Tue Jan 12 19:50:35 2016//Tnetbsd-10-0-RELEASE
+/dfa.h/1.1.1.1/Tue Jan 12 19:50:35 2016//Tnetbsd-10-0-RELEASE
+/hard-locale.c/1.1.1.1/Tue Jan 12 19:50:35 2016//Tnetbsd-10-0-RELEASE
+/hard-locale.h/1.1.1.1/Tue Jan 12 19:50:35 2016//Tnetbsd-10-0-RELEASE
+/kwset.c/1.1.1.1/Tue Jan 12 19:50:35 2016//Tnetbsd-10-0-RELEASE
+/kwset.h/1.1.1.1/Tue Jan 12 19:50:35 2016//Tnetbsd-10-0-RELEASE
+/libgrep.h/1.1.1.1/Tue Jan 12 19:50:35 2016//Tnetbsd-10-0-RELEASE
+/m-common.c/1.1.1.1/Tue Jan 12 19:50:35 2016//Tnetbsd-10-0-RELEASE
+/m-common.h/1.1.1.1/Tue Jan 12 19:50:35 2016//Tnetbsd-10-0-RELEASE
+/m-fgrep.c/1.1.1.1/Tue Jan 12 19:50:35 2016//Tnetbsd-10-0-RELEASE
+/m-regex.c/1.1.1.1/Tue Jan 12 19:50:35 2016//Tnetbsd-10-0-RELEASE
+/memchr.c/1.1.1.1/Tue Jan 12 19:50:35 2016//Tnetbsd-10-0-RELEASE
+/regex.c/1.1.1.1/Tue Jan 12 19:50:35 2016//Tnetbsd-10-0-RELEASE
+/regex.h/1.1.1.1/Tue Jan 12 19:50:35 2016//Tnetbsd-10-0-RELEASE
+/strdup.c/1.1.1.1/Tue Jan 12 19:50:35 2016//Tnetbsd-10-0-RELEASE
+/strdup.h/1.1.1.1/Tue Jan 12 19:50:35 2016//Tnetbsd-10-0-RELEASE
+D

@@ -1,12 +1,11 @@
 !.gitkeep
 
-src/
 bin/
 obj/
 release/
 scripts/
-tools/
 tmp/
+tools/
 
 rootfs_qemu/
 qemu_disk.img

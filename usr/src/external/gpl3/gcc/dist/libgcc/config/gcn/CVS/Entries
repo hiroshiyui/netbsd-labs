@@ -1,0 +1,10 @@
+/atomic.c/1.1.1.1/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/crt0.c/1.1.1.2/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/gthr-gcn.h/1.1.1.1/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/lib2-divmod-hi.c/1.1.1.2/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/lib2-divmod.c/1.1.1.2/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/lib2-gcn.h/1.1.1.2/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/sfp-machine.h/1.1.1.1/Sat Sep  5 07:52:06 2020//Tnetbsd-10-0-RELEASE
+/t-amdgcn/1.1.1.2/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/unwind-gcn.c/1.1.1.1/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+D

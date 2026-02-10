@@ -1,0 +1,21 @@
+/common.c/1.1.1.1/Tue Sep 15 01:44:07 2020//Tnetbsd-10-0-RELEASE
+/define.s/1.1.1.1/Tue Sep 15 01:44:07 2020//Tnetbsd-10-0-RELEASE
+/elf-offset.ld/1.1.1.1/Tue Sep 15 01:44:07 2020//Tnetbsd-10-0-RELEASE
+/elfvsb.dat/1.1.1.1/Tue Sep 15 01:44:07 2020//Tnetbsd-10-0-RELEASE
+/elfvsb.exp/1.1.1.1/Tue Sep 15 01:44:07 2020//Tnetbsd-10-0-RELEASE
+/hidden0.d/1.1.1.1/Tue Sep 15 01:44:07 2020//Tnetbsd-10-0-RELEASE
+/hidden1.d/1.1.1.1/Tue Sep 15 01:44:07 2020//Tnetbsd-10-0-RELEASE
+/hidden2.d/1.1.1.1/Tue Sep 15 01:44:07 2020//Tnetbsd-10-0-RELEASE
+/hidden2.ld/1.1.1.1/Tue Sep 15 01:44:07 2020//Tnetbsd-10-0-RELEASE
+/hidden2.s/1.1.1.1/Tue Sep 15 01:44:07 2020//Tnetbsd-10-0-RELEASE
+/internal0.d/1.1.1.1/Tue Sep 15 01:44:07 2020//Tnetbsd-10-0-RELEASE
+/internal1.d/1.1.1.1/Tue Sep 15 01:44:07 2020//Tnetbsd-10-0-RELEASE
+/main.c/1.1.1.1/Tue Sep 15 01:44:07 2020//Tnetbsd-10-0-RELEASE
+/protected0.d/1.1.1.1/Tue Sep 15 01:44:07 2020//Tnetbsd-10-0-RELEASE
+/protected1.d/1.1.1.1/Tue Sep 15 01:44:07 2020//Tnetbsd-10-0-RELEASE
+/sh1.c/1.1.1.1/Tue Sep 15 01:44:07 2020//Tnetbsd-10-0-RELEASE
+/sh2.c/1.1.1.1/Tue Sep 15 01:44:07 2020//Tnetbsd-10-0-RELEASE
+/sh3.c/1.1.1.1/Tue Sep 15 01:44:07 2020//Tnetbsd-10-0-RELEASE
+/test.c/1.1.1.1/Tue Sep 15 01:44:07 2020//Tnetbsd-10-0-RELEASE
+/undef.s/1.1.1.1/Tue Sep 15 01:44:07 2020//Tnetbsd-10-0-RELEASE
+D

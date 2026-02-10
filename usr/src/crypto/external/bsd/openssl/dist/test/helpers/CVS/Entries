@@ -1,0 +1,14 @@
+/cmp_testlib.c/1.1.1.1.2.2/Fri Aug 11 13:41:29 2023//Tnetbsd-10-0-RELEASE
+/cmp_testlib.h/1.1.1.1.2.2/Fri Aug 11 13:41:29 2023//Tnetbsd-10-0-RELEASE
+/handshake.c/1.1.1.1.2.2/Fri Aug 11 13:41:29 2023//Tnetbsd-10-0-RELEASE
+/handshake.h/1.1.1.1.2.2/Fri Aug 11 13:41:29 2023//Tnetbsd-10-0-RELEASE
+/handshake_srp.c/1.1.1.1.2.2/Fri Aug 11 13:41:29 2023//Tnetbsd-10-0-RELEASE
+/pkcs12.c/1.1.1.1.2.2/Fri Aug 11 13:41:29 2023//Tnetbsd-10-0-RELEASE
+/pkcs12.h/1.1.1.1.2.2/Fri Aug 11 13:41:29 2023//Tnetbsd-10-0-RELEASE
+/predefined_dhparams.c/1.1.1.1.2.2/Fri Aug 11 13:41:29 2023//Tnetbsd-10-0-RELEASE
+/predefined_dhparams.h/1.1.1.1.2.2/Fri Aug 11 13:41:29 2023//Tnetbsd-10-0-RELEASE
+/ssl_test_ctx.c/1.1.1.1.2.2/Fri Aug 11 13:41:29 2023//Tnetbsd-10-0-RELEASE
+/ssl_test_ctx.h/1.1.1.1.2.2/Fri Aug 11 13:41:29 2023//Tnetbsd-10-0-RELEASE
+/ssltestlib.c/1.1.1.2.2.3/Thu Nov  2 19:32:17 2023//Tnetbsd-10-0-RELEASE
+/ssltestlib.h/1.1.1.2.2.3/Thu Nov  2 19:32:17 2023//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,20 @@
+/Makefile/1.1.1.4.10.1/Fri Aug 11 13:40:48 2023//Tnetbsd-10-0-RELEASE
+/README.txt/1.1.1.1.2.2/Fri Aug 11 13:40:48 2023//Tnetbsd-10-0-RELEASE
+/accept.cnf/1.1.1.3.10.1/Fri Aug 11 13:40:48 2023//Tnetbsd-10-0-RELEASE
+/client-arg.c/1.1.1.3.2.1/Fri Aug 11 13:40:48 2023//Tnetbsd-10-0-RELEASE
+/client-conf.c/1.1.1.3.2.1/Fri Aug 11 13:40:48 2023//Tnetbsd-10-0-RELEASE
+/cmod.cnf/1.1.1.2.12.1/Fri Aug 11 13:40:48 2023//Tnetbsd-10-0-RELEASE
+/connect.cnf/1.1.1.2.10.1/Fri Aug 11 13:40:48 2023//Tnetbsd-10-0-RELEASE
+/descrip.mms/1.1.1.3/Thu Jan 23 02:48:04 2020//Tnetbsd-10-0-RELEASE
+/intca.pem/1.1.1.2/Sun Sep 23 13:17:50 2018//Tnetbsd-10-0-RELEASE
+/root.pem/1.1.1.2/Sun Sep 23 13:17:50 2018//Tnetbsd-10-0-RELEASE
+/saccept.c/1.1.1.5.10.1/Fri Aug 11 13:40:48 2023//Tnetbsd-10-0-RELEASE
+/sconnect.c/1.1.1.4.10.1/Fri Aug 11 13:40:48 2023//Tnetbsd-10-0-RELEASE
+/server-arg.c/1.1.1.3.10.1/Fri Aug 11 13:40:48 2023//Tnetbsd-10-0-RELEASE
+/server-cmod.c/1.1.1.2.10.1/Fri Aug 11 13:40:48 2023//Tnetbsd-10-0-RELEASE
+/server-conf.c/1.1.1.3.10.1/Fri Aug 11 13:40:48 2023//Tnetbsd-10-0-RELEASE
+/server-ec.pem/1.1.1.2/Sun Sep 23 13:17:50 2018//Tnetbsd-10-0-RELEASE
+/server.pem/1.1.1.4/Sun Sep 23 13:17:50 2018//Tnetbsd-10-0-RELEASE
+/shared.opt/1.1.1.1/Thu Feb  8 20:57:00 2018//Tnetbsd-10-0-RELEASE
+/static.opt/1.1.1.1/Thu Feb  8 20:57:00 2018//Tnetbsd-10-0-RELEASE
+D

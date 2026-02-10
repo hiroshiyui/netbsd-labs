@@ -1,0 +1,9 @@
+/ChangeLog/1.6/Mon Sep 14 00:40:01 2020//Tnetbsd-10-0-RELEASE
+/buildvms.com/1.8/Mon Sep 14 00:40:01 2020//Tnetbsd-10-0-RELEASE
+/i386-stub.c/1.5/Thu Oct 13 00:55:23 2016//Tnetbsd-10-0-RELEASE
+/ia64vms-stub.c/1.8/Mon Sep 14 00:40:01 2020//Tnetbsd-10-0-RELEASE
+/m32r-stub.c/1.5/Thu Oct 13 00:55:23 2016//Tnetbsd-10-0-RELEASE
+/m68k-stub.c/1.5/Thu Oct 13 00:55:23 2016//Tnetbsd-10-0-RELEASE
+/sh-stub.c/1.5/Thu Oct 13 00:55:23 2016//Tnetbsd-10-0-RELEASE
+/sparc-stub.c/1.5/Thu Oct 13 00:55:23 2016//Tnetbsd-10-0-RELEASE
+D

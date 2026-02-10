@@ -1,0 +1,22 @@
+/arith.s/1.1.1.1/Tue Sep 15 01:43:18 2020//Tnetbsd-10-0-RELEASE
+/basic.exp/1.1.1.1/Tue Sep 15 01:43:18 2020//Tnetbsd-10-0-RELEASE
+/bit.s/1.1.1.1/Tue Sep 15 01:43:18 2020//Tnetbsd-10-0-RELEASE
+/branch.s/1.1.1.1/Tue Sep 15 01:43:18 2020//Tnetbsd-10-0-RELEASE
+/compare.s/1.1.1.1/Tue Sep 15 01:43:18 2020//Tnetbsd-10-0-RELEASE
+/fepsw.s/1.1.1.1/Tue Sep 15 01:43:18 2020//Tnetbsd-10-0-RELEASE
+/hilo.s/1.1.1.1/Tue Sep 15 01:43:18 2020//Tnetbsd-10-0-RELEASE
+/hilo2.s/1.1.1.1/Tue Sep 15 01:43:18 2020//Tnetbsd-10-0-RELEASE
+/jumps.s/1.1.1.1/Tue Sep 15 01:43:18 2020//Tnetbsd-10-0-RELEASE
+/logical.s/1.1.1.1/Tue Sep 15 01:43:18 2020//Tnetbsd-10-0-RELEASE
+/mem.s/1.1.1.1/Tue Sep 15 01:43:18 2020//Tnetbsd-10-0-RELEASE
+/misc.s/1.1.1.1/Tue Sep 15 01:43:18 2020//Tnetbsd-10-0-RELEASE
+/move.s/1.1.1.1/Tue Sep 15 01:43:18 2020//Tnetbsd-10-0-RELEASE
+/pr19937.d/1.1.1.1/Tue Sep 15 01:43:18 2020//Tnetbsd-10-0-RELEASE
+/pr19937.s/1.1.1.1/Tue Sep 15 01:43:18 2020//Tnetbsd-10-0-RELEASE
+/range.s/1.1.1.1/Tue Sep 15 01:43:18 2020//Tnetbsd-10-0-RELEASE
+/reloc.s/1.1.1.1/Tue Sep 15 01:43:18 2020//Tnetbsd-10-0-RELEASE
+/split-lo16.d/1.1.1.1/Tue Sep 15 01:43:18 2020//Tnetbsd-10-0-RELEASE
+/split-lo16.s/1.1.1.1/Tue Sep 15 01:43:18 2020//Tnetbsd-10-0-RELEASE
+/v850e1.d/1.1.1.1/Tue Sep 15 01:43:18 2020//Tnetbsd-10-0-RELEASE
+/v850e1.s/1.1.1.1/Tue Sep 15 01:43:18 2020//Tnetbsd-10-0-RELEASE
+D

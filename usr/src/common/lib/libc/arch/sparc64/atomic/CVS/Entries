@@ -1,0 +1,11 @@
+/Makefile.inc/1.6/Sun Jan  4 17:54:29 2009//Tnetbsd-10-0-RELEASE
+/atomic_add.S/1.8/Wed Apr  6 22:47:57 2022//Tnetbsd-10-0-RELEASE
+/atomic_and.S/1.8/Wed Apr  6 22:47:57 2022//Tnetbsd-10-0-RELEASE
+/atomic_cas.S/1.8/Wed Apr  6 22:47:57 2022//Tnetbsd-10-0-RELEASE
+/atomic_dec.S/1.9/Wed Apr  6 22:47:57 2022//Tnetbsd-10-0-RELEASE
+/atomic_inc.S/1.8/Wed Apr  6 22:47:57 2022//Tnetbsd-10-0-RELEASE
+/atomic_op_asm.h/1.8/Wed Apr  6 22:47:57 2022//Tnetbsd-10-0-RELEASE
+/atomic_or.S/1.9/Wed Apr  6 22:47:57 2022//Tnetbsd-10-0-RELEASE
+/atomic_swap.S/1.8/Wed Apr  6 22:47:57 2022//Tnetbsd-10-0-RELEASE
+/membar_ops.S/1.9/Sat Apr  9 23:32:52 2022//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,11 @@
+/dname.c/1.1.1.5/Mon Mar 15 20:01:07 2021//Tnetbsd-10-0-RELEASE
+/dname.h/1.1.1.5/Sat Sep 24 18:09:00 2022//Tnetbsd-10-0-RELEASE
+/msgencode.c/1.1.1.6.2.1/Sat Feb 24 13:06:52 2024//Tnetbsd-10-0-RELEASE
+/msgencode.h/1.1.1.2.8.1/Sat Feb 24 13:06:52 2024//Tnetbsd-10-0-RELEASE
+/msgparse.c/1.1.1.6.2.1/Sat Feb 24 13:06:52 2024//Tnetbsd-10-0-RELEASE
+/msgparse.h/1.1.1.5.2.1/Sat Feb 24 13:06:52 2024//Tnetbsd-10-0-RELEASE
+/msgreply.c/1.1.1.7.2.1/Sat Feb 24 13:06:52 2024//Tnetbsd-10-0-RELEASE
+/msgreply.h/1.1.1.7.2.1/Sat Feb 24 13:06:52 2024//Tnetbsd-10-0-RELEASE
+/packed_rrset.c/1.1.1.4/Mon Mar 15 20:01:07 2021//Tnetbsd-10-0-RELEASE
+/packed_rrset.h/1.1.1.5/Sat Sep 24 18:09:00 2022//Tnetbsd-10-0-RELEASE
+D

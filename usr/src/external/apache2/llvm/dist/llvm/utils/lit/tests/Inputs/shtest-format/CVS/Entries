@@ -1,0 +1,18 @@
+/fail.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/lit.cfg/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/no-test-line.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/pass.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/requires-missing.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/requires-present.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/requires-star.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/requires-triple.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/unsupported-expr-false.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/unsupported-expr-true.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/unsupported-star.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/xfail-expr-false.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/xfail-expr-true.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/xfail-feature.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/xfail-target.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/xfail.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/xpass.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+D

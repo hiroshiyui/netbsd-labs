@@ -1,0 +1,15 @@
+/Makefile/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/init.c/1.2/Sat Aug 14 16:14:53 2021//Tnetbsd-10-0-RELEASE
+/jts.c/1.2/Sat Aug 14 16:14:53 2021//Tnetbsd-10-0-RELEASE
+/ldap_rbac.h/1.2/Sat Aug 14 16:14:53 2021//Tnetbsd-10-0-RELEASE
+/rbac.c/1.2/Sat Aug 14 16:14:53 2021//Tnetbsd-10-0-RELEASE
+/rbac.h/1.2/Sat Aug 14 16:14:53 2021//Tnetbsd-10-0-RELEASE
+/rbacacl.c/1.2/Sat Aug 14 16:14:53 2021//Tnetbsd-10-0-RELEASE
+/rbacaudit.c/1.2/Sat Aug 14 16:14:53 2021//Tnetbsd-10-0-RELEASE
+/rbacperm.c/1.2/Sat Aug 14 16:14:53 2021//Tnetbsd-10-0-RELEASE
+/rbacreq.c/1.2/Sat Aug 14 16:14:53 2021//Tnetbsd-10-0-RELEASE
+/rbacsess.c/1.2/Sat Aug 14 16:14:53 2021//Tnetbsd-10-0-RELEASE
+/rbacuser.c/1.2/Sat Aug 14 16:14:53 2021//Tnetbsd-10-0-RELEASE
+/slapo-rbac.5/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/util.c/1.2/Sat Aug 14 16:14:53 2021//Tnetbsd-10-0-RELEASE
+D

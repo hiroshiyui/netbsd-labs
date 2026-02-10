@@ -1,0 +1,8 @@
+/Makefrag.am/1.1.1.8/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/configfrag.ac/1.1.1.8/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/cuda-lib.def/1.1.1.2/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/hsa_ext_finalize.h/1.1.1.6/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/plugin-gcn.c/1.1.1.1/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/plugin-hsa.c/1.1.1.8/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/plugin-nvptx.c/1.1.1.8/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+D

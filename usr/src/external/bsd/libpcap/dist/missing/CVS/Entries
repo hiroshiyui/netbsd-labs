@@ -1,0 +1,10 @@
+/asprintf.c/1.1.1.1/Tue Oct  1 16:00:28 2019//Tnetbsd-10-0-RELEASE
+/getopt.c/1.1.1.2/Mon Sep  3 14:44:31 2018//Tnetbsd-10-0-RELEASE
+/getopt.h/1.1.1.2/Mon Sep  3 14:44:31 2018//Tnetbsd-10-0-RELEASE
+/snprintf.c/1.1.1.6/Tue Oct  1 16:00:28 2019//Tnetbsd-10-0-RELEASE
+/strlcat.c/1.1.1.1/Tue Oct  1 16:00:28 2019//Tnetbsd-10-0-RELEASE
+/strlcpy.c/1.1.1.1/Tue Oct  1 16:00:28 2019//Tnetbsd-10-0-RELEASE
+/strtok_r.c/1.1.1.2/Mon Sep  3 14:44:31 2018//Tnetbsd-10-0-RELEASE
+/win_asprintf.c/1.1.1.1/Tue Oct  1 16:00:28 2019//Tnetbsd-10-0-RELEASE
+/win_snprintf.c/1.1.1.2/Tue Oct  1 16:00:28 2019//Tnetbsd-10-0-RELEASE
+D

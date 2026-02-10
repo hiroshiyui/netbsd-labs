@@ -1,0 +1,11 @@
+/crti.S/1.1.1.9/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/crtn.S/1.1.1.9/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/fpgnulib.c/1.2/Sat Mar  1 09:44:51 2014//Tnetbsd-10-0-RELEASE
+/lb1sf68.S/1.9/Sun Apr 11 00:02:19 2021//Tnetbsd-10-0-RELEASE
+/linux-atomic.c/1.1.1.9/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/linux-unwind.h/1.1.1.11/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/t-floatlib/1.2/Sun Jun 29 05:02:15 2014//Tnetbsd-10-0-RELEASE
+/t-linux/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-10-0-RELEASE
+/t-netbsd-m68010/1.1/Sat Mar  1 09:26:01 2014//Tnetbsd-10-0-RELEASE
+/t-slibgcc-elf-ver/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,11 @@
+/blake2_mac_impl.c/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+/blake2b_mac.c/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+/blake2s_mac.c/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+/build.info/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+/cmac_prov.c/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+/gmac_prov.c/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+/hmac_prov.c/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+/kmac_prov.c/1.1.1.1.2.3/Thu Nov  2 19:32:16 2023//Tnetbsd-10-0-RELEASE
+/poly1305_prov.c/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+/siphash_prov.c/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+D

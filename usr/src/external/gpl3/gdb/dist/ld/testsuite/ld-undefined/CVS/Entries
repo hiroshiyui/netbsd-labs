@@ -1,0 +1,25 @@
+/dummy.s/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/entry-1.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/entry-2.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/entry-3.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/entry-4.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/entry-5.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/entry-6.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/entry-7.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/entry.exp/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/entry.s/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/fundef.s/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/require-defined-1.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/require-defined-2.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/require-defined-3.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/require-defined-4.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/require-defined-5.d/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/require-defined.exp/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/require-defined.s/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/undefined.c/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/undefined.exp/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/weak-fundef.s/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/weak-undef.exp/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/weak-undef.s/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+/weak-undef.t/1.1.1.1/Tue Sep 15 01:44:12 2020//Tnetbsd-10-0-RELEASE
+D

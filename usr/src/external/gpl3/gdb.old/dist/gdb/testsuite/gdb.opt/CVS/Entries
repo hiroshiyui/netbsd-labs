@@ -1,0 +1,15 @@
+/clobbered-registers-O2.c/1.8/Mon Sep 14 00:40:20 2020//Tnetbsd-10-0-RELEASE
+/clobbered-registers-O2.exp/1.8/Mon Sep 14 00:40:20 2020//Tnetbsd-10-0-RELEASE
+/inline-break.c/1.8/Mon Sep 14 00:40:20 2020//Tnetbsd-10-0-RELEASE
+/inline-break.exp/1.8/Mon Sep 14 00:40:20 2020//Tnetbsd-10-0-RELEASE
+/inline-bt.c/1.8/Mon Sep 14 00:40:20 2020//Tnetbsd-10-0-RELEASE
+/inline-bt.exp/1.8/Mon Sep 14 00:40:20 2020//Tnetbsd-10-0-RELEASE
+/inline-cmds.c/1.8/Mon Sep 14 00:40:20 2020//Tnetbsd-10-0-RELEASE
+/inline-cmds.exp/1.8/Mon Sep 14 00:40:20 2020//Tnetbsd-10-0-RELEASE
+/inline-locals.c/1.8/Mon Sep 14 00:40:20 2020//Tnetbsd-10-0-RELEASE
+/inline-locals.exp/1.8/Mon Sep 14 00:40:20 2020//Tnetbsd-10-0-RELEASE
+/inline-markers.c/1.8/Mon Sep 14 00:40:20 2020//Tnetbsd-10-0-RELEASE
+/solib-intra-step-lib.c/1.1.1.3/Sun Sep 13 21:45:16 2020//Tnetbsd-10-0-RELEASE
+/solib-intra-step-main.c/1.1.1.3/Sun Sep 13 21:45:16 2020//Tnetbsd-10-0-RELEASE
+/solib-intra-step.exp/1.1.1.3/Sun Sep 13 21:45:16 2020//Tnetbsd-10-0-RELEASE
+D

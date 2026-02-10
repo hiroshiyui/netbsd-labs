@@ -1,0 +1,19 @@
+/ashlsi3.c/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/ashrsi3.c/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/clrsbhi2.c/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/clzhi2.c/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/cmpsi2.c/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/ctzhi2.c/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/divsi3.c/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/ffshi2.c/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/lib2funcs.c/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/lshrsi3.c/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/modsi3.c/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/parityhi2.c/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/popcounthi2.c/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/t-stormy16/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/ucmpsi2.c/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/udivmodsi4.c/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/udivsi3.c/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/umodsi3.c/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+D

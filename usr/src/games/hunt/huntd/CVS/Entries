@@ -1,0 +1,14 @@
+/Makefile/1.10/Thu Apr 15 01:55:21 2021//Tnetbsd-10-0-RELEASE
+/answer.c/1.24/Sun May  2 12:50:45 2021//Tnetbsd-10-0-RELEASE
+/draw.c/1.10/Sun May  2 12:50:45 2021//Tnetbsd-10-0-RELEASE
+/driver.c/1.36/Sun May  2 12:50:45 2021//Tnetbsd-10-0-RELEASE
+/execute.c/1.13/Sun May  2 12:50:45 2021//Tnetbsd-10-0-RELEASE
+/expl.c/1.9/Sun May  2 12:50:45 2021//Tnetbsd-10-0-RELEASE
+/extern.c/1.11/Sun May  2 12:50:45 2021//Tnetbsd-10-0-RELEASE
+/hunt.h/1.32/Sun May  2 12:50:45 2021//Tnetbsd-10-0-RELEASE
+/huntd.6/1.12/Sun Mar 30 01:44:37 2014//Tnetbsd-10-0-RELEASE
+/makemaze.c/1.12/Sun May  2 12:50:45 2021//Tnetbsd-10-0-RELEASE
+/shots.c/1.16/Sun May  2 12:50:45 2021//Tnetbsd-10-0-RELEASE
+/support.c/1.2/Sat Mar 29 22:30:27 2014//Tnetbsd-10-0-RELEASE
+/terminal.c/1.8/Sun May  2 12:50:45 2021//Tnetbsd-10-0-RELEASE
+D

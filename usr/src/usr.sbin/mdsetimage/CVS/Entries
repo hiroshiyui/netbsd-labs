@@ -1,0 +1,12 @@
+/Makefile/1.17/Wed Sep 21 16:25:41 2016//Tnetbsd-10-0-RELEASE
+/bin.h/1.1/Wed Sep 21 16:25:41 2016//Tnetbsd-10-0-RELEASE
+/bin_nlist.c/1.1/Wed Sep 21 16:25:41 2016//Tnetbsd-10-0-RELEASE
+/exec_aout.c/1.8/Wed Sep 21 16:25:41 2016//Tnetbsd-10-0-RELEASE
+/exec_coff.c/1.7/Wed Sep 21 16:27:55 2016//Tnetbsd-10-0-RELEASE
+/exec_ecoff.c/1.7/Wed Sep 21 16:27:55 2016//Tnetbsd-10-0-RELEASE
+/exec_elf32.c/1.13/Wed Sep 21 16:25:41 2016//Tnetbsd-10-0-RELEASE
+/exec_elf64.c/1.5/Mon Oct  1 23:32:34 2001//Tnetbsd-10-0-RELEASE
+/extern.h/1.10/Wed Sep 21 16:25:41 2016//Tnetbsd-10-0-RELEASE
+/mdsetimage.8/1.12/Wed Sep 21 16:25:41 2016//Tnetbsd-10-0-RELEASE
+/mdsetimage.c/1.25/Sun Jun 14 18:24:21 2020//Tnetbsd-10-0-RELEASE
+D

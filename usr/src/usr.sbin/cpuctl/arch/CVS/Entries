@@ -1,0 +1,11 @@
+/aarch64.c/1.21/Sat Apr 30 14:06:10 2022//Tnetbsd-10-0-RELEASE
+/arm.c/1.6/Sat Aug  6 18:26:43 2022//Tnetbsd-10-0-RELEASE
+/cpuctl_i386.h/1.6/Thu Oct  7 13:04:18 2021//Tnetbsd-10-0-RELEASE
+/i386-asm.S/1.7/Tue May 21 05:29:21 2019//Tnetbsd-10-0-RELEASE
+/i386.c/1.133.2.3/Sat Jul 29 10:07:59 2023//Tnetbsd-10-0-RELEASE
+/noarch.c/1.6/Tue Jan 16 08:23:18 2018//Tnetbsd-10-0-RELEASE
+/sparc.c/1.2/Sat Dec 11 19:24:22 2021//Tnetbsd-10-0-RELEASE
+/sparc64.c/1.2/Sat Dec 11 19:24:22 2021//Tnetbsd-10-0-RELEASE
+/x86_64-asm.S/1.7/Tue May 21 05:29:21 2019//Tnetbsd-10-0-RELEASE
+/x86_64.c/1.1/Mon May  5 17:54:14 2008//Tnetbsd-10-0-RELEASE
+D

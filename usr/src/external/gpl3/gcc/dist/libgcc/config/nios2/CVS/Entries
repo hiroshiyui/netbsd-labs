@@ -1,0 +1,15 @@
+/crti.S/1.1.1.8/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/crtn.S/1.1.1.8/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/elf-lib.h/1.1.1.1/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/lib2-divmod-hi.c/1.1.1.8/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/lib2-divmod.c/1.1.1.8/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/lib2-divtable.c/1.1.1.8/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/lib2-mul.c/1.1.1.8/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/lib2-nios2.h/1.1.1.8/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/linux-atomic.c/1.1.1.8/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/linux-unwind.h/1.1.1.10/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/sfp-machine.h/1.1.1.8/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/t-linux/1.1.1.1/Sun Jan 24 06:06:00 2016//Tnetbsd-10-0-RELEASE
+/t-nios2/1.1.1.1/Sun Jan 24 06:06:00 2016//Tnetbsd-10-0-RELEASE
+/tramp.c/1.1.1.8/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+D

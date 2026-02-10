@@ -1,0 +1,16 @@
+/Makefile/1.5.2.2/Fri Aug 11 13:41:54 2023//Tnetbsd-10-0-RELEASE
+/PROTO.in/1.1.2.2/Fri Aug 11 13:41:54 2023//Tnetbsd-10-0-RELEASE
+/der_digests_gen.c/1.1.2.2/Fri Aug 11 13:41:54 2023//Tnetbsd-10-0-RELEASE
+/der_dsa_gen.c/1.1.2.2/Fri Aug 11 13:41:54 2023//Tnetbsd-10-0-RELEASE
+/der_ec_gen.c/1.1.2.2/Fri Aug 11 13:41:54 2023//Tnetbsd-10-0-RELEASE
+/der_ecx_gen.c/1.1.2.2/Fri Aug 11 13:41:54 2023//Tnetbsd-10-0-RELEASE
+/der_rsa_gen.c/1.1.2.2/Fri Aug 11 13:41:54 2023//Tnetbsd-10-0-RELEASE
+/der_wrap_gen.c/1.1.2.2/Fri Aug 11 13:41:54 2023//Tnetbsd-10-0-RELEASE
+/mkinc/1.1.2.2/Fri Aug 11 13:41:54 2023//Tnetbsd-10-0-RELEASE
+/providers_common.inc/1.1.2.2/Fri Aug 11 13:41:54 2023//Tnetbsd-10-0-RELEASE
+/providers_common_der.inc/1.1.2.2/Fri Aug 11 13:41:54 2023//Tnetbsd-10-0-RELEASE
+/providers_implementations_ciphers.inc/1.1.2.2/Fri Aug 11 13:41:54 2023//Tnetbsd-10-0-RELEASE
+/providers_implementations_digests.inc/1.1.2.2/Fri Aug 11 13:41:54 2023//Tnetbsd-10-0-RELEASE
+/srcs.inc/1.1.2.2/Fri Aug 11 13:41:54 2023//Tnetbsd-10-0-RELEASE
+/ssl_record.inc/1.1.2.2/Fri Aug 11 13:41:54 2023//Tnetbsd-10-0-RELEASE
+D

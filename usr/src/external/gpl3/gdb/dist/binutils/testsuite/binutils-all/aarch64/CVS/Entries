@@ -1,0 +1,16 @@
+/aarch64.exp/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/illegal.d/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/illegal.s/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/in-order-all.d/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/in-order.d/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/objdump.d/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/objdump.s/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/out-of-order-all.d/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/out-of-order.T/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/out-of-order.d/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/out-of-order.s/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/sve-dwarf-registers.d/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/sve-dwarf-registers.s/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/unallocated-encoding.d/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/unallocated-encoding.s/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+D

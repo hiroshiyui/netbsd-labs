@@ -1,0 +1,12 @@
+/Makefile.am/1.1.1.5/Sun Dec 15 16:44:29 2019//Tnetbsd-10-0-RELEASE
+/Makefile.in/1.1.1.5/Sun Dec 15 16:44:29 2019//Tnetbsd-10-0-RELEASE
+/t_openpam_ctype.c/1.1.1.2/Sat May  6 19:32:38 2017//Tnetbsd-10-0-RELEASE
+/t_openpam_dispatch.c/1.1.1.1/Sat May  6 19:32:38 2017//Tnetbsd-10-0-RELEASE
+/t_openpam_readlinev.c/1.3/Sat May  6 19:50:10 2017//Tnetbsd-10-0-RELEASE
+/t_openpam_readword.c/1.3/Sat May  6 19:50:10 2017//Tnetbsd-10-0-RELEASE
+/t_pam_conv.c/1.1.1.1/Sat May  6 19:32:38 2017//Tnetbsd-10-0-RELEASE
+/t_pam_conv.h/1.1.1.1/Sat May  6 19:32:38 2017//Tnetbsd-10-0-RELEASE
+/t_pam_env.c/1.1.1.1/Sun Dec 15 16:44:29 2019//Tnetbsd-10-0-RELEASE
+/t_pam_err.c/1.1.1.1/Sun Dec 15 16:44:29 2019//Tnetbsd-10-0-RELEASE
+/t_pam_err.h/1.1.1.1/Sun Dec 15 16:44:29 2019//Tnetbsd-10-0-RELEASE
+D

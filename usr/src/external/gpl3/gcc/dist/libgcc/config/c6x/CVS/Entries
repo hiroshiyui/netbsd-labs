@@ -1,0 +1,23 @@
+/c6x-abi.h/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/crti.S/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/crtn.S/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/eqd.c/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/eqf.c/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/ged.c/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/gef.c/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/gtd.c/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/gtf.c/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/led.c/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/lef.c/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/lib1funcs.S/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/libgcc-eabi.ver/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/libunwind.S/1.1.1.2/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/ltd.c/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/ltf.c/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/pr-support.c/1.9/Sun Apr 11 00:02:18 2021//Tnetbsd-10-0-RELEASE
+/sfp-machine.h/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/t-elf/1.1.1.1/Sat Mar  1 08:41:46 2014//Tnetbsd-10-0-RELEASE
+/t-uclinux/1.1.1.1/Sat Mar  1 08:41:46 2014//Tnetbsd-10-0-RELEASE
+/unwind-c6x.c/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/unwind-c6x.h/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+D

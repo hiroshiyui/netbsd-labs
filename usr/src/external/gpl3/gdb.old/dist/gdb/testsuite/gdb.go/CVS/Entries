@@ -1,0 +1,22 @@
+/basic-types.exp/1.8/Mon Sep 14 00:40:19 2020//Tnetbsd-10-0-RELEASE
+/chan.exp/1.8/Mon Sep 14 00:40:19 2020//Tnetbsd-10-0-RELEASE
+/chan.go/1.5/Thu Oct 13 00:55:32 2016//Tnetbsd-10-0-RELEASE
+/handcall.exp/1.8/Mon Sep 14 00:40:19 2020//Tnetbsd-10-0-RELEASE
+/handcall.go/1.5/Thu Oct 13 00:55:32 2016//Tnetbsd-10-0-RELEASE
+/hello.exp/1.8/Mon Sep 14 00:40:19 2020//Tnetbsd-10-0-RELEASE
+/hello.go/1.5/Thu Oct 13 00:55:32 2016//Tnetbsd-10-0-RELEASE
+/integers.exp/1.8/Mon Sep 14 00:40:19 2020//Tnetbsd-10-0-RELEASE
+/integers.go/1.5/Thu Oct 13 00:55:32 2016//Tnetbsd-10-0-RELEASE
+/methods.exp/1.8/Mon Sep 14 00:40:19 2020//Tnetbsd-10-0-RELEASE
+/methods.go/1.5/Thu Oct 13 00:55:32 2016//Tnetbsd-10-0-RELEASE
+/package.exp/1.8/Mon Sep 14 00:40:19 2020//Tnetbsd-10-0-RELEASE
+/package1.go/1.5/Thu Oct 13 00:55:32 2016//Tnetbsd-10-0-RELEASE
+/package2.go/1.5/Thu Oct 13 00:55:32 2016//Tnetbsd-10-0-RELEASE
+/print.exp/1.8/Mon Sep 14 00:40:19 2020//Tnetbsd-10-0-RELEASE
+/strings.exp/1.8/Mon Sep 14 00:40:19 2020//Tnetbsd-10-0-RELEASE
+/strings.go/1.5/Thu Oct 13 00:55:32 2016//Tnetbsd-10-0-RELEASE
+/types.exp/1.8/Mon Sep 14 00:40:19 2020//Tnetbsd-10-0-RELEASE
+/types.go/1.5/Thu Oct 13 00:55:32 2016//Tnetbsd-10-0-RELEASE
+/unsafe.exp/1.8/Mon Sep 14 00:40:19 2020//Tnetbsd-10-0-RELEASE
+/unsafe.go/1.5/Thu Oct 13 00:55:32 2016//Tnetbsd-10-0-RELEASE
+D

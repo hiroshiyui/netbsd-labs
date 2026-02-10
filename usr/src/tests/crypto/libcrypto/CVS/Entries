@@ -1,0 +1,9 @@
+/Makefile/1.14.10.2/Mon Mar 25 14:14:55 2024//Tnetbsd-10-0-RELEASE
+/Makefile.inc/1.10.10.1/Fri Aug 11 13:43:42 2023//Tnetbsd-10-0-RELEASE
+/t_certs.sh/1.1/Sat Jul 10 16:43:25 2010//Tnetbsd-10-0-RELEASE
+/t_ciphers.sh/1.8/Wed Mar 27 21:14:54 2019//Tnetbsd-10-0-RELEASE
+/t_hashes.sh/1.4.10.1/Fri Aug 11 13:43:42 2023//Tnetbsd-10-0-RELEASE
+/t_libcrypto.sh/1.8.2.1/Fri Aug 11 13:43:42 2023//Tnetbsd-10-0-RELEASE
+/t_pubkey.sh/1.6.10.1/Fri Aug 11 13:43:42 2023//Tnetbsd-10-0-RELEASE
+/t_sha512trunc.c/1.2.2.2/Mon Mar 25 14:14:55 2024//Tnetbsd-10-0-RELEASE
+D

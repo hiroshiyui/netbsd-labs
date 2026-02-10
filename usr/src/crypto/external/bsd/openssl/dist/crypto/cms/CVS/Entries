@@ -1,0 +1,20 @@
+/build.info/1.1.1.1.14.1/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+/cms_asn1.c/1.1.1.9.6.1/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+/cms_att.c/1.1.1.5.6.1/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+/cms_cd.c/1.1.1.5.6.1/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+/cms_dd.c/1.1.1.4.6.1/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+/cms_dh.c/1.1.1.2.2.2/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+/cms_ec.c/1.1.1.2.2.2/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+/cms_enc.c/1.1.1.9.6.3/Thu Nov  2 19:32:08 2023//Tnetbsd-10-0-RELEASE
+/cms_env.c/1.1.1.13.2.2/Thu Nov  2 19:32:08 2023//Tnetbsd-10-0-RELEASE
+/cms_err.c/1.1.1.9.8.3/Thu Nov  2 19:32:08 2023//Tnetbsd-10-0-RELEASE
+/cms_ess.c/1.1.1.6.6.1/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+/cms_io.c/1.1.1.4.6.1/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+/cms_kari.c/1.1.1.5.6.1/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+/cms_lib.c/1.1.1.11.6.2/Thu Nov  2 19:32:08 2023//Tnetbsd-10-0-RELEASE
+/cms_local.h/1.1.1.1.10.2/Thu Nov  2 19:32:08 2023//Tnetbsd-10-0-RELEASE
+/cms_pwri.c/1.12.6.1/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+/cms_rsa.c/1.1.1.1.2.3/Thu Nov  2 19:32:08 2023//Tnetbsd-10-0-RELEASE
+/cms_sd.c/1.1.1.11.6.2/Thu Nov  2 19:32:08 2023//Tnetbsd-10-0-RELEASE
+/cms_smime.c/1.1.1.14.6.1/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+D

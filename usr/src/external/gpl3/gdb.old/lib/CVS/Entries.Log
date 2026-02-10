@@ -1,0 +1,17 @@
+A D/libbacktrace////
+A D/libbfd////
+A D/libctf////
+A D/libdecnumber////
+A D/libgdb////
+A D/libgdbsupport////
+A D/libgnulib////
+A D/libiberty////
+A D/libopcodes////
+A D/libreadline////
+A D/libsframe////
+A D/libsim////
+R D/libsframe////
+R D/libgnulib////
+R D/libgdbsupport////
+R D/libctf////
+R D/libbacktrace////

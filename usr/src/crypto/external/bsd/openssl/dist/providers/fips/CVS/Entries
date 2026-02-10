@@ -1,0 +1,8 @@
+/build.info/1.1.1.1.2.2/Fri Aug 11 13:41:15 2023//Tnetbsd-10-0-RELEASE
+/fips_entry.c/1.1.1.1.2.2/Fri Aug 11 13:41:15 2023//Tnetbsd-10-0-RELEASE
+/fipsprov.c/1.1.1.1.2.2/Fri Aug 11 13:41:16 2023//Tnetbsd-10-0-RELEASE
+/self_test.c/1.1.1.1.2.3/Thu Nov  2 19:32:15 2023//Tnetbsd-10-0-RELEASE
+/self_test.h/1.1.1.1.2.2/Fri Aug 11 13:41:16 2023//Tnetbsd-10-0-RELEASE
+/self_test_data.inc/1.1.1.1.2.2/Fri Aug 11 13:41:16 2023//Tnetbsd-10-0-RELEASE
+/self_test_kats.c/1.1.1.1.2.2/Fri Aug 11 13:41:16 2023//Tnetbsd-10-0-RELEASE
+D

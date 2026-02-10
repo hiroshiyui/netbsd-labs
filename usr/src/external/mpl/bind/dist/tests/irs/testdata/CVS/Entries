@@ -1,0 +1,19 @@
+/domain.conf/1.1.1.1.2.2/Sun Feb 25 15:47:49 2024//Tnetbsd-10-0-RELEASE
+/nameserver-v4.conf/1.1.1.1.2.2/Sun Feb 25 15:47:49 2024//Tnetbsd-10-0-RELEASE
+/nameserver-v6-scoped.conf/1.1.1.1.2.2/Sun Feb 25 15:47:49 2024//Tnetbsd-10-0-RELEASE
+/nameserver-v6.conf/1.1.1.1.2.2/Sun Feb 25 15:47:50 2024//Tnetbsd-10-0-RELEASE
+/options-attempts.conf/1.1.1.1.2.2/Sun Feb 25 15:47:50 2024//Tnetbsd-10-0-RELEASE
+/options-bad-ndots.conf/1.1.1.1.2.2/Sun Feb 25 15:47:50 2024//Tnetbsd-10-0-RELEASE
+/options-debug.conf/1.1.1.1.2.2/Sun Feb 25 15:47:50 2024//Tnetbsd-10-0-RELEASE
+/options-empty.conf/1.1.1.1.2.2/Sun Feb 25 15:47:50 2024//Tnetbsd-10-0-RELEASE
+/options-ndots.conf/1.1.1.1.2.2/Sun Feb 25 15:47:50 2024//Tnetbsd-10-0-RELEASE
+/options-timeout.conf/1.1.1.1.2.2/Sun Feb 25 15:47:50 2024//Tnetbsd-10-0-RELEASE
+/options-unknown.conf/1.1.1.1.2.2/Sun Feb 25 15:47:50 2024//Tnetbsd-10-0-RELEASE
+/options.conf/1.1.1.1.2.2/Sun Feb 25 15:47:50 2024//Tnetbsd-10-0-RELEASE
+/port.conf/1.1.1.1.2.2/Sun Feb 25 15:47:50 2024//Tnetbsd-10-0-RELEASE
+/resolv.conf/1.1.1.1.2.2/Sun Feb 25 15:47:50 2024//Tnetbsd-10-0-RELEASE
+/search.conf/1.1.1.1.2.2/Sun Feb 25 15:47:50 2024//Tnetbsd-10-0-RELEASE
+/sortlist-v4.conf/1.1.1.1.2.2/Sun Feb 25 15:47:50 2024//Tnetbsd-10-0-RELEASE
+/timeout.conf/1.1.1.1.2.2/Sun Feb 25 15:47:51 2024//Tnetbsd-10-0-RELEASE
+/unknown.conf/1.1.1.1.2.2/Sun Feb 25 15:47:51 2024//Tnetbsd-10-0-RELEASE
+D

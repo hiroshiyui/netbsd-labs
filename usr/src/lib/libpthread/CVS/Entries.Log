@@ -1,0 +1,11 @@
+A D/arch////
+A D/compat////
+A D/include////
+A D/machdep////
+A D/pthreads////
+A D/stdio////
+R D/stdio////
+R D/pthreads////
+R D/machdep////
+R D/include////
+R D/compat////

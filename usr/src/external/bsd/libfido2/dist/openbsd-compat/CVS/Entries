@@ -1,0 +1,26 @@
+/bsd-asprintf.c/1.1.1.1.2.2/Tue Sep  5 17:11:36 2023//Tnetbsd-10-0-RELEASE
+/bsd-getline.c/1.1.1.1/Tue Mar  3 00:11:47 2020//Tnetbsd-10-0-RELEASE
+/bsd-getpagesize.c/1.1.1.1/Tue Mar  3 00:11:47 2020//Tnetbsd-10-0-RELEASE
+/clock_gettime.c/1.1.1.1.6.1/Tue Sep  5 17:11:36 2023//Tnetbsd-10-0-RELEASE
+/endian_win32.c/1.1.1.1.2.1/Tue Sep  5 17:11:36 2023//Tnetbsd-10-0-RELEASE
+/err.h/1.1.1.1/Tue Mar  3 00:11:47 2020//Tnetbsd-10-0-RELEASE
+/explicit_bzero.c/1.1.1.1/Tue Mar  3 00:11:47 2020//Tnetbsd-10-0-RELEASE
+/explicit_bzero_win32.c/1.1.1.1/Tue Mar  3 00:11:47 2020//Tnetbsd-10-0-RELEASE
+/freezero.c/1.1.1.1/Thu Jun 17 00:38:07 2021//Tnetbsd-10-0-RELEASE
+/getopt.h/1.1.1.1/Tue Mar  3 00:11:47 2020//Tnetbsd-10-0-RELEASE
+/getopt_long.c/1.1.1.1/Tue Mar  3 00:11:47 2020//Tnetbsd-10-0-RELEASE
+/openbsd-compat.h/1.1.1.3.2.1/Tue Sep  5 17:11:36 2023//Tnetbsd-10-0-RELEASE
+/posix_ioctl_check.c/1.1.1.1/Thu Jun 17 00:38:07 2021//Tnetbsd-10-0-RELEASE
+/posix_win.c/1.1.1.1/Tue Mar  3 00:11:47 2020//Tnetbsd-10-0-RELEASE
+/posix_win.h/1.1.1.1/Tue Mar  3 00:11:47 2020//Tnetbsd-10-0-RELEASE
+/readpassphrase.c/1.1.1.1/Tue Mar  3 00:11:47 2020//Tnetbsd-10-0-RELEASE
+/readpassphrase.h/1.1.1.1/Tue Mar  3 00:11:47 2020//Tnetbsd-10-0-RELEASE
+/readpassphrase_win32.c/1.1.1.2/Fri Sep 24 12:43:29 2021//Tnetbsd-10-0-RELEASE
+/recallocarray.c/1.1.1.1/Tue Mar  3 00:11:47 2020//Tnetbsd-10-0-RELEASE
+/strlcat.c/1.1.1.1/Tue Mar  3 00:11:47 2020//Tnetbsd-10-0-RELEASE
+/strlcpy.c/1.1.1.1/Tue Mar  3 00:11:47 2020//Tnetbsd-10-0-RELEASE
+/strsep.c/1.1.1.1.2.2/Tue Sep  5 17:11:36 2023//Tnetbsd-10-0-RELEASE
+/time.h/1.1.1.2/Thu Jun 17 00:38:07 2021//Tnetbsd-10-0-RELEASE
+/timingsafe_bcmp.c/1.1.1.1/Tue Mar  3 00:11:47 2020//Tnetbsd-10-0-RELEASE
+/types.h/1.1.1.3/Thu Jun 17 00:38:07 2021//Tnetbsd-10-0-RELEASE
+D

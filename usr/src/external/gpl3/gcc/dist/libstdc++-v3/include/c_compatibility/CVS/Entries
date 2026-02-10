@@ -1,0 +1,26 @@
+/assert.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/complex.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/ctype.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/errno.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/fenv.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/float.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/inttypes.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/iso646.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/limits.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/locale.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/math.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/setjmp.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/signal.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/stdarg.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/stdbool.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/stddef.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/stdint.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/stdio.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/stdlib.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/string.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/tgmath.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/time.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/uchar.h/1.1.1.7/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/wchar.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+/wctype.h/1.1.1.10/Sat Apr 10 22:10:04 2021//Tnetbsd-10-0-RELEASE
+D

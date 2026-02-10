@@ -1,0 +1,23 @@
+/aors_n.asm/1.1.1.3/Tue Aug 22 09:40:49 2017//Tnetbsd-10-0-RELEASE
+/aorsmul_1.asm/1.1.1.2/Tue Aug 22 09:40:49 2017//Tnetbsd-10-0-RELEASE
+/aorsorrlsh1_n.asm/1.1.1.1/Tue Aug 22 09:40:49 2017//Tnetbsd-10-0-RELEASE
+/aorsorrlsh2_n.asm/1.1.1.1/Tue Aug 22 09:40:49 2017//Tnetbsd-10-0-RELEASE
+/aorsorrlshC_n.asm/1.1.1.1/Tue Aug 22 09:40:49 2017//Tnetbsd-10-0-RELEASE
+/bdiv_dbm1c.asm/1.1.1.3/Tue Aug 22 09:40:49 2017//Tnetbsd-10-0-RELEASE
+/bdiv_q_1.asm/1.1.1.1/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/cnd_aors_n.asm/1.1.1.1/Tue Aug 22 09:40:49 2017//Tnetbsd-10-0-RELEASE
+/dive_1.asm/1.1.1.4/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/divrem_1.asm/1.1.1.3/Tue Aug 22 09:40:49 2017//Tnetbsd-10-0-RELEASE
+/divrem_2.asm/1.1.1.4/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/gcd_11.asm/1.1.1.1/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/gmp-mparam.h/1.1.1.2/Tue Aug 22 09:40:49 2017//Tnetbsd-10-0-RELEASE
+/invert_limb.asm/1.1.1.3/Tue Aug 22 09:40:49 2017//Tnetbsd-10-0-RELEASE
+/mod_1_1.asm/1.1.1.2/Tue Aug 22 09:40:49 2017//Tnetbsd-10-0-RELEASE
+/mod_1_4.asm/1.1.1.2/Tue Aug 22 09:40:49 2017//Tnetbsd-10-0-RELEASE
+/mod_34lsub1.asm/1.1.1.3/Tue Aug 22 09:40:49 2017//Tnetbsd-10-0-RELEASE
+/mode1o.asm/1.1.1.3/Tue Aug 22 09:40:49 2017//Tnetbsd-10-0-RELEASE
+/mul_1.asm/1.1.1.3/Tue Aug 22 09:40:49 2017//Tnetbsd-10-0-RELEASE
+/mul_basecase.asm/1.1.1.3/Tue Aug 22 09:40:49 2017//Tnetbsd-10-0-RELEASE
+/rsh1aors_n.asm/1.1.1.1/Tue Aug 22 09:40:49 2017//Tnetbsd-10-0-RELEASE
+/sqr_basecase.asm/1.1.1.2/Tue Aug 22 09:40:49 2017//Tnetbsd-10-0-RELEASE
+D

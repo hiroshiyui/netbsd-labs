@@ -1,0 +1,23 @@
+/_i18n_number.h/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/_itoa.h/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/_itowa.h/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/add_n.c/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/addmul_1.c/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/cmp.c/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/divrem.c/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/flt1282mpn.c/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/fpioconst.c/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/fpioconst.h/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/gmp-impl.h/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/lshift.c/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/mul.c/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/mul_1.c/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/mul_n.c/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/printf_fp.c/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/printf_fphex.c/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/quadmath-printf.c/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/quadmath-printf.h/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/rshift.c/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/sub_n.c/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+/submul_1.c/1.1.1.1/Sat Sep  5 07:52:03 2020//Tnetbsd-10-0-RELEASE
+D

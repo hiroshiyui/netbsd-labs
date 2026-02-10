@@ -1,0 +1,9 @@
+/Makefile.inc/1.6/Mon Jan 27 22:08:08 2020//Tnetbsd-10-0-RELEASE
+/bcmp.S/1.10/Fri May 23 02:34:19 2014//Tnetbsd-10-0-RELEASE
+/bcopy.S/1.15/Wed Feb  9 18:15:16 2005//Tnetbsd-10-0-RELEASE
+/bzero.S/1.12/Wed Feb  9 18:15:16 2005//Tnetbsd-10-0-RELEASE
+/index.S/1.14/Wed Feb  9 18:15:16 2005//Tnetbsd-10-0-RELEASE
+/rindex.S/1.14/Wed Feb  9 18:15:16 2005//Tnetbsd-10-0-RELEASE
+/strncmp.S/1.15/Fri May 23 02:34:19 2014//Tnetbsd-10-0-RELEASE
+/swab.S/1.14/Fri May 23 02:34:19 2014//Tnetbsd-10-0-RELEASE
+D

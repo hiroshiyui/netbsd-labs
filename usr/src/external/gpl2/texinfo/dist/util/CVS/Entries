@@ -1,0 +1,27 @@
+/Makefile.am/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/Makefile.in/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/README/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/deref.c/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/dir-example/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/fix-info-dir/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/fixfonts/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/fixref.gawk/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/gdoc/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/gen-dir-node/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/gendocs.sh/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/gendocs_template/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/infosrch/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/install-info-html/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/install-info.c/1.2/Thu Jan 14 00:34:53 2016//Tnetbsd-10-0-RELEASE
+/outline.gawk/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/prepinfo.awk/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/tex3patch/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/texi-docstring-magic.el/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/texi2dvi/1.2/Thu Jan 14 00:34:53 2016//Tnetbsd-10-0-RELEASE
+/texi2pdf/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/texindex.c/1.2/Thu Jan 14 00:34:53 2016//Tnetbsd-10-0-RELEASE
+/texinfo-cat.in/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/texinfo.dtd/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/texinfo.xsl/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/txitextest/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+D

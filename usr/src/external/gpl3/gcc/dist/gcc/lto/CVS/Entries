@@ -1,0 +1,20 @@
+/ChangeLog/1.1.1.19.2.1/Thu Jul 13 09:18:27 2023//Tnetbsd-10-0-RELEASE
+/Make-lang.in/1.1.1.10/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/common.c/1.1.1.10/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/common.h/1.1.1.10/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/config-lang.in/1.1.1.10/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/lang-specs.h/1.1.1.10/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/lang.opt/1.1.1.10/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/lto-common.c/1.1.1.1/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/lto-common.h/1.1.1.1/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/lto-dump.c/1.1.1.1/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/lto-lang.c/1.1.1.12/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/lto-object.c/1.1.1.9/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/lto-partition.c/1.1.1.12/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/lto-partition.h/1.1.1.9/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/lto-symtab.c/1.1.1.9/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/lto-symtab.h/1.1.1.7/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/lto-tree.h/1.1.1.10/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/lto.c/1.1.1.12/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/lto.h/1.1.1.11/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+D

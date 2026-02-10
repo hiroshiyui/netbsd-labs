@@ -1,0 +1,15 @@
+/COPYRIGHT/1.1.1.1/Fri Nov 22 14:55:20 2013//Tnetbsd-10-0-RELEASE
+/WHATSNEW/1.1.1.1/Fri Nov 22 14:55:20 2013//Tnetbsd-10-0-RELEASE
+/cclass.h/1.2/Fri Nov 22 15:52:06 2013//Tnetbsd-10-0-RELEASE
+/cname.h/1.2/Fri Nov 22 15:52:06 2013//Tnetbsd-10-0-RELEASE
+/engine.c/1.3/Tue Jan  7 21:48:12 2014//Tnetbsd-10-0-RELEASE
+/re_format.7/1.1.1.1/Fri Nov 22 14:55:20 2013//Tnetbsd-10-0-RELEASE
+/regcomp.c/1.8/Mon May 17 04:01:57 2021//Tnetbsd-10-0-RELEASE
+/regerror.c/1.5/Sun Jan 26 21:47:00 2014//Tnetbsd-10-0-RELEASE
+/regex.3/1.1.1.1/Fri Nov 22 14:55:20 2013//Tnetbsd-10-0-RELEASE
+/regex.h/1.2/Fri Nov 22 15:52:06 2013//Tnetbsd-10-0-RELEASE
+/regex2.h/1.2/Fri Nov 22 15:52:06 2013//Tnetbsd-10-0-RELEASE
+/regexec.c/1.5/Sun Jan 26 21:47:00 2014//Tnetbsd-10-0-RELEASE
+/regfree.c/1.5/Sun Jan 26 21:47:00 2014//Tnetbsd-10-0-RELEASE
+/utils.h/1.2/Fri Nov 22 15:52:06 2013//Tnetbsd-10-0-RELEASE
+D

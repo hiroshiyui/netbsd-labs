@@ -1,0 +1,18 @@
+/CMakeLists.txt/1.1.1.2/Sun May 30 01:27:38 2021//Tnetbsd-10-0-RELEASE
+/InstCombineAddSub.cpp/1.1.1.2/Sun May 30 01:27:37 2021//Tnetbsd-10-0-RELEASE
+/InstCombineAndOrXor.cpp/1.1.1.2/Sun May 30 01:27:37 2021//Tnetbsd-10-0-RELEASE
+/InstCombineAtomicRMW.cpp/1.1.1.2/Sun May 30 01:27:38 2021//Tnetbsd-10-0-RELEASE
+/InstCombineCalls.cpp/1.1.1.2/Sun May 30 01:27:38 2021//Tnetbsd-10-0-RELEASE
+/InstCombineCasts.cpp/1.1.1.2/Sun May 30 01:27:38 2021//Tnetbsd-10-0-RELEASE
+/InstCombineCompares.cpp/1.1.1.2/Sun May 30 01:27:38 2021//Tnetbsd-10-0-RELEASE
+/InstCombineInternal.h/1.1.1.2/Sun May 30 01:27:38 2021//Tnetbsd-10-0-RELEASE
+/InstCombineLoadStoreAlloca.cpp/1.1.1.2/Sun May 30 01:27:37 2021//Tnetbsd-10-0-RELEASE
+/InstCombineMulDivRem.cpp/1.1.1.2/Sun May 30 01:27:38 2021//Tnetbsd-10-0-RELEASE
+/InstCombineNegator.cpp/1.1.1.1/Sun May 30 01:27:37 2021//Tnetbsd-10-0-RELEASE
+/InstCombinePHI.cpp/1.1.1.2/Sun May 30 01:27:38 2021//Tnetbsd-10-0-RELEASE
+/InstCombineSelect.cpp/1.1.1.2/Sun May 30 01:27:39 2021//Tnetbsd-10-0-RELEASE
+/InstCombineShifts.cpp/1.1.1.2/Sun May 30 01:27:38 2021//Tnetbsd-10-0-RELEASE
+/InstCombineSimplifyDemanded.cpp/1.1.1.2/Sun May 30 01:27:38 2021//Tnetbsd-10-0-RELEASE
+/InstCombineVectorOps.cpp/1.1.1.2/Sun May 30 01:27:38 2021//Tnetbsd-10-0-RELEASE
+/InstructionCombining.cpp/1.1.1.2/Sun May 30 01:27:38 2021//Tnetbsd-10-0-RELEASE
+D

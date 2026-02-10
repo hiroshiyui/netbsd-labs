@@ -1,0 +1,10 @@
+/Makefile/1.21/Mon Sep  7 03:09:53 2020//Tnetbsd-10-0-RELEASE
+/Makefile.inc/1.7/Sun Jun  7 23:15:53 2020//Tnetbsd-10-0-RELEASE
+/cleaner.h/1.15/Tue Sep  1 06:16:58 2015//Tnetbsd-10-0-RELEASE
+/cleansrv.c/1.4/Thu Jun  6 00:53:35 2013//Tnetbsd-10-0-RELEASE
+/coalesce.c/1.33/Sat Oct 10 22:34:46 2015//Tnetbsd-10-0-RELEASE
+/fdfs.c/1.10/Tue Jun 18 18:18:57 2013//Tnetbsd-10-0-RELEASE
+/fdfs.h/1.1/Thu Mar 30 19:10:13 2006//Tnetbsd-10-0-RELEASE
+/lfs_cleanerd.8/1.21/Sat Jul 31 15:02:54 2021//Tnetbsd-10-0-RELEASE
+/lfs_cleanerd.c/1.60/Fri Aug 30 23:37:23 2019//Tnetbsd-10-0-RELEASE
+D

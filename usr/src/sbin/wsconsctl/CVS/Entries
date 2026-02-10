@@ -1,0 +1,13 @@
+/Makefile/1.17/Sat Dec 25 13:54:13 2021//Tnetbsd-10-0-RELEASE
+/display.c/1.17/Sat Dec 25 13:54:13 2021//Tnetbsd-10-0-RELEASE
+/keyboard.c/1.12/Wed Sep 22 14:15:29 2021//Tnetbsd-10-0-RELEASE
+/keysym.c/1.10/Fri Jan 29 09:49:34 2010//Tnetbsd-10-0-RELEASE
+/map_parse.y/1.12/Tue Oct 23 15:30:45 2012//Tnetbsd-10-0-RELEASE
+/map_scan.l/1.7/Tue May 24 12:07:14 2011//Tnetbsd-10-0-RELEASE
+/mkkeysym.sh/1.2/Sun Jun 26 22:45:50 2005//Tnetbsd-10-0-RELEASE
+/mouse.c/1.11/Tue Sep 28 06:20:09 2021//Tnetbsd-10-0-RELEASE
+/util.c/1.33/Sat Dec 25 13:54:13 2021//Tnetbsd-10-0-RELEASE
+/wsconsctl.8/1.30/Mon Jul 13 11:14:12 2020//Tnetbsd-10-0-RELEASE
+/wsconsctl.c/1.19/Fri Nov 23 06:31:57 2018//Tnetbsd-10-0-RELEASE
+/wsconsctl.h/1.14/Sat Dec 25 13:54:13 2021//Tnetbsd-10-0-RELEASE
+D

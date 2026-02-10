@@ -1,0 +1,9 @@
+/fail.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/fail_with_bad_encoding.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/fail_with_control_chars.txt/1.1.1.1/Sun May 30 01:28:23 2021//Tnetbsd-10-0-RELEASE
+/lit.local.cfg/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/pass.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/utf8_command.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/write-bad-encoding.py/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/write-control-chars.py/1.1.1.1/Sun May 30 01:28:23 2021//Tnetbsd-10-0-RELEASE
+D

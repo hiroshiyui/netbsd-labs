@@ -1,0 +1,13 @@
+/allinsn.exp/1.1.1.1/Tue Sep 15 01:44:59 2020//Tnetbsd-10-0-RELEASE
+/alu.s/1.1.1.1/Tue Sep 15 01:44:59 2020//Tnetbsd-10-0-RELEASE
+/alu32.s/1.1.1.1/Tue Sep 15 01:44:59 2020//Tnetbsd-10-0-RELEASE
+/endbe.s/1.1.1.1/Tue Sep 15 01:44:59 2020//Tnetbsd-10-0-RELEASE
+/endle.s/1.1.1.1/Tue Sep 15 01:44:59 2020//Tnetbsd-10-0-RELEASE
+/jmp.s/1.1.1.1/Tue Sep 15 01:44:59 2020//Tnetbsd-10-0-RELEASE
+/jmp32.s/1.1.1.1/Tue Sep 15 01:44:59 2020//Tnetbsd-10-0-RELEASE
+/ldabs.s/1.1.1.1/Tue Sep 15 01:44:59 2020//Tnetbsd-10-0-RELEASE
+/mem.s/1.1.1.1/Tue Sep 15 01:44:59 2020//Tnetbsd-10-0-RELEASE
+/mov.s/1.1.1.1/Tue Sep 15 01:44:59 2020//Tnetbsd-10-0-RELEASE
+/testutils.inc/1.1.1.1/Tue Sep 15 01:44:59 2020//Tnetbsd-10-0-RELEASE
+/xadd.s/1.1.1.1/Tue Sep 15 01:44:59 2020//Tnetbsd-10-0-RELEASE
+D

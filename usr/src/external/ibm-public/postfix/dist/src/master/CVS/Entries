@@ -1,0 +1,27 @@
+/Makefile.in/1.1.1.7/Sat Oct  8 16:09:08 2022//Tnetbsd-10-0-RELEASE
+/dgram_server.c/1.3/Sat Oct  8 16:12:46 2022//Tnetbsd-10-0-RELEASE
+/event_server.c/1.4/Sat Oct  8 16:12:46 2022//Tnetbsd-10-0-RELEASE
+/mail_flow.c/1.1.1.2/Wed Jan  2 18:59:01 2013//Tnetbsd-10-0-RELEASE
+/mail_flow.h/1.1.1.1/Tue Jun 23 10:08:49 2009//Tnetbsd-10-0-RELEASE
+/mail_server.h/1.4/Sat Oct  8 16:12:46 2022//Tnetbsd-10-0-RELEASE
+/master.c/1.4/Sat Oct  8 16:12:46 2022//Tnetbsd-10-0-RELEASE
+/master.h/1.2/Wed Mar 18 19:05:16 2020//Tnetbsd-10-0-RELEASE
+/master_avail.c/1.2/Tue Feb 14 01:16:45 2017//Tnetbsd-10-0-RELEASE
+/master_conf.c/1.2/Wed Mar 18 19:05:16 2020//Tnetbsd-10-0-RELEASE
+/master_ent.c/1.4/Sat Oct  8 16:12:46 2022//Tnetbsd-10-0-RELEASE
+/master_flow.c/1.1.1.1/Tue Jun 23 10:08:49 2009//Tnetbsd-10-0-RELEASE
+/master_listen.c/1.2/Wed Mar 18 19:05:16 2020//Tnetbsd-10-0-RELEASE
+/master_monitor.c/1.3/Sat Oct  8 16:12:46 2022//Tnetbsd-10-0-RELEASE
+/master_proto.c/1.2/Tue Feb 14 01:16:45 2017//Tnetbsd-10-0-RELEASE
+/master_proto.h/1.2/Wed Mar 18 19:05:16 2020//Tnetbsd-10-0-RELEASE
+/master_service.c/1.1.1.2/Wed Jan  2 18:59:01 2013//Tnetbsd-10-0-RELEASE
+/master_sig.c/1.3/Wed Mar 18 19:05:16 2020//Tnetbsd-10-0-RELEASE
+/master_spawn.c/1.3/Wed Mar 18 19:05:16 2020//Tnetbsd-10-0-RELEASE
+/master_status.c/1.2/Tue Feb 14 01:16:45 2017//Tnetbsd-10-0-RELEASE
+/master_vars.c/1.3/Sat Oct  8 16:12:46 2022//Tnetbsd-10-0-RELEASE
+/master_wakeup.c/1.3/Wed Mar 18 19:05:16 2020//Tnetbsd-10-0-RELEASE
+/master_watch.c/1.1.1.1/Tue Jun 23 10:08:49 2009//Tnetbsd-10-0-RELEASE
+/multi_server.c/1.4/Sat Oct  8 16:12:46 2022//Tnetbsd-10-0-RELEASE
+/single_server.c/1.4/Sat Oct  8 16:12:46 2022//Tnetbsd-10-0-RELEASE
+/trigger_server.c/1.4/Sat Oct  8 16:12:46 2022//Tnetbsd-10-0-RELEASE
+D

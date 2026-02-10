@@ -1,0 +1,7 @@
+/Makefile.inc/1.4/Sun Sep 20 20:14:50 2020//Tnetbsd-10-0-RELEASE
+/compat___semctl.S/1.2/Mon Apr 28 20:22:58 2008//Tnetbsd-10-0-RELEASE
+/compat_missing.c/1.2/Tue Nov  2 06:54:10 2021//Tnetbsd-10-0-RELEASE
+/compat_msgctl.S/1.1/Fri Jul  7 06:59:04 2006//Tnetbsd-10-0-RELEASE
+/compat_quotactl.S/1.2/Sun Mar  6 17:08:14 2011//Tnetbsd-10-0-RELEASE
+/compat_shmctl.S/1.2/Mon Apr 28 20:22:58 2008//Tnetbsd-10-0-RELEASE
+D

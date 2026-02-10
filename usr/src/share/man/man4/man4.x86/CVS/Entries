@@ -1,0 +1,23 @@
+/Makefile/1.23/Sun Jul 25 07:35:55 2021//Tnetbsd-10-0-RELEASE
+/amdccp.4/1.1/Sun Jul 25 07:35:55 2021//Tnetbsd-10-0-RELEASE
+/amdpcib.4/1.4/Sat Feb 18 22:39:02 2017//Tnetbsd-10-0-RELEASE
+/amdsmn.4/1.5/Sun Oct  2 09:48:39 2022//Tnetbsd-10-0-RELEASE
+/amdzentemp.4/1.7/Mon Apr 20 11:09:48 2020//Tnetbsd-10-0-RELEASE
+/apic.4/1.3/Sat Feb 18 22:39:02 2017//Tnetbsd-10-0-RELEASE
+/autoconf.4/1.1/Thu Jun  3 07:41:26 2021//Tnetbsd-10-0-RELEASE
+/balloon.4/1.11/Tue Mar 18 18:20:40 2014//Tnetbsd-10-0-RELEASE
+/console.4/1.1/Thu Jun  3 07:41:26 2021//Tnetbsd-10-0-RELEASE
+/coretemp.4/1.5/Sat Nov 14 20:04:46 2020//Tnetbsd-10-0-RELEASE
+/est.4/1.7/Sat Nov 14 20:04:46 2020//Tnetbsd-10-0-RELEASE
+/fdc.4/1.1/Fri Sep 23 14:45:06 2011//Tnetbsd-10-0-RELEASE
+/fwhrng.4/1.3/Sat Feb 18 22:39:02 2017//Tnetbsd-10-0-RELEASE
+/hpet.4/1.3/Tue Jun 14 13:59:24 2011//Tnetbsd-10-0-RELEASE
+/ichlpcib.4/1.12/Sat Feb 18 22:39:02 2017//Tnetbsd-10-0-RELEASE
+/imcsmb.4/1.10/Sat Nov 14 20:04:46 2020//Tnetbsd-10-0-RELEASE
+/lpt.4/1.1/Fri Sep 23 14:45:06 2011//Tnetbsd-10-0-RELEASE
+/mem.4/1.1/Fri Sep 23 14:45:06 2011//Tnetbsd-10-0-RELEASE
+/odcm.4/1.6/Sat Nov 14 20:04:46 2020//Tnetbsd-10-0-RELEASE
+/powernow.4/1.5/Sat Nov 14 20:04:46 2020//Tnetbsd-10-0-RELEASE
+/soekrisgpio.4/1.5/Tue Mar 18 18:20:40 2014//Tnetbsd-10-0-RELEASE
+/tco.4/1.5/Mon May  4 08:16:28 2015//Tnetbsd-10-0-RELEASE
+D

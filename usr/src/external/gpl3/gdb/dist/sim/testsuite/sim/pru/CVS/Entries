@@ -1,0 +1,13 @@
+/ChangeLog/1.1.1.1/Tue Sep 15 01:45:05 2020//Tnetbsd-10-0-RELEASE
+/add.s/1.1.1.1/Tue Sep 15 01:45:05 2020//Tnetbsd-10-0-RELEASE
+/allinsn.exp/1.1.1.1/Tue Sep 15 01:45:05 2020//Tnetbsd-10-0-RELEASE
+/dmem-zero-pass.s/1.1.1.1/Tue Sep 15 01:45:05 2020//Tnetbsd-10-0-RELEASE
+/dmem-zero-trap.s/1.1.1.1/Tue Sep 15 01:45:05 2020//Tnetbsd-10-0-RELEASE
+/dram.s/1.1.1.1/Tue Sep 15 01:45:05 2020//Tnetbsd-10-0-RELEASE
+/jmp.s/1.1.1.1/Tue Sep 15 01:45:05 2020//Tnetbsd-10-0-RELEASE
+/loop-imm.s/1.1.1.1/Tue Sep 15 01:45:05 2020//Tnetbsd-10-0-RELEASE
+/loop-reg.s/1.1.1.1/Tue Sep 15 01:45:05 2020//Tnetbsd-10-0-RELEASE
+/mul.s/1.1.1.1/Tue Sep 15 01:45:05 2020//Tnetbsd-10-0-RELEASE
+/subreg.s/1.1.1.1/Tue Sep 15 01:45:05 2020//Tnetbsd-10-0-RELEASE
+/testutils.inc/1.1.1.1/Tue Sep 15 01:45:05 2020//Tnetbsd-10-0-RELEASE
+D

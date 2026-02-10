@@ -1,0 +1,15 @@
+/Makefile/1.1/Tue Dec  7 17:39:55 2021//Tnetbsd-10-0-RELEASE
+/common.c/1.1/Tue Dec  7 17:39:55 2021//Tnetbsd-10-0-RELEASE
+/common.h/1.1/Tue Dec  7 17:39:55 2021//Tnetbsd-10-0-RELEASE
+/i2cspi.c/1.1/Tue Dec  7 17:39:55 2021//Tnetbsd-10-0-RELEASE
+/i2cspi.h/1.1/Tue Dec  7 17:39:55 2021//Tnetbsd-10-0-RELEASE
+/printscmd.c/1.1/Tue Dec  7 17:39:55 2021//Tnetbsd-10-0-RELEASE
+/printscmd.h/1.1/Tue Dec  7 17:39:55 2021//Tnetbsd-10-0-RELEASE
+/responses.h/1.1/Tue Dec  7 17:39:55 2021//Tnetbsd-10-0-RELEASE
+/scmdctl.1/1.1/Tue Dec  7 17:39:55 2021//Tnetbsd-10-0-RELEASE
+/scmdctl.c/1.1/Tue Dec  7 17:39:55 2021//Tnetbsd-10-0-RELEASE
+/scmdctl.h/1.1/Tue Dec  7 17:39:55 2021//Tnetbsd-10-0-RELEASE
+/scmdctlconst.h/1.1/Tue Dec  7 17:39:55 2021//Tnetbsd-10-0-RELEASE
+/uart.c/1.3/Mon Apr 11 21:23:07 2022//Tnetbsd-10-0-RELEASE
+/uart.h/1.1/Tue Dec  7 17:39:55 2021//Tnetbsd-10-0-RELEASE
+D

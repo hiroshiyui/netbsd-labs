@@ -1,0 +1,19 @@
+/ISO_Fortran_binding.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/backtrace.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/bounds.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/compile_options.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/convert_char.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/environ.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/error.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/fpu.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/in_pack_generic.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/in_unpack_generic.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/main.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/memory.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/minimal.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/pause.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/select.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/select_inc.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/stop.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+/string.c/1.1.1.2/Sat Apr 10 22:10:14 2021//Tnetbsd-10-0-RELEASE
+D

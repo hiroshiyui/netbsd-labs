@@ -1,0 +1,15 @@
+/Makefile/1.26/Sun Oct 13 07:28:13 2019//Tnetbsd-10-0-RELEASE
+/defs.h/1.28/Mon Oct  2 11:02:19 2017//Tnetbsd-10-0-RELEASE
+/if.c/1.31/Mon Oct  2 11:02:19 2017//Tnetbsd-10-0-RELEASE
+/input.c/1.31/Mon Oct 26 02:53:15 2009//Tnetbsd-10-0-RELEASE
+/main.c/1.43/Thu Apr  7 19:33:37 2022//Tnetbsd-10-0-RELEASE
+/output.c/1.25/Mon Oct 26 02:53:15 2009//Tnetbsd-10-0-RELEASE
+/parms.c/1.26/Mon Jan 16 17:38:16 2012//Tnetbsd-10-0-RELEASE
+/pathnames.h/1.11/Sat Mar 10 23:52:46 2001//Tnetbsd-10-0-RELEASE
+/radix.c/1.14/Sun Dec  5 07:15:03 2021//Tnetbsd-10-0-RELEASE
+/radix.h/1.6/Sat Feb  5 13:47:19 2005//Tnetbsd-10-0-RELEASE
+/rdisc.c/1.17/Tue May  9 20:18:09 2006//Tnetbsd-10-0-RELEASE
+/routed.8/1.45/Mon Jul  3 21:33:42 2017//Tnetbsd-10-0-RELEASE
+/table.c/1.28/Tue Feb  6 09:33:07 2018//Tnetbsd-10-0-RELEASE
+/trace.c/1.33/Mon Oct  2 11:02:19 2017//Tnetbsd-10-0-RELEASE
+D

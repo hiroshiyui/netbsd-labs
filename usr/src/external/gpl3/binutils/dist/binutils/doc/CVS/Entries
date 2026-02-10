@@ -1,0 +1,22 @@
+/Makefile.am/1.8/Fri Apr  3 23:48:46 2020//Tnetbsd-10-0-RELEASE
+/Makefile.in/1.12/Fri Apr  3 23:48:46 2020//Tnetbsd-10-0-RELEASE
+/addr2line.1/1.11/Fri Apr  3 23:49:38 2020//Tnetbsd-10-0-RELEASE
+/ar.1/1.12/Fri Apr  3 23:49:38 2020//Tnetbsd-10-0-RELEASE
+/binutils.texi/1.11/Fri Apr  3 23:48:46 2020//Tnetbsd-10-0-RELEASE
+/ctf.options.texi/1.1.1.1/Fri Apr  3 23:39:56 2020//Tnetbsd-10-0-RELEASE
+/cxxfilt.man/1.12/Sat Apr  4 01:44:43 2020//Tnetbsd-10-0-RELEASE
+/debug.options.texi/1.1.1.2/Fri Apr  3 23:39:56 2020//Tnetbsd-10-0-RELEASE
+/dlltool.1/1.11/Fri Apr  3 23:49:38 2020//Tnetbsd-10-0-RELEASE
+/elfedit.1/1.10/Fri Apr  3 23:49:38 2020//Tnetbsd-10-0-RELEASE
+/fdl.texi/1.1.1.2/Sat Sep 24 22:41:00 2011//Tnetbsd-10-0-RELEASE
+/nm.1/1.11/Fri Apr  3 23:49:38 2020//Tnetbsd-10-0-RELEASE
+/objcopy.1/1.11/Fri Apr  3 23:49:38 2020//Tnetbsd-10-0-RELEASE
+/objdump.1/1.11/Fri Apr  3 23:49:38 2020//Tnetbsd-10-0-RELEASE
+/ranlib.1/1.11/Fri Apr  3 23:49:38 2020//Tnetbsd-10-0-RELEASE
+/readelf.1/1.12/Fri Apr  3 23:49:38 2020//Tnetbsd-10-0-RELEASE
+/size.1/1.11/Fri Apr  3 23:49:38 2020//Tnetbsd-10-0-RELEASE
+/strings.1/1.12/Fri Apr  3 23:49:38 2020//Tnetbsd-10-0-RELEASE
+/strip.1/1.11/Fri Apr  3 23:49:38 2020//Tnetbsd-10-0-RELEASE
+/windmc.1/1.11/Fri Apr  3 23:49:38 2020//Tnetbsd-10-0-RELEASE
+/windres.1/1.11/Fri Apr  3 23:49:38 2020//Tnetbsd-10-0-RELEASE
+D

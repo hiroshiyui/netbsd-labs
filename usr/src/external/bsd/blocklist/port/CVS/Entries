@@ -1,0 +1,15 @@
+/Makefile.am/1.1.1.1/Mon Jun 15 01:52:53 2020//Tnetbsd-10-0-RELEASE
+/_strtoi.h/1.1.1.1/Mon Jun 15 01:52:53 2020//Tnetbsd-10-0-RELEASE
+/clock_gettime.c/1.1.1.1/Mon Jun 15 01:52:53 2020//Tnetbsd-10-0-RELEASE
+/configure.ac/1.1.1.1/Mon Jun 15 01:52:53 2020//Tnetbsd-10-0-RELEASE
+/fgetln.c/1.1.1.1/Mon Jun 15 01:52:54 2020//Tnetbsd-10-0-RELEASE
+/fparseln.c/1.1.1.1/Mon Jun 15 01:52:54 2020//Tnetbsd-10-0-RELEASE
+/getprogname.c/1.1.1.1/Mon Jun 15 01:52:54 2020//Tnetbsd-10-0-RELEASE
+/pidfile.c/1.1.1.1/Mon Jun 15 01:52:54 2020//Tnetbsd-10-0-RELEASE
+/popenve.c/1.1.1.1/Mon Jun 15 01:52:54 2020//Tnetbsd-10-0-RELEASE
+/port.h/1.1.1.1/Mon Jun 15 01:52:54 2020//Tnetbsd-10-0-RELEASE
+/sockaddr_snprintf.c/1.1.1.1/Mon Jun 15 01:52:54 2020//Tnetbsd-10-0-RELEASE
+/strlcat.c/1.1.1.1/Mon Jun 15 01:52:54 2020//Tnetbsd-10-0-RELEASE
+/strlcpy.c/1.1.1.1/Mon Jun 15 01:52:54 2020//Tnetbsd-10-0-RELEASE
+/strtoi.c/1.1.1.1/Mon Jun 15 01:52:54 2020//Tnetbsd-10-0-RELEASE
+D

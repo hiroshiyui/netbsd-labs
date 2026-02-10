@@ -1,0 +1,21 @@
+/adddi3.c/1.2/Sun Mar 15 22:31:12 2009//Tnetbsd-10-0-RELEASE
+/anddi3.c/1.2/Sun Mar 15 22:31:12 2009//Tnetbsd-10-0-RELEASE
+/ashldi3.c/1.3/Fri Mar  9 15:41:16 2012//Tnetbsd-10-0-RELEASE
+/ashrdi3.c/1.4/Mon Aug  6 02:31:54 2012//Tnetbsd-10-0-RELEASE
+/cmpdi2.c/1.2/Sun Mar 15 22:31:12 2009//Tnetbsd-10-0-RELEASE
+/divdi3.c/1.2/Sun Mar 15 22:31:12 2009//Tnetbsd-10-0-RELEASE
+/iordi3.c/1.2/Sun Mar 15 22:31:12 2009//Tnetbsd-10-0-RELEASE
+/lshldi3.c/1.4/Fri Dec  7 15:41:02 2012//Tnetbsd-10-0-RELEASE
+/lshrdi3.c/1.4/Mon Aug  6 02:31:54 2012//Tnetbsd-10-0-RELEASE
+/moddi3.c/1.2/Sun Mar 15 22:31:12 2009//Tnetbsd-10-0-RELEASE
+/muldi3.c/1.3/Mon Aug  6 02:31:54 2012//Tnetbsd-10-0-RELEASE
+/negdi2.c/1.2/Sun Mar 15 22:31:12 2009//Tnetbsd-10-0-RELEASE
+/notdi2.c/1.2/Sun Mar 15 22:31:12 2009//Tnetbsd-10-0-RELEASE
+/qdivrem.c/1.4/Tue Mar 20 16:21:41 2012//Tnetbsd-10-0-RELEASE
+/quad.h/1.7/Mon Aug  6 02:31:54 2012//Tnetbsd-10-0-RELEASE
+/subdi3.c/1.2/Sun Mar 15 22:31:12 2009//Tnetbsd-10-0-RELEASE
+/ucmpdi2.c/1.2/Sun Mar 15 22:31:12 2009//Tnetbsd-10-0-RELEASE
+/udivdi3.c/1.2/Sun Mar 15 22:31:12 2009//Tnetbsd-10-0-RELEASE
+/umoddi3.c/1.2/Sun Mar 15 22:31:12 2009//Tnetbsd-10-0-RELEASE
+/xordi3.c/1.2/Sun Mar 15 22:31:12 2009//Tnetbsd-10-0-RELEASE
+D

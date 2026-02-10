@@ -1,0 +1,16 @@
+/Makefile/1.1.1.9/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/README/1.1.1.1/Thu May 22 14:20:36 2008//Tnetbsd-10-0-RELEASE
+/asn.h/1.2/Sat Aug 14 16:14:51 2021//Tnetbsd-10-0-RELEASE
+/asn_to_syn_mr.c/1.2/Sat Aug 14 16:14:51 2021//Tnetbsd-10-0-RELEASE
+/authorityKeyIdentifier.asn/1.1.1.1/Thu May 22 14:20:36 2008//Tnetbsd-10-0-RELEASE
+/authorityKeyIdentifier.c/1.2/Sat Aug 14 16:14:51 2021//Tnetbsd-10-0-RELEASE
+/authorityKeyIdentifier.h/1.2/Sat Aug 14 16:14:51 2021//Tnetbsd-10-0-RELEASE
+/certificate.asn1/1.1.1.1/Thu May 22 14:20:36 2008//Tnetbsd-10-0-RELEASE
+/certificate.c/1.2/Sat Aug 14 16:14:51 2021//Tnetbsd-10-0-RELEASE
+/certificate.h/1.2/Sat Aug 14 16:14:51 2021//Tnetbsd-10-0-RELEASE
+/componentlib.c/1.2/Sat Aug 14 16:14:51 2021//Tnetbsd-10-0-RELEASE
+/componentlib.h/1.2/Sat Aug 14 16:14:51 2021//Tnetbsd-10-0-RELEASE
+/crl.c/1.2/Sat Aug 14 16:14:51 2021//Tnetbsd-10-0-RELEASE
+/crl.h/1.2/Sat Aug 14 16:14:51 2021//Tnetbsd-10-0-RELEASE
+/init.c/1.2/Sat Aug 14 16:14:51 2021//Tnetbsd-10-0-RELEASE
+D

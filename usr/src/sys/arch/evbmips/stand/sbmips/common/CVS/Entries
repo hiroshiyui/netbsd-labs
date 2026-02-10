@@ -1,0 +1,19 @@
+/bbinfo.h/1.1.1.1/Mon Jul 24 08:56:29 2017//Tnetbsd-10-0-RELEASE
+/blkdev.c/1.3/Sat Jul 24 21:31:33 2021//Tnetbsd-10-0-RELEASE
+/blkdev.h/1.1.1.1/Mon Jul 24 08:56:29 2017//Tnetbsd-10-0-RELEASE
+/boot.c/1.2/Mon Jul 24 10:34:54 2017//Tnetbsd-10-0-RELEASE
+/boot.ldscript/1.1.1.1/Mon Jul 24 08:56:29 2017//Tnetbsd-10-0-RELEASE
+/booted_dev.c/1.2/Mon Jul 24 10:34:54 2017//Tnetbsd-10-0-RELEASE
+/bootxx.c/1.1.1.1/Mon Jul 24 08:56:29 2017//Tnetbsd-10-0-RELEASE
+/cfe.c/1.1.1.1/Mon Jul 24 08:56:29 2017//Tnetbsd-10-0-RELEASE
+/cfe_api.c/1.1.1.1/Mon Jul 24 08:56:29 2017//Tnetbsd-10-0-RELEASE
+/cfe_api.h/1.1.1.1/Mon Jul 24 08:56:29 2017//Tnetbsd-10-0-RELEASE
+/cfe_api_int.h/1.1.1.1/Mon Jul 24 08:56:29 2017//Tnetbsd-10-0-RELEASE
+/cfe_error.h/1.1.1.1/Mon Jul 24 08:56:29 2017//Tnetbsd-10-0-RELEASE
+/cfe_ioctl.h/1.1.1.1/Mon Jul 24 08:56:29 2017//Tnetbsd-10-0-RELEASE
+/checksize.sh/1.1.1.1/Mon Jul 24 08:56:29 2017//Tnetbsd-10-0-RELEASE
+/common.h/1.1.1.1/Mon Jul 24 08:56:29 2017//Tnetbsd-10-0-RELEASE
+/panic_putstr.c/1.1.1.1/Mon Jul 24 08:56:29 2017//Tnetbsd-10-0-RELEASE
+/putstr.c/1.1.1.1/Mon Jul 24 08:56:29 2017//Tnetbsd-10-0-RELEASE
+/start.S/1.1.1.1/Mon Jul 24 08:56:29 2017//Tnetbsd-10-0-RELEASE
+D

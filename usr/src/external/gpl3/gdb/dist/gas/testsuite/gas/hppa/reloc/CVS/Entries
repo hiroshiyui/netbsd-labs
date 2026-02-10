@@ -1,0 +1,19 @@
+/applybug.s/1.1.1.1/Tue Sep 15 01:42:50 2020//Tnetbsd-10-0-RELEASE
+/blebug.s/1.1.1.1/Tue Sep 15 01:42:50 2020//Tnetbsd-10-0-RELEASE
+/blebug2.s/1.1.1.1/Tue Sep 15 01:42:50 2020//Tnetbsd-10-0-RELEASE
+/blebug3.s/1.1.1.1/Tue Sep 15 01:42:50 2020//Tnetbsd-10-0-RELEASE
+/exitbug.s/1.1.1.1/Tue Sep 15 01:42:50 2020//Tnetbsd-10-0-RELEASE
+/fixupbug.s/1.1.1.1/Tue Sep 15 01:42:50 2020//Tnetbsd-10-0-RELEASE
+/funcrelocbug.s/1.1.1.1/Tue Sep 15 01:42:50 2020//Tnetbsd-10-0-RELEASE
+/labelopbug.s/1.1.1.1/Tue Sep 15 01:42:50 2020//Tnetbsd-10-0-RELEASE
+/longcall.s/1.1.1.1/Tue Sep 15 01:42:50 2020//Tnetbsd-10-0-RELEASE
+/picreloc.s/1.1.1.1/Tue Sep 15 01:42:50 2020//Tnetbsd-10-0-RELEASE
+/plabelbug.s/1.1.1.1/Tue Sep 15 01:42:50 2020//Tnetbsd-10-0-RELEASE
+/r_no_reloc.s/1.1.1.1/Tue Sep 15 01:42:50 2020//Tnetbsd-10-0-RELEASE
+/reduce.s/1.1.1.1/Tue Sep 15 01:42:50 2020//Tnetbsd-10-0-RELEASE
+/reduce2.s/1.1.1.1/Tue Sep 15 01:42:50 2020//Tnetbsd-10-0-RELEASE
+/reduce3.s/1.1.1.1/Tue Sep 15 01:42:50 2020//Tnetbsd-10-0-RELEASE
+/reloc.exp/1.1.1.1/Tue Sep 15 01:42:50 2020//Tnetbsd-10-0-RELEASE
+/roundmode.s/1.1.1.1/Tue Sep 15 01:42:50 2020//Tnetbsd-10-0-RELEASE
+/selectorbug.s/1.1.1.1/Tue Sep 15 01:42:50 2020//Tnetbsd-10-0-RELEASE
+D

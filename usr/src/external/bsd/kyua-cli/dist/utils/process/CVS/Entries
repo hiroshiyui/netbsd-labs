@@ -1,0 +1,21 @@
+/Kyuafile/1.1.1.1/Sat Feb 23 12:34:07 2013//Tnetbsd-10-0-RELEASE
+/child.cpp/1.2/Thu Jul  2 14:04:00 2020//Tnetbsd-10-0-RELEASE
+/child.hpp/1.2/Thu Jul  2 14:04:00 2020//Tnetbsd-10-0-RELEASE
+/child.ipp/1.2/Thu Jul  2 14:04:00 2020//Tnetbsd-10-0-RELEASE
+/child_test.cpp/1.2/Thu Jul  2 14:04:00 2020//Tnetbsd-10-0-RELEASE
+/exceptions.cpp/1.1.1.1/Sat Feb 23 12:34:06 2013//Tnetbsd-10-0-RELEASE
+/exceptions.hpp/1.1.1.1/Sat Feb 23 12:34:06 2013//Tnetbsd-10-0-RELEASE
+/exceptions_test.cpp/1.1.1.1/Sat Feb 23 12:34:06 2013//Tnetbsd-10-0-RELEASE
+/fdstream.cpp/1.1.1.1/Sat Feb 23 12:34:06 2013//Tnetbsd-10-0-RELEASE
+/fdstream.hpp/1.2/Thu Jul  2 14:04:00 2020//Tnetbsd-10-0-RELEASE
+/fdstream_test.cpp/1.1.1.1/Sat Feb 23 12:34:07 2013//Tnetbsd-10-0-RELEASE
+/helpers.cpp/1.1.1.1/Sat Feb 23 12:34:07 2013//Tnetbsd-10-0-RELEASE
+/status.cpp/1.1.1.1/Sat Feb 23 12:34:07 2013//Tnetbsd-10-0-RELEASE
+/status.hpp/1.1.1.1/Sat Feb 23 12:34:07 2013//Tnetbsd-10-0-RELEASE
+/status_test.cpp/1.1.1.1/Sat Feb 23 12:34:07 2013//Tnetbsd-10-0-RELEASE
+/system.cpp/1.1.1.1/Sat Feb 23 12:34:07 2013//Tnetbsd-10-0-RELEASE
+/system.hpp/1.1.1.1/Sat Feb 23 12:34:07 2013//Tnetbsd-10-0-RELEASE
+/systembuf.cpp/1.1.1.1/Sat Feb 23 12:34:07 2013//Tnetbsd-10-0-RELEASE
+/systembuf.hpp/1.2/Thu Jul  2 14:04:00 2020//Tnetbsd-10-0-RELEASE
+/systembuf_test.cpp/1.1.1.1/Sat Feb 23 12:34:07 2013//Tnetbsd-10-0-RELEASE
+D

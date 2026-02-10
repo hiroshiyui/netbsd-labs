@@ -1,0 +1,19 @@
+/Makefile/1.39/Thu Jun  3 10:23:33 2021//Tnetbsd-10-0-RELEASE
+/cmds.c/1.141/Wed Jan  6 09:15:59 2021//Tnetbsd-10-0-RELEASE
+/cmdtab.c/1.52.40.1/Tue May 16 16:16:00 2023//Tnetbsd-10-0-RELEASE
+/complete.c/1.47/Mon Jan 28 12:04:16 2019//Tnetbsd-10-0-RELEASE
+/domacro.c/1.23/Sun Feb  3 03:19:29 2019//Tnetbsd-10-0-RELEASE
+/extern.h/1.82.10.1/Tue May 16 16:16:00 2023//Tnetbsd-10-0-RELEASE
+/fetch.c/1.235.2.2/Mon Jan 15 16:12:08 2024//Tnetbsd-10-0-RELEASE
+/ftp.1/1.147.2.3/Tue May 16 16:22:15 2023//Tnetbsd-10-0-RELEASE
+/ftp.c/1.174.2.1/Tue May 16 16:26:03 2023//Tnetbsd-10-0-RELEASE
+/ftp_var.h/1.86/Fri Sep 10 21:52:17 2021//Tnetbsd-10-0-RELEASE
+/main.c/1.128.2.1/Tue May 16 16:16:00 2023//Tnetbsd-10-0-RELEASE
+/progressbar.c/1.24/Wed Jan  6 04:43:14 2021//Tnetbsd-10-0-RELEASE
+/progressbar.h/1.9/Wed Jan  6 04:43:14 2021//Tnetbsd-10-0-RELEASE
+/ruserpass.c/1.33/Tue Apr 17 05:52:04 2007//Tnetbsd-10-0-RELEASE
+/ssl.c/1.12.2.3/Tue May 16 16:26:03 2023//Tnetbsd-10-0-RELEASE
+/ssl.h/1.5/Thu Jun  3 10:23:33 2021//Tnetbsd-10-0-RELEASE
+/util.c/1.164.2.2/Tue May 16 16:26:03 2023//Tnetbsd-10-0-RELEASE
+/version.h/1.95.2.2/Tue May 16 16:26:03 2023//Tnetbsd-10-0-RELEASE
+D

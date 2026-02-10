@@ -1,0 +1,27 @@
+/ChangeLog/1.8/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/Makefile.in/1.6/Tue Nov 28 18:10:14 2017//Tnetbsd-10-0-RELEASE
+/aclocal.m4/1.6/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/arch.c/1.8/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/arch.h/1.8/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/config.in/1.7/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/configure/1.7/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/configure.ac/1.7/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/cpu.c/1.8/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/cpu.h/1.8/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/cpuall.h/1.8/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/decode.c/1.8/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/decode.h/1.8/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/dv-lm32cpu.c/1.8/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/dv-lm32timer.c/1.8/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/dv-lm32uart.c/1.8/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/lm32-sim.h/1.8/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/lm32.c/1.8/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/mloop.in/1.5/Wed Oct 12 15:36:25 2016//Tnetbsd-10-0-RELEASE
+/model.c/1.8/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/sem-switch.c/1.8/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/sem.c/1.8/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/sim-if.c/1.8/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/sim-main.h/1.8/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/traps.c/1.8/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+/user.c/1.8/Mon Sep 14 00:40:32 2020//Tnetbsd-10-0-RELEASE
+D

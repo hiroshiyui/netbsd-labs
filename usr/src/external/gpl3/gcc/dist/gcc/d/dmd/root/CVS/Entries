@@ -1,0 +1,26 @@
+/aav.c/1.1.1.1/Sat Sep  5 07:52:49 2020//Tnetbsd-10-0-RELEASE
+/aav.h/1.1.1.1/Sat Sep  5 07:52:49 2020//Tnetbsd-10-0-RELEASE
+/array.h/1.1.1.1/Sat Sep  5 07:52:49 2020//Tnetbsd-10-0-RELEASE
+/checkedint.c/1.1.1.1/Sat Sep  5 07:52:49 2020//Tnetbsd-10-0-RELEASE
+/checkedint.h/1.1.1.1/Sat Sep  5 07:52:49 2020//Tnetbsd-10-0-RELEASE
+/ctfloat.h/1.1.1.1/Sat Sep  5 07:52:49 2020//Tnetbsd-10-0-RELEASE
+/dcompat.h/1.1.1.1/Sat Sep  5 07:52:49 2020//Tnetbsd-10-0-RELEASE
+/dsystem.h/1.1.1.2/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/file.c/1.1.1.1/Sat Sep  5 07:52:49 2020//Tnetbsd-10-0-RELEASE
+/file.h/1.1.1.1/Sat Sep  5 07:52:49 2020//Tnetbsd-10-0-RELEASE
+/filename.c/1.1.1.2/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/filename.h/1.1.1.1/Sat Sep  5 07:52:49 2020//Tnetbsd-10-0-RELEASE
+/hash.h/1.1.1.1/Sat Sep  5 07:52:49 2020//Tnetbsd-10-0-RELEASE
+/object.h/1.1.1.1/Sat Sep  5 07:52:49 2020//Tnetbsd-10-0-RELEASE
+/outbuffer.c/1.1.1.2/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/outbuffer.h/1.1.1.2/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/port.h/1.1.1.1/Sat Sep  5 07:52:49 2020//Tnetbsd-10-0-RELEASE
+/rmem.c/1.1.1.1/Sat Sep  5 07:52:49 2020//Tnetbsd-10-0-RELEASE
+/rmem.h/1.1.1.1/Sat Sep  5 07:52:49 2020//Tnetbsd-10-0-RELEASE
+/root.h/1.1.1.1/Sat Sep  5 07:52:49 2020//Tnetbsd-10-0-RELEASE
+/rootobject.c/1.1.1.1/Sat Sep  5 07:52:49 2020//Tnetbsd-10-0-RELEASE
+/speller.c/1.1.1.2/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/speller.h/1.1.1.1/Sat Sep  5 07:52:49 2020//Tnetbsd-10-0-RELEASE
+/stringtable.c/1.1.1.1/Sat Sep  5 07:52:49 2020//Tnetbsd-10-0-RELEASE
+/stringtable.h/1.1.1.1/Sat Sep  5 07:52:49 2020//Tnetbsd-10-0-RELEASE
+D

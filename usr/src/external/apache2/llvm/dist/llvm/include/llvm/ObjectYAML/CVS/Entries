@@ -1,0 +1,17 @@
+/ArchiveYAML.h/1.1.1.1/Sun May 30 01:26:32 2021//Tnetbsd-10-0-RELEASE
+/COFFYAML.h/1.1.1.1/Fri Nov  8 14:29:35 2019//Tnetbsd-10-0-RELEASE
+/CodeViewYAMLDebugSections.h/1.1.1.1/Fri Nov  8 14:29:35 2019//Tnetbsd-10-0-RELEASE
+/CodeViewYAMLSymbols.h/1.1.1.1/Fri Nov  8 14:29:35 2019//Tnetbsd-10-0-RELEASE
+/CodeViewYAMLTypeHashing.h/1.1.1.2/Sun May 30 01:26:32 2021//Tnetbsd-10-0-RELEASE
+/CodeViewYAMLTypes.h/1.1.1.1/Fri Nov  8 14:29:35 2019//Tnetbsd-10-0-RELEASE
+/DWARFEmitter.h/1.1.1.2/Sun May 30 01:26:32 2021//Tnetbsd-10-0-RELEASE
+/DWARFYAML.h/1.1.1.2/Sun May 30 01:26:32 2021//Tnetbsd-10-0-RELEASE
+/ELFYAML.h/1.1.1.2/Sun May 30 01:26:32 2021//Tnetbsd-10-0-RELEASE
+/MachOYAML.h/1.1.1.2/Sun May 30 01:26:32 2021//Tnetbsd-10-0-RELEASE
+/MinidumpYAML.h/1.1.1.2/Sun May 30 01:26:32 2021//Tnetbsd-10-0-RELEASE
+/ObjectYAML.h/1.1.1.2/Sun May 30 01:26:32 2021//Tnetbsd-10-0-RELEASE
+/WasmYAML.h/1.1.1.2/Sun May 30 01:26:32 2021//Tnetbsd-10-0-RELEASE
+/XCOFFYAML.h/1.1.1.1/Fri Nov  8 14:29:35 2019//Tnetbsd-10-0-RELEASE
+/YAML.h/1.1.1.2/Sun May 30 01:26:32 2021//Tnetbsd-10-0-RELEASE
+/yaml2obj.h/1.1.1.2/Sun May 30 01:26:32 2021//Tnetbsd-10-0-RELEASE
+D

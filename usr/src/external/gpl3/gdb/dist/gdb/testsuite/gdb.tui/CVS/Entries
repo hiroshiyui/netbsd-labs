@@ -1,0 +1,21 @@
+/basic.exp/1.1.1.1/Tue Sep 15 01:43:48 2020//Tnetbsd-10-0-RELEASE
+/completion.exp/1.1.1.3/Tue Sep 15 01:43:48 2020//Tnetbsd-10-0-RELEASE
+/corefile-run.exp/1.1.1.1/Tue Sep 15 01:43:48 2020//Tnetbsd-10-0-RELEASE
+/empty.exp/1.1.1.1/Tue Sep 15 01:43:48 2020//Tnetbsd-10-0-RELEASE
+/list-before.exp/1.1.1.1/Tue Sep 15 01:43:48 2020//Tnetbsd-10-0-RELEASE
+/list.exp/1.1.1.1/Tue Sep 15 01:43:48 2020//Tnetbsd-10-0-RELEASE
+/main.exp/1.1.1.1/Tue Sep 15 01:43:48 2020//Tnetbsd-10-0-RELEASE
+/new-layout.exp/1.1.1.1/Tue Sep 15 01:43:48 2020//Tnetbsd-10-0-RELEASE
+/regs.exp/1.1.1.1/Tue Sep 15 01:43:48 2020//Tnetbsd-10-0-RELEASE
+/resize.exp/1.1.1.1/Tue Sep 15 01:43:48 2020//Tnetbsd-10-0-RELEASE
+/tui-disasm-long-lines.c/1.1.1.3/Tue Sep 15 01:43:48 2020//Tnetbsd-10-0-RELEASE
+/tui-disasm-long-lines.exp/1.1.1.3/Tue Sep 15 01:43:48 2020//Tnetbsd-10-0-RELEASE
+/tui-layout-asm-short-prog.S/1.1.1.1/Tue Sep 15 01:43:48 2020//Tnetbsd-10-0-RELEASE
+/tui-layout-asm-short-prog.exp/1.1.1.1/Tue Sep 15 01:43:48 2020//Tnetbsd-10-0-RELEASE
+/tui-layout-asm.exp/1.1.1.1/Tue Sep 15 01:43:48 2020//Tnetbsd-10-0-RELEASE
+/tui-layout.c/1.1.1.3/Tue Sep 15 01:43:48 2020//Tnetbsd-10-0-RELEASE
+/tui-layout.exp/1.1.1.3/Tue Sep 15 01:43:48 2020//Tnetbsd-10-0-RELEASE
+/tui-missing-src.exp/1.1.1.1/Tue Sep 15 01:43:48 2020//Tnetbsd-10-0-RELEASE
+/tui-nl-filtered-output.exp/1.1.1.3/Tue Sep 15 01:43:48 2020//Tnetbsd-10-0-RELEASE
+/winheight.exp/1.1.1.1/Tue Sep 15 01:43:48 2020//Tnetbsd-10-0-RELEASE
+D

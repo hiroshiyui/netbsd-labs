@@ -1,0 +1,18 @@
+/ChangeLog/1.6/Tue Nov 28 18:10:17 2017//Tnetbsd-10-0-RELEASE
+/basic.exp/1.6/Tue Nov 28 18:10:17 2017//Tnetbsd-10-0-RELEASE
+/fpu64-ps-sb1.s/1.5/Thu Oct 13 00:55:43 2016//Tnetbsd-10-0-RELEASE
+/fpu64-ps.s/1.5/Thu Oct 13 00:55:43 2016//Tnetbsd-10-0-RELEASE
+/hilo-hazard-1.s/1.5/Thu Oct 13 00:55:43 2016//Tnetbsd-10-0-RELEASE
+/hilo-hazard-2.s/1.5/Thu Oct 13 00:55:43 2016//Tnetbsd-10-0-RELEASE
+/hilo-hazard-3.s/1.5/Thu Oct 13 00:55:43 2016//Tnetbsd-10-0-RELEASE
+/hilo-hazard-4.s/1.1.1.3/Sun Sep 13 21:45:59 2020//Tnetbsd-10-0-RELEASE
+/mdmx-ob-sb1.s/1.5/Thu Oct 13 00:55:43 2016//Tnetbsd-10-0-RELEASE
+/mdmx-ob.s/1.5/Thu Oct 13 00:55:43 2016//Tnetbsd-10-0-RELEASE
+/mips32-dsp.s/1.8/Mon Sep 14 00:40:36 2020//Tnetbsd-10-0-RELEASE
+/mips32-dsp2.s/1.5/Thu Oct 13 00:55:43 2016//Tnetbsd-10-0-RELEASE
+/sanity.s/1.5/Thu Oct 13 00:55:43 2016//Tnetbsd-10-0-RELEASE
+/testutils.inc/1.8/Mon Sep 14 00:40:36 2020//Tnetbsd-10-0-RELEASE
+/utils-dsp.inc/1.8/Mon Sep 14 00:40:36 2020//Tnetbsd-10-0-RELEASE
+/utils-fpu.inc/1.8/Mon Sep 14 00:40:36 2020//Tnetbsd-10-0-RELEASE
+/utils-mdmx.inc/1.8/Mon Sep 14 00:40:36 2020//Tnetbsd-10-0-RELEASE
+D

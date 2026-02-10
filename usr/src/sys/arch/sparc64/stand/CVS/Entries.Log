@@ -1,0 +1,6 @@
+A D/bootblk////
+A D/installboot////
+A D/ofwboot////
+R D/ofwboot////
+R D/installboot////
+R D/bootblk////

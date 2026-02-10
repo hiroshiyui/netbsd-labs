@@ -1,0 +1,19 @@
+/Makefile.in/1.1.1.1/Sat Aug 14 16:05:23 2021//Tnetbsd-10-0-RELEASE
+/add.c/1.2/Sat Aug 14 16:14:59 2021//Tnetbsd-10-0-RELEASE
+/back-asyncmeta.h/1.2/Sat Aug 14 16:14:59 2021//Tnetbsd-10-0-RELEASE
+/bind.c/1.2/Sat Aug 14 16:14:59 2021//Tnetbsd-10-0-RELEASE
+/candidates.c/1.2/Sat Aug 14 16:14:59 2021//Tnetbsd-10-0-RELEASE
+/compare.c/1.2/Sat Aug 14 16:14:59 2021//Tnetbsd-10-0-RELEASE
+/config.c/1.2/Sat Aug 14 16:14:59 2021//Tnetbsd-10-0-RELEASE
+/conn.c/1.2/Sat Aug 14 16:14:59 2021//Tnetbsd-10-0-RELEASE
+/delete.c/1.2/Sat Aug 14 16:14:59 2021//Tnetbsd-10-0-RELEASE
+/dncache.c/1.2/Sat Aug 14 16:14:59 2021//Tnetbsd-10-0-RELEASE
+/init.c/1.2/Sat Aug 14 16:14:59 2021//Tnetbsd-10-0-RELEASE
+/map.c/1.2/Sat Aug 14 16:14:59 2021//Tnetbsd-10-0-RELEASE
+/message_queue.c/1.2/Sat Aug 14 16:14:59 2021//Tnetbsd-10-0-RELEASE
+/meta_result.c/1.2/Sat Aug 14 16:14:59 2021//Tnetbsd-10-0-RELEASE
+/modify.c/1.2/Sat Aug 14 16:14:59 2021//Tnetbsd-10-0-RELEASE
+/modrdn.c/1.2/Sat Aug 14 16:14:59 2021//Tnetbsd-10-0-RELEASE
+/proto-asyncmeta.h/1.2/Sat Aug 14 16:14:59 2021//Tnetbsd-10-0-RELEASE
+/search.c/1.2/Sat Aug 14 16:14:59 2021//Tnetbsd-10-0-RELEASE
+D

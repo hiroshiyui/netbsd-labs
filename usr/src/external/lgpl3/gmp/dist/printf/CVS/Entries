@@ -1,0 +1,24 @@
+/Makefile.am/1.1.1.2/Tue Aug 22 09:40:49 2017//Tnetbsd-10-0-RELEASE
+/Makefile.in/1.1.1.3/Tue Aug 22 09:40:49 2017//Tnetbsd-10-0-RELEASE
+/asprintf.c/1.1.1.3/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/asprntffuns.c/1.1.1.3/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/doprnt.c/1.1.1.3/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/doprntf.c/1.1.1.4/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/doprnti.c/1.1.1.3/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/fprintf.c/1.1.1.3/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/obprintf.c/1.1.1.3/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/obprntffuns.c/1.1.1.3/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/obvprintf.c/1.1.1.3/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/printf.c/1.1.1.3/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/printffuns.c/1.1.1.4/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/repl-vsnprintf.c/1.1.1.3/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/snprintf.c/1.1.1.3/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/snprntffuns.c/1.1.1.3/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/sprintf.c/1.1.1.3/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/sprintffuns.c/1.1.1.3/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/vasprintf.c/1.1.1.3/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/vfprintf.c/1.1.1.3/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/vprintf.c/1.1.1.3/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/vsnprintf.c/1.1.1.3/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+/vsprintf.c/1.1.1.3/Sun Sep 27 00:27:05 2020//Tnetbsd-10-0-RELEASE
+D

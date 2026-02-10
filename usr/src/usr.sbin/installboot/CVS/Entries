@@ -1,0 +1,13 @@
+/Makefile/1.56/Sun Sep  6 07:20:31 2020//Tnetbsd-10-0-RELEASE
+/bbinfo.c/1.14/Sun Apr  5 11:55:39 2009//Tnetbsd-10-0-RELEASE
+/evboards.c/1.8/Tue Nov  1 19:51:46 2022//Tnetbsd-10-0-RELEASE
+/evboards.h/1.2/Thu Sep 19 01:25:29 2019//Tnetbsd-10-0-RELEASE
+/ext2fs.c/1.9/Sun Jun 23 02:06:06 2013//Tnetbsd-10-0-RELEASE
+/ffs.c/1.33/Thu Nov 17 06:40:40 2022//Tnetbsd-10-0-RELEASE
+/fstypes.c/1.13/Thu Jan 14 16:27:49 2010//Tnetbsd-10-0-RELEASE
+/installboot.8/1.105/Fri Aug 19 00:50:08 2022//Tnetbsd-10-0-RELEASE
+/installboot.c/1.41/Sun Jul 10 19:28:00 2022//Tnetbsd-10-0-RELEASE
+/installboot.h/1.43/Sun Jul 10 19:28:00 2022//Tnetbsd-10-0-RELEASE
+/machines.c/1.43/Sun Jun 21 17:17:02 2020//Tnetbsd-10-0-RELEASE
+/sum.c/1.5/Thu Jan 14 16:27:49 2010//Tnetbsd-10-0-RELEASE
+D

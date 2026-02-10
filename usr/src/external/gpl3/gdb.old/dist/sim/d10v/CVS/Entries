@@ -1,0 +1,13 @@
+/ChangeLog/1.7/Mon Sep 14 00:40:30 2020//Tnetbsd-10-0-RELEASE
+/Makefile.in/1.8/Mon Sep 14 00:40:30 2020//Tnetbsd-10-0-RELEASE
+/aclocal.m4/1.6/Mon Sep 14 00:40:30 2020//Tnetbsd-10-0-RELEASE
+/config.in/1.7/Mon Sep 14 00:40:30 2020//Tnetbsd-10-0-RELEASE
+/configure/1.7/Mon Sep 14 00:40:30 2020//Tnetbsd-10-0-RELEASE
+/configure.ac/1.7/Mon Sep 14 00:40:30 2020//Tnetbsd-10-0-RELEASE
+/d10v_sim.h/1.6/Tue Nov 28 18:10:13 2017//Tnetbsd-10-0-RELEASE
+/endian.c/1.6/Tue Nov 28 18:10:13 2017//Tnetbsd-10-0-RELEASE
+/gencode.c/1.6/Tue Nov 28 18:10:13 2017//Tnetbsd-10-0-RELEASE
+/interp.c/1.6/Tue Nov 28 18:10:13 2017//Tnetbsd-10-0-RELEASE
+/sim-main.h/1.1.1.4/Sun Sep 13 21:45:30 2020//Tnetbsd-10-0-RELEASE
+/simops.c/1.6/Tue Nov 28 18:10:13 2017//Tnetbsd-10-0-RELEASE
+D

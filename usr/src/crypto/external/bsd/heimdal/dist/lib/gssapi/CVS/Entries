@@ -1,0 +1,26 @@
+/ChangeLog/1.1.1.1/Wed Apr 13 18:14:43 2011//Tnetbsd-10-0-RELEASE
+/Makefile.am/1.1.1.4/Sat Jan 28 20:46:43 2017//Tnetbsd-10-0-RELEASE
+/Makefile.in/1.1.1.1.10.1/Fri Aug 11 13:39:57 2023//Tnetbsd-10-0-RELEASE
+/NTMakefile/1.1.1.3/Sat Jan 28 20:46:43 2017//Tnetbsd-10-0-RELEASE
+/gen-oid.pl/1.1.1.3/Sat Jan 28 20:46:43 2017//Tnetbsd-10-0-RELEASE
+/gss-commands.in/1.1.1.3/Sat Jan 28 20:46:43 2017//Tnetbsd-10-0-RELEASE
+/gss_acquire_cred.3/1.4/Sat Jan 28 21:31:46 2017//Tnetbsd-10-0-RELEASE
+/gssapi.3/1.5/Sat Jan 28 21:31:46 2017//Tnetbsd-10-0-RELEASE
+/gssapi.h/1.2/Sat Jan 28 21:31:46 2017//Tnetbsd-10-0-RELEASE
+/gssapi_mech.h/1.2/Sat Jan 28 21:31:46 2017//Tnetbsd-10-0-RELEASE
+/gsstool.c/1.2/Sat Jan 28 21:31:46 2017//Tnetbsd-10-0-RELEASE
+/libgssapi-exports.def/1.1.1.3/Sat Jan 28 20:46:43 2017//Tnetbsd-10-0-RELEASE
+/libgssapi-version.rc/1.1.1.1/Wed Apr 13 18:14:43 2011//Tnetbsd-10-0-RELEASE
+/oid.txt/1.1.1.3/Sat Jan 28 20:46:43 2017//Tnetbsd-10-0-RELEASE
+/test_acquire_cred.c/1.2/Sat Jan 28 21:31:46 2017//Tnetbsd-10-0-RELEASE
+/test_add_store_cred.c/1.2/Sat Jan 28 21:31:46 2017//Tnetbsd-10-0-RELEASE
+/test_common.c/1.2/Sat Jan 28 21:31:46 2017//Tnetbsd-10-0-RELEASE
+/test_common.h/1.2/Sat Jan 28 21:31:46 2017//Tnetbsd-10-0-RELEASE
+/test_context.c/1.2.22.1/Fri Aug 11 13:39:57 2023//Tnetbsd-10-0-RELEASE
+/test_cred.c/1.2/Sat Jan 28 21:31:46 2017//Tnetbsd-10-0-RELEASE
+/test_kcred.c/1.2/Sat Jan 28 21:31:46 2017//Tnetbsd-10-0-RELEASE
+/test_names.c/1.2/Sat Jan 28 21:31:46 2017//Tnetbsd-10-0-RELEASE
+/test_ntlm.c/1.2/Sat Jan 28 21:31:46 2017//Tnetbsd-10-0-RELEASE
+/test_oid.c/1.2/Sat Jan 28 21:31:46 2017//Tnetbsd-10-0-RELEASE
+/version-script.map/1.1.1.4/Sat Jan 28 20:46:43 2017//Tnetbsd-10-0-RELEASE
+D

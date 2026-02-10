@@ -1,0 +1,19 @@
+/cli-cmds.c/1.1.1.9/Tue Sep 15 01:43:35 2020//Tnetbsd-10-0-RELEASE
+/cli-cmds.h/1.1.1.8/Tue Sep 15 01:43:35 2020//Tnetbsd-10-0-RELEASE
+/cli-decode.c/1.1.1.9/Tue Sep 15 01:43:35 2020//Tnetbsd-10-0-RELEASE
+/cli-decode.h/1.1.1.9/Tue Sep 15 01:43:35 2020//Tnetbsd-10-0-RELEASE
+/cli-dump.c/1.1.1.9/Tue Sep 15 01:43:35 2020//Tnetbsd-10-0-RELEASE
+/cli-interp.c/1.1.1.9/Tue Sep 15 01:43:35 2020//Tnetbsd-10-0-RELEASE
+/cli-interp.h/1.1.1.4/Tue Sep 15 01:43:35 2020//Tnetbsd-10-0-RELEASE
+/cli-logging.c/1.1.1.8/Tue Sep 15 01:43:35 2020//Tnetbsd-10-0-RELEASE
+/cli-option.c/1.1.1.1/Tue Sep 15 01:43:35 2020//Tnetbsd-10-0-RELEASE
+/cli-option.h/1.1.1.1/Tue Sep 15 01:43:35 2020//Tnetbsd-10-0-RELEASE
+/cli-script.c/1.1.1.9/Tue Sep 15 01:43:35 2020//Tnetbsd-10-0-RELEASE
+/cli-script.h/1.1.1.8/Tue Sep 15 01:43:35 2020//Tnetbsd-10-0-RELEASE
+/cli-setshow.c/1.1.1.9/Tue Sep 15 01:43:35 2020//Tnetbsd-10-0-RELEASE
+/cli-setshow.h/1.1.1.8/Tue Sep 15 01:43:35 2020//Tnetbsd-10-0-RELEASE
+/cli-style.c/1.1.1.2/Tue Sep 15 01:43:35 2020//Tnetbsd-10-0-RELEASE
+/cli-style.h/1.1.1.2/Tue Sep 15 01:43:35 2020//Tnetbsd-10-0-RELEASE
+/cli-utils.c/1.1.1.9/Tue Sep 15 01:43:35 2020//Tnetbsd-10-0-RELEASE
+/cli-utils.h/1.1.1.9/Tue Sep 15 01:43:35 2020//Tnetbsd-10-0-RELEASE
+D

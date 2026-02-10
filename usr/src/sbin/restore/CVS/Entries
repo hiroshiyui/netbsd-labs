@@ -1,0 +1,12 @@
+/Makefile/1.27/Sun Oct 13 07:28:13 2019//Tnetbsd-10-0-RELEASE
+/dirs.c/1.55/Mon Dec 12 16:53:30 2022//Tnetbsd-10-0-RELEASE
+/extern.h/1.16/Sat Jun 19 13:56:35 2021//Tnetbsd-10-0-RELEASE
+/interactive.c/1.31/Sun Aug 29 09:17:58 2021//Tnetbsd-10-0-RELEASE
+/main.c/1.37/Sat Jun 19 13:56:35 2021//Tnetbsd-10-0-RELEASE
+/restore.8/1.56/Wed Jul 18 17:57:00 2018//Tnetbsd-10-0-RELEASE
+/restore.c/1.22/Sat Jun 19 13:56:35 2021//Tnetbsd-10-0-RELEASE
+/restore.h/1.23/Sat Jun 19 13:56:35 2021//Tnetbsd-10-0-RELEASE
+/symtab.c/1.30/Sat Jun 19 13:56:35 2021//Tnetbsd-10-0-RELEASE
+/tape.c/1.74/Mon Dec 12 16:53:30 2022//Tnetbsd-10-0-RELEASE
+/utilities.c/1.24/Sat Jun 19 13:56:35 2021//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,20 @@
+/ChangeLog/1.7/Mon Sep 14 00:40:30 2020//Tnetbsd-10-0-RELEASE
+/Makefile.in/1.8/Mon Sep 14 00:40:30 2020//Tnetbsd-10-0-RELEASE
+/NEWS/1.5/Thu Oct 13 00:55:36 2016//Tnetbsd-10-0-RELEASE
+/README.erc32/1.5/Thu Oct 13 00:55:36 2016//Tnetbsd-10-0-RELEASE
+/README.gdb/1.5/Thu Oct 13 00:55:36 2016//Tnetbsd-10-0-RELEASE
+/README.sis/1.5/Thu Oct 13 00:55:36 2016//Tnetbsd-10-0-RELEASE
+/aclocal.m4/1.6/Mon Sep 14 00:40:30 2020//Tnetbsd-10-0-RELEASE
+/config.in/1.7/Mon Sep 14 00:40:30 2020//Tnetbsd-10-0-RELEASE
+/configure/1.7/Mon Sep 14 00:40:30 2020//Tnetbsd-10-0-RELEASE
+/configure.ac/1.8/Mon Sep 14 00:40:30 2020//Tnetbsd-10-0-RELEASE
+/erc32.c/1.8/Mon Sep 14 00:40:30 2020//Tnetbsd-10-0-RELEASE
+/exec.c/1.8/Mon Sep 14 00:40:30 2020//Tnetbsd-10-0-RELEASE
+/float.c/1.8/Mon Sep 14 00:40:30 2020//Tnetbsd-10-0-RELEASE
+/func.c/1.8/Mon Sep 14 00:40:30 2020//Tnetbsd-10-0-RELEASE
+/help.c/1.8/Mon Sep 14 00:40:30 2020//Tnetbsd-10-0-RELEASE
+/interf.c/1.8/Mon Sep 14 00:40:30 2020//Tnetbsd-10-0-RELEASE
+/sis.c/1.8/Mon Sep 14 00:40:30 2020//Tnetbsd-10-0-RELEASE
+/sis.h/1.8/Mon Sep 14 00:40:30 2020//Tnetbsd-10-0-RELEASE
+/startsim/1.8/Mon Sep 14 00:40:30 2020//Tnetbsd-10-0-RELEASE
+D

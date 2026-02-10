@@ -1,0 +1,19 @@
+/EndEntity1.crt/1.1.1.1.2.2/Fri Aug 11 13:41:43 2023//Tnetbsd-10-0-RELEASE
+/EndEntity2.crt/1.1.1.1.2.2/Fri Aug 11 13:41:43 2023//Tnetbsd-10-0-RELEASE
+/IP_waitingStatus_PBM.der/1.1.1.1.2.2/Fri Aug 11 13:41:43 2023//Tnetbsd-10-0-RELEASE
+/IP_waitingStatus_PBM.txt/1.1.1.1.2.2/Fri Aug 11 13:41:43 2023//Tnetbsd-10-0-RELEASE
+/IR_protected.der/1.1.1.1.2.2/Fri Aug 11 13:41:43 2023//Tnetbsd-10-0-RELEASE
+/IR_protected_0_extraCerts.der/1.1.1.1.2.2/Fri Aug 11 13:41:43 2023//Tnetbsd-10-0-RELEASE
+/IR_protected_2_extraCerts.der/1.1.1.1.2.2/Fri Aug 11 13:41:43 2023//Tnetbsd-10-0-RELEASE
+/IR_rmprotection.der/1.1.1.1.2.2/Fri Aug 11 13:41:43 2023//Tnetbsd-10-0-RELEASE
+/IR_unprotected.der/1.1.1.1.2.2/Fri Aug 11 13:41:43 2023//Tnetbsd-10-0-RELEASE
+/Intermediate_CA.crt/1.1.1.1.2.2/Fri Aug 11 13:41:43 2023//Tnetbsd-10-0-RELEASE
+/Root_CA.crt/1.1.1.1.2.2/Fri Aug 11 13:41:43 2023//Tnetbsd-10-0-RELEASE
+/chain.txt/1.1.1.1.2.2/Fri Aug 11 13:41:43 2023//Tnetbsd-10-0-RELEASE
+/client.crt/1.1.1.1.2.2/Fri Aug 11 13:41:43 2023//Tnetbsd-10-0-RELEASE
+/insta.cert.pem/1.1.1.1.2.2/Fri Aug 11 13:41:43 2023//Tnetbsd-10-0-RELEASE
+/insta.priv.pem/1.1.1.1.2.2/Fri Aug 11 13:41:43 2023//Tnetbsd-10-0-RELEASE
+/insta_ca.cert.pem/1.1.1.1.2.2/Fri Aug 11 13:41:43 2023//Tnetbsd-10-0-RELEASE
+/server.crt/1.1.1.1.2.2/Fri Aug 11 13:41:43 2023//Tnetbsd-10-0-RELEASE
+/server.key/1.1.1.1.2.2/Fri Aug 11 13:41:43 2023//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,7 @@
+/bad_signtime_attr.cms/1.1.1.1/Thu Jan 23 02:48:11 2020//Tnetbsd-10-0-RELEASE
+/ciphertext_from_1_1_1.cms/1.1.1.1.2.2/Fri Aug 11 13:41:44 2023//Tnetbsd-10-0-RELEASE
+/ct_multiple_attr.cms/1.1.1.1/Thu Jan 23 02:48:11 2020//Tnetbsd-10-0-RELEASE
+/no_ct_attr.cms/1.1.1.1/Thu Jan 23 02:48:11 2020//Tnetbsd-10-0-RELEASE
+/no_md_attr.cms/1.1.1.1/Thu Jan 23 02:48:11 2020//Tnetbsd-10-0-RELEASE
+/pkcs7-md4.pem/1.1.1.1.2.2/Fri Aug 11 13:41:44 2023//Tnetbsd-10-0-RELEASE
+D

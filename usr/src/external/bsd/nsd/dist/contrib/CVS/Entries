@@ -1,0 +1,9 @@
+/README/1.1.1.3.8.1/Sat Feb 24 13:06:25 2024//Tnetbsd-10-0-RELEASE
+/autocomplete_nsd-control.bash/1.1.1.1.2.2/Sat Feb 24 13:06:25 2024//Tnetbsd-10-0-RELEASE
+/bug390.patch/1.1.1.1/Sat Jan  7 19:42:02 2017//Tnetbsd-10-0-RELEASE
+/nsd.init/1.1.1.1/Sat Jan  7 19:42:02 2017//Tnetbsd-10-0-RELEASE
+/nsd.spec/1.1.1.1/Sat Jan  7 19:42:02 2017//Tnetbsd-10-0-RELEASE
+/nsd.zones2nsd.conf/1.1.1.1/Sat Jan  7 19:42:02 2017//Tnetbsd-10-0-RELEASE
+/nsd_munin_/1.1.1.2/Sat Sep 24 17:35:03 2022//Tnetbsd-10-0-RELEASE
+/patch_for_s6_startup_and_other_service_supervisors.diff/1.1.1.1/Sun Dec 15 16:00:56 2019//Tnetbsd-10-0-RELEASE
+D

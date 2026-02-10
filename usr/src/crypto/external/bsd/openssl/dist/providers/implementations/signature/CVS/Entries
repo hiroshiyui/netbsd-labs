@@ -1,0 +1,8 @@
+/build.info/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+/dsa_sig.c/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+/ecdsa_sig.c/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+/eddsa_sig.c/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+/mac_legacy_sig.c/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+/rsa_sig.c/1.1.1.2.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+/sm2_sig.c/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+D

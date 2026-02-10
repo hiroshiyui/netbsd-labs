@@ -1,0 +1,18 @@
+/create-wasm.d/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/create-wasm.s/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/custom-section.d/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/custom-section.s/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/invalid-wasm-1.d/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/invalid-wasm-1.s/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/invalid-wasm-2.d/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/invalid-wasm-2.s/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/long-sections.d/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/long-sections.s/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/parse-wasm-2.d/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/parse-wasm-2.s/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/parse-wasm.d/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/parse-wasm.s/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/prepared-section.d/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/prepared-section.s/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+/wasm32.exp/1.1.1.1/Tue Sep 15 01:42:13 2020//Tnetbsd-10-0-RELEASE
+D

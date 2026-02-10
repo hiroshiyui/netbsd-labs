@@ -1,0 +1,15 @@
+/Makefile/1.30/Mon Jun  6 10:56:29 2022//Tnetbsd-10-0-RELEASE
+/t_full.c/1.11/Tue Jul 16 17:29:17 2019//Tnetbsd-10-0-RELEASE
+/t_io.c/1.19/Tue Jul 16 21:13:28 2019//Tnetbsd-10-0-RELEASE
+/t_link.c/1.5/Wed Mar 30 16:35:28 2022//Tnetbsd-10-0-RELEASE
+/t_mtime_otrunc.c/1.1/Thu Feb  2 22:07:05 2017//Tnetbsd-10-0-RELEASE
+/t_mtime_write.c/1.1/Sun Nov 19 21:05:26 2017//Tnetbsd-10-0-RELEASE
+/t_renamerace.c/1.44/Mon Jan 31 17:23:37 2022//Tnetbsd-10-0-RELEASE
+/t_rmdirrace.c/1.9/Thu Feb 16 02:47:56 2012//Tnetbsd-10-0-RELEASE
+/t_ro.c/1.8/Sat Sep 21 14:25:42 2019//Tnetbsd-10-0-RELEASE
+/t_rwtoro.c/1.2/Thu May 14 08:34:18 2020//Tnetbsd-10-0-RELEASE
+/t_union.c/1.9/Fri Jan 13 21:30:40 2017//Tnetbsd-10-0-RELEASE
+/t_unpriv.c/1.16/Wed Nov 28 10:01:28 2018//Tnetbsd-10-0-RELEASE
+/t_vfsops.c/1.12/Fri Jan 13 21:30:40 2017//Tnetbsd-10-0-RELEASE
+/t_vnops.c/1.62/Tue Feb  1 18:27:24 2022//Tnetbsd-10-0-RELEASE
+D

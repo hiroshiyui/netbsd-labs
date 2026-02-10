@@ -1,0 +1,13 @@
+/http.c/1.2.2.2/Sun Feb 25 15:47:24 2024//Tnetbsd-10-0-RELEASE
+/netmgr-int.h/1.8.2.2/Mon Mar 11 17:25:20 2024//Tnetbsd-10-0-RELEASE
+/netmgr.c/1.8.2.2/Sun Feb 25 15:47:24 2024//Tnetbsd-10-0-RELEASE
+/tcp.c/1.7.2.2/Sun Feb 25 15:47:24 2024//Tnetbsd-10-0-RELEASE
+/tcpdns.c/1.7.2.2/Sun Feb 25 15:47:24 2024//Tnetbsd-10-0-RELEASE
+/timer.c/1.2.2.2/Sun Feb 25 15:47:24 2024//Tnetbsd-10-0-RELEASE
+/tlsdns.c/1.5.2.2/Sun Feb 25 15:47:24 2024//Tnetbsd-10-0-RELEASE
+/tlsstream.c/1.2.2.2/Sun Feb 25 15:47:25 2024//Tnetbsd-10-0-RELEASE
+/udp.c/1.10.2.2/Sun Feb 25 15:47:25 2024//Tnetbsd-10-0-RELEASE
+/uv-compat.c/1.6.2.1/Sun Feb 25 15:47:25 2024//Tnetbsd-10-0-RELEASE
+/uv-compat.h/1.5.2.1/Sun Feb 25 15:47:25 2024//Tnetbsd-10-0-RELEASE
+/uverr2result.c/1.5.2.1/Sun Feb 25 15:47:25 2024//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,10 @@
+/Makefile/1.19/Sun Mar  2 03:42:50 2014//Tnetbsd-10-0-RELEASE
+/crunchide.1/1.17/Tue Mar 18 18:20:44 2014//Tnetbsd-10-0-RELEASE
+/crunchide.c/1.14/Tue Aug 30 23:15:14 2011//Tnetbsd-10-0-RELEASE
+/exec_aout.c/1.12/Thu Aug 20 17:40:26 2009//Tnetbsd-10-0-RELEASE
+/exec_coff.c/1.7/Thu Aug 20 17:39:51 2009//Tnetbsd-10-0-RELEASE
+/exec_ecoff.c/1.7/Sat Apr 18 11:30:30 2009//Tnetbsd-10-0-RELEASE
+/exec_elf32.c/1.15/Fri Jul  8 17:47:47 2022//Tnetbsd-10-0-RELEASE
+/exec_elf64.c/1.5/Sat Jul 26 20:34:12 2003//Tnetbsd-10-0-RELEASE
+/extern.h/1.13/Sat Jul 26 20:34:12 2003//Tnetbsd-10-0-RELEASE
+D

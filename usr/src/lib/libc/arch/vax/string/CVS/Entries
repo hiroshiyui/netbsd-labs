@@ -1,0 +1,8 @@
+/Makefile.inc/1.5/Fri Mar 12 09:12:35 2010//Tnetbsd-10-0-RELEASE
+/bcmp.S/1.4/Tue Jan 25 02:38:15 2011//Tnetbsd-10-0-RELEASE
+/bcopy.S/1.4/Tue Jan 25 02:38:15 2011//Tnetbsd-10-0-RELEASE
+/bzero.S/1.4/Tue Jan 25 02:38:15 2011//Tnetbsd-10-0-RELEASE
+/ffs.S/1.4/Tue Jan 25 02:38:15 2011//Tnetbsd-10-0-RELEASE
+/index.S/1.6/Tue Sep 29 02:58:51 2020//Tnetbsd-10-0-RELEASE
+/memcmp.S/1.4/Tue Jan 25 02:38:15 2011//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,27 @@
+/c6x-isas.def/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/c6x-modes.def/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/c6x-mult.md/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/c6x-mult.md.in/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/c6x-opts.h/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/c6x-protos.h/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/c6x-sched.md/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/c6x-sched.md.in/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/c6x-tables.opt/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/c6x.c/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/c6x.h/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/c6x.md/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/c6x.opt/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/c6x_intrinsics.h/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/constraints.md/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/elf-common.h/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/elf.h/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/genmult.sh/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/genopt.sh/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/gensched.sh/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/predicates.md/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/sync.md/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/t-c6x/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/t-c6x-elf/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+/t-c6x-uclinux/1.1.1.1/Sat Mar  1 08:43:24 2014//Tnetbsd-10-0-RELEASE
+/uclinux-elf.h/1.1.1.9/Sat Apr 10 22:09:50 2021//Tnetbsd-10-0-RELEASE
+D

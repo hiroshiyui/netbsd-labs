@@ -1,0 +1,17 @@
+/Makefile/1.59/Sun Oct 13 07:28:17 2019//Tnetbsd-10-0-RELEASE
+/authenc.c/1.14/Fri Dec 14 23:40:17 2018//Tnetbsd-10-0-RELEASE
+/commands.c/1.80/Fri Jul  8 21:51:24 2022//Tnetbsd-10-0-RELEASE
+/defines.h/1.9/Thu Dec 13 04:49:19 2018//Tnetbsd-10-0-RELEASE
+/externs.h/1.44/Fri Dec 14 23:40:17 2018//Tnetbsd-10-0-RELEASE
+/general.h/1.6/Thu Aug  7 11:16:09 2003//Tnetbsd-10-0-RELEASE
+/main.c/1.32/Fri Dec 14 23:40:17 2018//Tnetbsd-10-0-RELEASE
+/network.c/1.18/Fri Dec 14 23:40:17 2018//Tnetbsd-10-0-RELEASE
+/ring.c/1.15/Fri Dec 14 23:40:17 2018//Tnetbsd-10-0-RELEASE
+/ring.h/1.11/Thu Dec 13 09:07:53 2018//Tnetbsd-10-0-RELEASE
+/sys_bsd.c/1.40/Fri Dec 14 06:28:49 2018//Tnetbsd-10-0-RELEASE
+/telnet.1/1.37/Sat Apr 16 09:53:13 2022//Tnetbsd-10-0-RELEASE
+/telnet.c/1.44/Sat Oct 30 13:43:40 2021//Tnetbsd-10-0-RELEASE
+/terminal.c/1.16/Fri Dec 14 06:08:18 2018//Tnetbsd-10-0-RELEASE
+/types.h/1.7/Thu Dec 13 05:22:14 2018//Tnetbsd-10-0-RELEASE
+/utilities.c/1.29/Sat Jan  5 06:47:24 2019//Tnetbsd-10-0-RELEASE
+D

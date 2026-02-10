@@ -1,0 +1,21 @@
+/AArch64.cpp/1.1.1.2/Sun May 30 01:25:35 2021//Tnetbsd-10-0-RELEASE
+/AArch64.h/1.1.1.1/Fri Nov  8 14:30:02 2019//Tnetbsd-10-0-RELEASE
+/ARM.cpp/1.1.1.2/Sun May 30 01:25:35 2021//Tnetbsd-10-0-RELEASE
+/ARM.h/1.1.1.2/Sun May 30 01:25:35 2021//Tnetbsd-10-0-RELEASE
+/M68k.cpp/1.1.1.1/Sun May 30 01:25:35 2021//Tnetbsd-10-0-RELEASE
+/M68k.h/1.1.1.1/Sun May 30 01:25:35 2021//Tnetbsd-10-0-RELEASE
+/Mips.cpp/1.1.1.2/Sun May 30 01:25:35 2021//Tnetbsd-10-0-RELEASE
+/Mips.h/1.1.1.1/Fri Nov  8 14:30:02 2019//Tnetbsd-10-0-RELEASE
+/PPC.cpp/1.1.1.2/Sun May 30 01:25:35 2021//Tnetbsd-10-0-RELEASE
+/PPC.h/1.1.1.1/Fri Nov  8 14:30:02 2019//Tnetbsd-10-0-RELEASE
+/RISCV.cpp/1.1.1.2/Sun May 30 01:25:35 2021//Tnetbsd-10-0-RELEASE
+/RISCV.h/1.1.1.2/Sun May 30 01:25:35 2021//Tnetbsd-10-0-RELEASE
+/Sparc.cpp/1.1.1.2/Sun May 30 01:25:35 2021//Tnetbsd-10-0-RELEASE
+/Sparc.h/1.1.1.1/Fri Nov  8 14:30:02 2019//Tnetbsd-10-0-RELEASE
+/SystemZ.cpp/1.1.1.2/Sun May 30 01:25:35 2021//Tnetbsd-10-0-RELEASE
+/SystemZ.h/1.1.1.2/Sun May 30 01:25:35 2021//Tnetbsd-10-0-RELEASE
+/VE.cpp/1.1.1.1/Sun May 30 01:25:35 2021//Tnetbsd-10-0-RELEASE
+/VE.h/1.1.1.1/Sun May 30 01:25:35 2021//Tnetbsd-10-0-RELEASE
+/X86.cpp/1.1.1.2/Sun May 30 01:25:35 2021//Tnetbsd-10-0-RELEASE
+/X86.h/1.1.1.2/Sun May 30 01:25:35 2021//Tnetbsd-10-0-RELEASE
+D

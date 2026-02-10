@@ -1,0 +1,15 @@
+/COPYRIGHT/1.5/Thu Aug  7 16:43:19 2003//Tnetbsd-10-0-RELEASE
+/Makefile.inc/1.9/Thu Jan 14 21:45:01 2016//Tnetbsd-10-0-RELEASE
+/WHATSNEW/1.6/Mon Feb 27 13:28:25 1995//Tnetbsd-10-0-RELEASE
+/cname.h/1.8/Tue Feb 23 22:14:59 2021//Tnetbsd-10-0-RELEASE
+/engine.c/1.29/Thu Feb 25 21:47:46 2021//Tnetbsd-10-0-RELEASE
+/re_format.7/1.16/Sun Dec  4 16:52:48 2022//Tnetbsd-10-0-RELEASE
+/regcomp.c/1.46/Thu Mar 11 15:00:29 2021//Tnetbsd-10-0-RELEASE
+/regerror.c/1.26/Sat Nov  5 11:33:55 2022//Tnetbsd-10-0-RELEASE
+/regex.3/1.33/Sun Dec  4 01:29:32 2022//Tnetbsd-10-0-RELEASE
+/regex2.h/1.15/Wed Feb 24 18:13:21 2021//Tnetbsd-10-0-RELEASE
+/regexec.c/1.26/Fri Feb 26 19:24:47 2021//Tnetbsd-10-0-RELEASE
+/regfree.c/1.19/Fri Feb 26 19:24:47 2021//Tnetbsd-10-0-RELEASE
+/regsub.c/1.3/Mon Feb 29 22:10:13 2016//Tnetbsd-10-0-RELEASE
+/utils.h/1.9/Thu Apr 22 19:20:24 2021//Tnetbsd-10-0-RELEASE
+D

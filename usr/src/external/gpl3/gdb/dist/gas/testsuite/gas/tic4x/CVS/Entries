@@ -1,0 +1,21 @@
+/addressing.s/1.1.1.1/Tue Sep 15 01:43:13 2020//Tnetbsd-10-0-RELEASE
+/addressing_c3x.d/1.1.1.1/Tue Sep 15 01:43:13 2020//Tnetbsd-10-0-RELEASE
+/addressing_c4x.d/1.1.1.1/Tue Sep 15 01:43:13 2020//Tnetbsd-10-0-RELEASE
+/allopcodes.S/1.1.1.1/Tue Sep 15 01:43:13 2020//Tnetbsd-10-0-RELEASE
+/data.d/1.1.1.1/Tue Sep 15 01:43:13 2020//Tnetbsd-10-0-RELEASE
+/data.s/1.1.1.1/Tue Sep 15 01:43:13 2020//Tnetbsd-10-0-RELEASE
+/float.d/1.1.1.1/Tue Sep 15 01:43:13 2020//Tnetbsd-10-0-RELEASE
+/float.s/1.1.1.1/Tue Sep 15 01:43:13 2020//Tnetbsd-10-0-RELEASE
+/opclasses.h/1.1.1.1/Tue Sep 15 01:43:13 2020//Tnetbsd-10-0-RELEASE
+/opcodes.s/1.1.1.1/Tue Sep 15 01:43:13 2020//Tnetbsd-10-0-RELEASE
+/opcodes_c3x.d/1.1.1.1/Tue Sep 15 01:43:13 2020//Tnetbsd-10-0-RELEASE
+/opcodes_c4x.d/1.1.1.1/Tue Sep 15 01:43:13 2020//Tnetbsd-10-0-RELEASE
+/opcodes_new.d/1.1.1.1/Tue Sep 15 01:43:13 2020//Tnetbsd-10-0-RELEASE
+/rebuild.sh/1.1.1.1/Tue Sep 15 01:43:13 2020//Tnetbsd-10-0-RELEASE
+/registers.s/1.1.1.1/Tue Sep 15 01:43:13 2020//Tnetbsd-10-0-RELEASE
+/registers_c3x.d/1.1.1.1/Tue Sep 15 01:43:13 2020//Tnetbsd-10-0-RELEASE
+/registers_c4x.d/1.1.1.1/Tue Sep 15 01:43:13 2020//Tnetbsd-10-0-RELEASE
+/tic4x.exp/1.1.1.1/Tue Sep 15 01:43:13 2020//Tnetbsd-10-0-RELEASE
+/zeros.d/1.1.1.1/Tue Sep 15 01:43:13 2020//Tnetbsd-10-0-RELEASE
+/zeros.s/1.1.1.1/Tue Sep 15 01:43:13 2020//Tnetbsd-10-0-RELEASE
+D

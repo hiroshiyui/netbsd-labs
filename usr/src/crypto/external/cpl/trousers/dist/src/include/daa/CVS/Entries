@@ -1,0 +1,12 @@
+/anonymity_revocation.h/1.1.1.1/Mon Jan  7 14:57:24 2019//Tnetbsd-10-0-RELEASE
+/bi.h/1.1.1.1/Mon Jan  7 14:57:24 2019//Tnetbsd-10-0-RELEASE
+/bi_gmp.h/1.1.1.1/Mon Jan  7 14:57:24 2019//Tnetbsd-10-0-RELEASE
+/bi_openssl.h/1.1.1.1/Mon Jan  7 14:57:24 2019//Tnetbsd-10-0-RELEASE
+/daa_parameter.h/1.1.1.1/Mon Jan  7 14:57:24 2019//Tnetbsd-10-0-RELEASE
+/daa_structs.h/1.1.1.1/Mon Jan  7 14:57:24 2019//Tnetbsd-10-0-RELEASE
+/issuer.h/1.1.1.1/Mon Jan  7 14:57:24 2019//Tnetbsd-10-0-RELEASE
+/key_correct.h/1.1.1.1/Mon Jan  7 14:57:24 2019//Tnetbsd-10-0-RELEASE
+/list.h/1.1.1.1/Mon Jan  7 14:57:24 2019//Tnetbsd-10-0-RELEASE
+/platform.h/1.1.1.1/Mon Jan  7 14:57:24 2019//Tnetbsd-10-0-RELEASE
+/verifier.h/1.1.1.1/Mon Jan  7 14:57:24 2019//Tnetbsd-10-0-RELEASE
+D

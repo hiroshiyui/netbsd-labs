@@ -1,0 +1,7 @@
+/Makefile/1.1.1.1.2.2/Fri Aug 11 13:40:50 2023//Tnetbsd-10-0-RELEASE
+/cmac-aes256.c/1.1.1.1.2.2/Fri Aug 11 13:40:50 2023//Tnetbsd-10-0-RELEASE
+/gmac.c/1.1.1.1.2.2/Fri Aug 11 13:40:50 2023//Tnetbsd-10-0-RELEASE
+/hmac-sha512.c/1.1.1.1.2.2/Fri Aug 11 13:40:50 2023//Tnetbsd-10-0-RELEASE
+/poly1305.c/1.1.1.1.2.2/Fri Aug 11 13:40:50 2023//Tnetbsd-10-0-RELEASE
+/siphash.c/1.1.1.1.2.2/Fri Aug 11 13:40:50 2023//Tnetbsd-10-0-RELEASE
+D

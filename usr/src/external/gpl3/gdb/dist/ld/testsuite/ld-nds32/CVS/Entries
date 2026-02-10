@@ -1,0 +1,21 @@
+/branch.d/1.1.1.1/Tue Sep 15 01:44:10 2020//Tnetbsd-10-0-RELEASE
+/branch.ld/1.1.1.1/Tue Sep 15 01:44:10 2020//Tnetbsd-10-0-RELEASE
+/branch.s/1.1.1.1/Tue Sep 15 01:44:10 2020//Tnetbsd-10-0-RELEASE
+/diff.d/1.1.1.1/Tue Sep 15 01:44:10 2020//Tnetbsd-10-0-RELEASE
+/diff.ld/1.1.1.1/Tue Sep 15 01:44:10 2020//Tnetbsd-10-0-RELEASE
+/diff.s/1.1.1.1/Tue Sep 15 01:44:10 2020//Tnetbsd-10-0-RELEASE
+/gp.d/1.1.1.1/Tue Sep 15 01:44:10 2020//Tnetbsd-10-0-RELEASE
+/gp.ld/1.1.1.1/Tue Sep 15 01:44:10 2020//Tnetbsd-10-0-RELEASE
+/gp.s/1.1.1.1/Tue Sep 15 01:44:10 2020//Tnetbsd-10-0-RELEASE
+/imm.d/1.1.1.1/Tue Sep 15 01:44:10 2020//Tnetbsd-10-0-RELEASE
+/imm.ld/1.1.1.1/Tue Sep 15 01:44:10 2020//Tnetbsd-10-0-RELEASE
+/imm.s/1.1.1.1/Tue Sep 15 01:44:10 2020//Tnetbsd-10-0-RELEASE
+/imm_symbol.s/1.1.1.1/Tue Sep 15 01:44:10 2020//Tnetbsd-10-0-RELEASE
+/nds32.exp/1.1.1.1/Tue Sep 15 01:44:10 2020//Tnetbsd-10-0-RELEASE
+/relax_jmp.d/1.1.1.1/Tue Sep 15 01:44:10 2020//Tnetbsd-10-0-RELEASE
+/relax_jmp.ld/1.1.1.1/Tue Sep 15 01:44:10 2020//Tnetbsd-10-0-RELEASE
+/relax_jmp.s/1.1.1.1/Tue Sep 15 01:44:10 2020//Tnetbsd-10-0-RELEASE
+/relax_load_store.d/1.1.1.1/Tue Sep 15 01:44:10 2020//Tnetbsd-10-0-RELEASE
+/relax_load_store.ld/1.1.1.1/Tue Sep 15 01:44:10 2020//Tnetbsd-10-0-RELEASE
+/relax_load_store.s/1.1.1.1/Tue Sep 15 01:44:10 2020//Tnetbsd-10-0-RELEASE
+D

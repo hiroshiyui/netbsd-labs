@@ -1,0 +1,10 @@
+/build.info/1.1.1.1.2.2/Fri Aug 11 13:41:19 2023//Tnetbsd-10-0-RELEASE
+/dh_kmgmt.c/1.1.1.1.2.3/Thu Nov  2 19:32:16 2023//Tnetbsd-10-0-RELEASE
+/dsa_kmgmt.c/1.1.1.1.2.3/Thu Nov  2 19:32:16 2023//Tnetbsd-10-0-RELEASE
+/ec_kmgmt.c/1.1.1.2.2.2/Fri Aug 11 13:41:19 2023//Tnetbsd-10-0-RELEASE
+/ec_kmgmt_imexport.inc/1.1.1.1.2.2/Fri Aug 11 13:41:19 2023//Tnetbsd-10-0-RELEASE
+/ecx_kmgmt.c/1.1.1.1.2.3/Thu Nov  2 19:32:16 2023//Tnetbsd-10-0-RELEASE
+/kdf_legacy_kmgmt.c/1.1.1.1.2.2/Fri Aug 11 13:41:19 2023//Tnetbsd-10-0-RELEASE
+/mac_legacy_kmgmt.c/1.1.1.1.2.3/Thu Nov  2 19:32:16 2023//Tnetbsd-10-0-RELEASE
+/rsa_kmgmt.c/1.1.1.2.2.2/Fri Aug 11 13:41:19 2023//Tnetbsd-10-0-RELEASE
+D

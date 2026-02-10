@@ -1,0 +1,19 @@
+/BUGS/1.1.1.1/Sun Mar 21 09:45:37 1993//Tnetbsd-10-0-RELEASE
+/Makefile/1.30/Tue Aug 16 10:14:40 2011//Tnetbsd-10-0-RELEASE
+/atc.6/1.24/Sun Jul 26 22:22:24 2015//Tnetbsd-10-0-RELEASE
+/def.h/1.7/Sat Mar 22 22:58:56 2014//Tnetbsd-10-0-RELEASE
+/extern.c/1.12/Fri Jun 19 06:02:31 2015//Tnetbsd-10-0-RELEASE
+/extern.h/1.20/Sun May  2 12:50:43 2021//Tnetbsd-10-0-RELEASE
+/grammar.y/1.13/Fri Oct 29 11:44:22 2021//Tnetbsd-10-0-RELEASE
+/graphics.c/1.21/Sun May  2 12:50:43 2021//Tnetbsd-10-0-RELEASE
+/input.c/1.30/Sun May  2 12:50:43 2021//Tnetbsd-10-0-RELEASE
+/lex.l/1.9/Fri Jun 19 06:02:31 2015//Tnetbsd-10-0-RELEASE
+/list.c/1.10/Sun May  2 12:50:43 2021//Tnetbsd-10-0-RELEASE
+/log.c/1.25/Sun May  2 12:50:43 2021//Tnetbsd-10-0-RELEASE
+/main.c/1.25/Sun May  2 12:50:43 2021//Tnetbsd-10-0-RELEASE
+/pathnames.h/1.4/Thu Aug  7 09:36:54 2003//Tnetbsd-10-0-RELEASE
+/struct.h/1.10/Sat Mar 22 22:58:56 2014//Tnetbsd-10-0-RELEASE
+/tunable.c/1.5/Thu Aug  7 09:36:55 2003//Tnetbsd-10-0-RELEASE
+/tunable.h/1.4/Thu Aug  7 09:36:55 2003//Tnetbsd-10-0-RELEASE
+/update.c/1.28/Sun May  2 12:50:43 2021//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,21 @@
+/Makefile.in/1.1.2.2/Sat Feb 24 13:07:30 2024//Tnetbsd-10-0-RELEASE
+/dir.c/1.1.2.2/Sat Feb 24 13:07:30 2024//Tnetbsd-10-0-RELEASE
+/errno.c/1.1.2.2/Sat Feb 24 13:07:30 2024//Tnetbsd-10-0-RELEASE
+/errno2result.c/1.1.2.2/Sat Feb 24 13:07:30 2024//Tnetbsd-10-0-RELEASE
+/errno2result.h/1.1.2.2/Sat Feb 24 13:07:30 2024//Tnetbsd-10-0-RELEASE
+/file.c/1.1.2.2/Sat Feb 24 13:07:30 2024//Tnetbsd-10-0-RELEASE
+/fsaccess.c/1.1.2.2/Sat Feb 24 13:07:30 2024//Tnetbsd-10-0-RELEASE
+/ifiter_getifaddrs.c/1.1.2.2/Sat Feb 24 13:07:30 2024//Tnetbsd-10-0-RELEASE
+/interfaceiter.c/1.1.2.2/Sat Feb 24 13:07:30 2024//Tnetbsd-10-0-RELEASE
+/meminfo.c/1.1.2.2/Sat Feb 24 13:07:30 2024//Tnetbsd-10-0-RELEASE
+/net.c/1.1.2.2/Sat Feb 24 13:07:30 2024//Tnetbsd-10-0-RELEASE
+/os.c/1.1.2.2/Sat Feb 24 13:07:30 2024//Tnetbsd-10-0-RELEASE
+/pk11_api.c/1.1.2.2/Sat Feb 24 13:07:30 2024//Tnetbsd-10-0-RELEASE
+/resource.c/1.1.2.2/Sat Feb 24 13:07:30 2024//Tnetbsd-10-0-RELEASE
+/socket.c/1.1.2.2/Sat Feb 24 13:07:30 2024//Tnetbsd-10-0-RELEASE
+/socket_p.h/1.1.2.2/Sat Feb 24 13:07:31 2024//Tnetbsd-10-0-RELEASE
+/stdio.c/1.1.2.2/Sat Feb 24 13:07:31 2024//Tnetbsd-10-0-RELEASE
+/stdtime.c/1.1.2.2/Sat Feb 24 13:07:31 2024//Tnetbsd-10-0-RELEASE
+/syslog.c/1.1.2.2/Sat Feb 24 13:07:31 2024//Tnetbsd-10-0-RELEASE
+/time.c/1.1.2.2/Sat Feb 24 13:07:31 2024//Tnetbsd-10-0-RELEASE
+D

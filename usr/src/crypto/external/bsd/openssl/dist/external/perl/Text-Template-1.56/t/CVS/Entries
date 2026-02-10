@@ -1,0 +1,23 @@
+/author-pod-syntax.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+/author-signature.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+/basic.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+/broken.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+/delimiters.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+/error.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+/exported.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+/hash.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+/inline-comment.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+/nested-tags.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+/ofh.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+/out.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+/prepend.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+/preprocess.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+/rt29928.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+/safe.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+/safe2.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+/safe3.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+/strict.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+/taint.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+/template-encoding.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+/warnings.t/1.1.1.1.2.2/Fri Aug 11 13:41:08 2023//Tnetbsd-10-0-RELEASE
+D

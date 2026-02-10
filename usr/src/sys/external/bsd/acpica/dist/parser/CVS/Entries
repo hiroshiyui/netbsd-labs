@@ -1,0 +1,12 @@
+/psargs.c/1.1.1.16/Sat Aug 27 14:02:04 2022//Tnetbsd-10-0-RELEASE
+/psloop.c/1.1.1.17/Sat Aug 27 14:02:04 2022//Tnetbsd-10-0-RELEASE
+/psobject.c/1.1.1.17/Sat Aug 27 14:02:04 2022//Tnetbsd-10-0-RELEASE
+/psopcode.c/1.15/Sat Aug 27 14:04:58 2022//Tnetbsd-10-0-RELEASE
+/psopinfo.c/1.15/Sat Aug 27 14:04:58 2022//Tnetbsd-10-0-RELEASE
+/psparse.c/1.1.1.18/Sat Aug 27 14:02:04 2022//Tnetbsd-10-0-RELEASE
+/psscope.c/1.1.1.12/Sat Aug 27 14:02:04 2022//Tnetbsd-10-0-RELEASE
+/pstree.c/1.1.1.13/Sat Aug 27 14:02:04 2022//Tnetbsd-10-0-RELEASE
+/psutils.c/1.1.1.16/Sat Aug 27 14:02:05 2022//Tnetbsd-10-0-RELEASE
+/pswalk.c/1.1.1.13/Sat Aug 27 14:02:05 2022//Tnetbsd-10-0-RELEASE
+/psxface.c/1.1.1.15/Sat Aug 27 14:02:05 2022//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,7 @@
+/Makefile/1.4/Mon Jun 27 01:00:06 2005//Tnetbsd-10-0-RELEASE
+/extern.h/1.7/Tue Feb 21 02:19:41 2012//Tnetbsd-10-0-RELEASE
+/scsi_sense.c/1.10/Mon Jan 24 09:14:37 2022//Tnetbsd-10-0-RELEASE
+/scsi_subr.c/1.14/Tue Feb 21 02:22:54 2012//Tnetbsd-10-0-RELEASE
+/scsictl.8/1.32/Sun Aug 21 12:44:16 2022//Tnetbsd-10-0-RELEASE
+/scsictl.c/1.40/Sun Aug 21 12:44:16 2022//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,15 @@
+/crti.S/1.1.1.8/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/crtn.S/1.1.1.8/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/divdi3.c/1.1.1.8/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/lib2funcs.c/1.1.1.8/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/memcpy.c/1.1.1.8/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/memcpy.h/1.1.1.8/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/memset.c/1.1.1.8/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/memset.h/1.1.1.8/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/moddi3.c/1.1.1.8/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/set_trampoline_parity.c/1.1.1.8/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/t-visium/1.1.1.8/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/udivdi3.c/1.1.1.8/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/udivmoddi4.c/1.1.1.8/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/umoddi3.c/1.1.1.8/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,27 @@
+/Makefile.am/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/Makefile.in/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/README/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/alloca.c/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/getopt.c/1.2/Thu Jan 14 00:34:53 2016//Tnetbsd-10-0-RELEASE
+/getopt.h/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/getopt1.c/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/getopt_.h/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/getopt_int.h/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/gettext.h/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/memcpy.c/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/memmove.c/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/mkstemp.c/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/strcase.h/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/strcasecmp.c/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/strdup.c/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/strdup.h/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/strerror.c/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/strncasecmp.c/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/substring.c/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/system.h/1.2/Thu Jan 14 00:34:53 2016//Tnetbsd-10-0-RELEASE
+/tempname.c/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/xalloc.h/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/xexit.c/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/xmalloc.c/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+/xstrdup.c/1.1.1.1/Thu Jan 14 00:11:29 2016//Tnetbsd-10-0-RELEASE
+D

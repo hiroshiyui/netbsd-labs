@@ -1,0 +1,23 @@
+/Makefile.am/1.1.1.5/Thu Apr 13 19:17:31 2017//Tnetbsd-10-0-RELEASE
+/Makefile.in/1.1.1.12/Mon May 25 20:40:09 2020//Tnetbsd-10-0-RELEASE
+/README/1.1.1.1/Sun Dec 13 16:56:22 2009//Tnetbsd-10-0-RELEASE
+/invoke-ntpdc.menu/1.1.1.1/Fri Dec 27 23:31:03 2013//Tnetbsd-10-0-RELEASE
+/invoke-ntpdc.texi/1.1.1.14/Sun Oct  9 21:00:11 2022//Tnetbsd-10-0-RELEASE
+/layout.std/1.1.1.4/Mon May 25 20:40:09 2020//Tnetbsd-10-0-RELEASE
+/nl.pl/1.4/Mon May 25 20:47:26 2020//Tnetbsd-10-0-RELEASE
+/nl.pl.in/1.1.1.2/Fri Dec 27 23:31:04 2013//Tnetbsd-10-0-RELEASE
+/nl_in.c/1.5/Mon May 25 20:47:26 2020//Tnetbsd-10-0-RELEASE
+/ntpdc-layout.c/1.5/Mon May 25 20:47:26 2020//Tnetbsd-10-0-RELEASE
+/ntpdc-opts.c/1.14/Sun Oct  9 21:41:04 2022//Tnetbsd-10-0-RELEASE
+/ntpdc-opts.def/1.1.1.3/Fri Dec 19 20:37:42 2014//Tnetbsd-10-0-RELEASE
+/ntpdc-opts.h/1.14/Sun Oct  9 21:41:04 2022//Tnetbsd-10-0-RELEASE
+/ntpdc.1ntpdcman/1.1.1.14/Sun Oct  9 21:00:11 2022//Tnetbsd-10-0-RELEASE
+/ntpdc.1ntpdcmdoc/1.1.1.14/Sun Oct  9 21:00:11 2022//Tnetbsd-10-0-RELEASE
+/ntpdc.c/1.18/Mon May 25 20:47:26 2020//Tnetbsd-10-0-RELEASE
+/ntpdc.h/1.8/Mon May 25 20:47:26 2020//Tnetbsd-10-0-RELEASE
+/ntpdc.html/1.1.1.14/Sun Oct  9 21:00:11 2022//Tnetbsd-10-0-RELEASE
+/ntpdc.man.in/1.1.1.14/Sun Oct  9 21:00:11 2022//Tnetbsd-10-0-RELEASE
+/ntpdc.mdoc.in/1.1.1.14/Sun Oct  9 21:00:11 2022//Tnetbsd-10-0-RELEASE
+/ntpdc.texi/1.1.1.1/Fri Dec 27 23:31:04 2013//Tnetbsd-10-0-RELEASE
+/ntpdc_ops.c/1.11/Mon May 25 20:47:26 2020//Tnetbsd-10-0-RELEASE
+D

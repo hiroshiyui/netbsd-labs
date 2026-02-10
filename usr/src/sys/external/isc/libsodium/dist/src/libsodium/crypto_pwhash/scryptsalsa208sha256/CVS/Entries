@@ -1,0 +1,7 @@
+/crypto_scrypt-common.c/1.1.1.1/Thu Aug 20 21:17:05 2020//Tnetbsd-10-0-RELEASE
+/crypto_scrypt.h/1.1.1.1/Thu Aug 20 21:17:05 2020//Tnetbsd-10-0-RELEASE
+/pbkdf2-sha256.c/1.1.1.1/Thu Aug 20 21:17:05 2020//Tnetbsd-10-0-RELEASE
+/pbkdf2-sha256.h/1.1.1.1/Thu Aug 20 21:17:05 2020//Tnetbsd-10-0-RELEASE
+/pwhash_scryptsalsa208sha256.c/1.1.1.1/Thu Aug 20 21:17:05 2020//Tnetbsd-10-0-RELEASE
+/scrypt_platform.c/1.1.1.1/Thu Aug 20 21:17:05 2020//Tnetbsd-10-0-RELEASE
+D

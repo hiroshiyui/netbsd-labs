@@ -1,0 +1,14 @@
+A D/dns_master_load.in////
+A D/dns_message_checksig.in////
+A D/dns_message_parse.in////
+A D/dns_name_fromtext_target.in////
+A D/dns_name_fromwire.in////
+A D/dns_qp.in////
+A D/dns_qpkey_name.in////
+A D/dns_rdata_fromtext.in////
+A D/dns_rdata_fromwire_text.in////
+A D/isc_lex_getmastertoken.in////
+A D/isc_lex_gettoken.in////
+R D/dns_qpkey_name.in////
+R D/dns_qp.in////
+R D/dns_name_fromwire.in////

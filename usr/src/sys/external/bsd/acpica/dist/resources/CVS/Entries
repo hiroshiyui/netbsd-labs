@@ -1,0 +1,15 @@
+/rsaddr.c/1.1.1.12/Sat Aug 27 14:02:05 2022//Tnetbsd-10-0-RELEASE
+/rscalc.c/1.1.1.13/Sat Aug 27 14:02:05 2022//Tnetbsd-10-0-RELEASE
+/rscreate.c/1.1.1.14/Sat Aug 27 14:02:05 2022//Tnetbsd-10-0-RELEASE
+/rsdump.c/1.16/Sat Aug 27 14:04:58 2022//Tnetbsd-10-0-RELEASE
+/rsdumpinfo.c/1.14/Sat Aug 27 14:04:58 2022//Tnetbsd-10-0-RELEASE
+/rsinfo.c/1.1.1.13/Sat Aug 27 14:02:05 2022//Tnetbsd-10-0-RELEASE
+/rsio.c/1.1.1.12/Sat Aug 27 14:02:05 2022//Tnetbsd-10-0-RELEASE
+/rsirq.c/1.1.1.12/Sat Aug 27 14:02:05 2022//Tnetbsd-10-0-RELEASE
+/rslist.c/1.1.1.12/Sat Aug 27 14:02:05 2022//Tnetbsd-10-0-RELEASE
+/rsmemory.c/1.1.1.12/Sat Aug 27 14:02:05 2022//Tnetbsd-10-0-RELEASE
+/rsmisc.c/1.1.1.14/Sat Aug 27 14:02:05 2022//Tnetbsd-10-0-RELEASE
+/rsserial.c/1.1.1.12/Sat Aug 27 14:02:05 2022//Tnetbsd-10-0-RELEASE
+/rsutils.c/1.15/Sat Aug 27 14:04:58 2022//Tnetbsd-10-0-RELEASE
+/rsxface.c/1.16/Sat Aug 27 14:04:58 2022//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,20 @@
+/libgomp-plugin.c/1.1.1.1/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/lock.c/1.1.1.1/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/mutex.c/1.1.1.1/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/mutex.h/1.1.1.1/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/oacc-async.c/1.1.1.1/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/oacc-cuda.c/1.1.1.1/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/oacc-host.c/1.1.1.1/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/oacc-init.c/1.1.1.1/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/oacc-mem.c/1.1.1.1/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/oacc-plugin.c/1.1.1.1/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/omp-lock.h/1.1.1.1/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/openacc.f90/1.1.1.1/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/pool.h/1.1.1.1/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/proc.c/1.1.1.1/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/ptrlock.c/1.1.1.1/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/ptrlock.h/1.1.1.1/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/sem.c/1.1.1.1/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/sem.h/1.1.1.1/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+/thread-stacksize.h/1.1.1.1/Sat Apr 10 22:09:57 2021//Tnetbsd-10-0-RELEASE
+D

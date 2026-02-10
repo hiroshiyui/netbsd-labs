@@ -1,0 +1,18 @@
+/ax_check_compile_flag.m4/1.1.1.2/Fri Sep 23 12:09:24 2022//Tnetbsd-10-0-RELEASE
+/ax_check_link_flag.m4/1.1.1.2/Fri Sep 23 12:09:24 2022//Tnetbsd-10-0-RELEASE
+/ax_check_openssl.m4/1.1.1.6.2.1/Sun Feb 25 15:47:37 2024//Tnetbsd-10-0-RELEASE
+/ax_gcc_func_attribute.m4/1.1.1.2.2.1/Sun Feb 25 15:47:37 2024//Tnetbsd-10-0-RELEASE
+/ax_jemalloc.m4/1.1.1.1.2.2/Sun Feb 25 15:47:37 2024//Tnetbsd-10-0-RELEASE
+/ax_lib_lmdb.m4/1.1.1.1.2.2/Sun Feb 25 15:47:37 2024//Tnetbsd-10-0-RELEASE
+/ax_posix_shell.m4/1.1.1.3/Fri Sep 23 12:09:24 2022//Tnetbsd-10-0-RELEASE
+/ax_prog_cc_for_build.m4/1.1.1.1.2.2/Sun Feb 25 15:47:37 2024//Tnetbsd-10-0-RELEASE
+/ax_pthread.m4/1.1.1.2.2.1/Sun Feb 25 15:47:37 2024//Tnetbsd-10-0-RELEASE
+/ax_restore_flags.m4/1.1.1.2/Fri Sep 23 12:09:24 2022//Tnetbsd-10-0-RELEASE
+/ax_save_flags.m4/1.1.1.2/Fri Sep 23 12:09:24 2022//Tnetbsd-10-0-RELEASE
+/ax_tls.m4/1.1.1.1.2.2/Sun Feb 25 15:47:37 2024//Tnetbsd-10-0-RELEASE
+/libtool.m4/1.1.1.3.2.1/Sun Feb 25 15:47:37 2024//Tnetbsd-10-0-RELEASE
+/ltoptions.m4/1.1.1.1.14.1/Sun Feb 25 15:47:38 2024//Tnetbsd-10-0-RELEASE
+/ltsugar.m4/1.1.1.2.12.1/Sun Feb 25 15:47:38 2024//Tnetbsd-10-0-RELEASE
+/ltversion.m4/1.1.1.1.14.1/Sun Feb 25 15:47:38 2024//Tnetbsd-10-0-RELEASE
+/lt~obsolete.m4/1.1.1.2.12.1/Sun Feb 25 15:47:38 2024//Tnetbsd-10-0-RELEASE
+D

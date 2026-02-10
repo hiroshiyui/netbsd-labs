@@ -1,0 +1,11 @@
+/crti.S/1.1.1.9/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/crtlibid.S/1.1.1.9/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/crtn.S/1.1.1.9/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/lib1funcs.S/1.1.1.9/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/libgcc-glibc.ver/1.1.1.9/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/linux-unwind.h/1.1.1.11/Sat Apr 10 22:10:01 2021//Tnetbsd-10-0-RELEASE
+/t-bfin/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/t-crtlibid/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/t-crtstuff/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/t-linux/1.1.1.2/Sat Jan 19 10:14:17 2019//Tnetbsd-10-0-RELEASE
+D

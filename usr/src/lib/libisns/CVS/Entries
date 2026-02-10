@@ -1,0 +1,20 @@
+/Makefile/1.7/Sun Jul 31 12:40:35 2022//Tnetbsd-10-0-RELEASE
+/isns.3/1.2/Sun Jan 16 08:00:01 2011//Tnetbsd-10-0-RELEASE
+/isns.c/1.2/Tue Oct  8 19:38:27 2019//Tnetbsd-10-0-RELEASE
+/isns.h/1.2/Tue Oct 25 00:02:30 2011//Tnetbsd-10-0-RELEASE
+/isns_config.h/1.2/Tue Apr 19 20:32:16 2022//Tnetbsd-10-0-RELEASE
+/isns_defs.h/1.1.1.1/Sun Jan 16 01:22:50 2011//Tnetbsd-10-0-RELEASE
+/isns_fileio.c/1.1.1.1/Sun Jan 16 01:22:50 2011//Tnetbsd-10-0-RELEASE
+/isns_fileio.h/1.1.1.1/Sun Jan 16 01:22:50 2011//Tnetbsd-10-0-RELEASE
+/isns_pdu.c/1.5/Sat Aug 21 23:00:30 2021//Tnetbsd-10-0-RELEASE
+/isns_pdu.h/1.5/Tue Apr 19 20:32:16 2022//Tnetbsd-10-0-RELEASE
+/isns_socketio.c/1.1.1.1/Sun Jan 16 01:22:50 2011//Tnetbsd-10-0-RELEASE
+/isns_socketio.h/1.1.1.1/Sun Jan 16 01:22:50 2011//Tnetbsd-10-0-RELEASE
+/isns_task.c/1.1.1.1/Sun Jan 16 01:22:50 2011//Tnetbsd-10-0-RELEASE
+/isns_task.h/1.1.1.1/Sun Jan 16 01:22:50 2011//Tnetbsd-10-0-RELEASE
+/isns_thread.c/1.2/Wed Jul  3 18:40:33 2019//Tnetbsd-10-0-RELEASE
+/isns_thread.h/1.1.1.1/Sun Jan 16 01:22:50 2011//Tnetbsd-10-0-RELEASE
+/isns_util.c/1.2/Wed Mar 21 05:33:27 2012//Tnetbsd-10-0-RELEASE
+/isns_util.h/1.2/Wed Aug 17 10:08:43 2011//Tnetbsd-10-0-RELEASE
+/shlib_version/1.1.1.1/Sun Jan 16 01:22:50 2011//Tnetbsd-10-0-RELEASE
+D

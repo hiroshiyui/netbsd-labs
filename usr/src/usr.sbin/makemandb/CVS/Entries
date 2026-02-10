@@ -1,0 +1,20 @@
+/DBSCHEMA/1.3/Sat May 18 10:38:04 2019//Tnetbsd-10-0-RELEASE
+/Makefile/1.12/Thu Nov 12 17:53:43 2020//Tnetbsd-10-0-RELEASE
+/apropos-utils.3/1.5/Sun Sep 11 20:32:37 2022//Tnetbsd-10-0-RELEASE
+/apropos-utils.c/1.50/Sun Sep 11 20:32:37 2022//Tnetbsd-10-0-RELEASE
+/apropos-utils.h/1.15/Sat May 18 07:56:43 2019//Tnetbsd-10-0-RELEASE
+/apropos.1/1.23/Tue May 17 11:37:54 2022//Tnetbsd-10-0-RELEASE
+/apropos.c/1.26/Thu May 19 04:08:03 2022//Tnetbsd-10-0-RELEASE
+/close_db.3/1.3/Sun Sep 11 20:32:37 2022//Tnetbsd-10-0-RELEASE
+/custom_apropos_tokenizer.c/1.4/Sun Dec  5 08:03:32 2021//Tnetbsd-10-0-RELEASE
+/custom_apropos_tokenizer.h/1.1/Sun Jun 18 16:24:10 2017//Tnetbsd-10-0-RELEASE
+/fts3_tokenizer.h/1.1/Sun Jun 18 16:24:10 2017//Tnetbsd-10-0-RELEASE
+/init_db.3/1.4/Sun Sep 11 20:32:37 2022//Tnetbsd-10-0-RELEASE
+/makemandb.8/1.11/Sun Sep 11 20:32:37 2022//Tnetbsd-10-0-RELEASE
+/makemandb.c/1.66/Sun Oct 30 01:49:30 2022//Tnetbsd-10-0-RELEASE
+/nostem.txt/1.7/Fri Apr 16 07:45:41 2021//Tnetbsd-10-0-RELEASE
+/run_query.3/1.5/Sun Sep 11 20:32:37 2022//Tnetbsd-10-0-RELEASE
+/stopwords.txt/1.4/Mon May 30 19:35:29 2016//Tnetbsd-10-0-RELEASE
+/whatis.1/1.5/Sun Sep 11 20:32:37 2022//Tnetbsd-10-0-RELEASE
+/whatis.c/1.9/Sat May 18 10:28:57 2019//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,13 @@
+/arithmetic.c/1.1.1.6/Sat Apr 10 22:09:25 2021//Tnetbsd-10-0-RELEASE
+/atomics.c/1.1.1.6/Sat Apr 10 22:09:25 2021//Tnetbsd-10-0-RELEASE
+/bitstring.c/1.1.1.6/Sat Apr 10 22:09:25 2021//Tnetbsd-10-0-RELEASE
+/fbarrier.c/1.1.1.6/Sat Apr 10 22:09:25 2021//Tnetbsd-10-0-RELEASE
+/fibers.c/1.1.1.6/Sat Apr 10 22:09:25 2021//Tnetbsd-10-0-RELEASE
+/fp16.c/1.1.1.6/Sat Apr 10 22:09:25 2021//Tnetbsd-10-0-RELEASE
+/misc.c/1.1.1.6/Sat Apr 10 22:09:25 2021//Tnetbsd-10-0-RELEASE
+/multimedia.c/1.1.1.6/Sat Apr 10 22:09:25 2021//Tnetbsd-10-0-RELEASE
+/queue.c/1.1.1.6/Sat Apr 10 22:09:25 2021//Tnetbsd-10-0-RELEASE
+/sat_arithmetic.c/1.1.1.6/Sat Apr 10 22:09:25 2021//Tnetbsd-10-0-RELEASE
+/segment.c/1.1.1.6/Sat Apr 10 22:09:25 2021//Tnetbsd-10-0-RELEASE
+/workitems.c/1.1.1.6/Sat Apr 10 22:09:25 2021//Tnetbsd-10-0-RELEASE
+D

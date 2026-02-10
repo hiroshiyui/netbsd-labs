@@ -1,0 +1,22 @@
+/fptr.c/1.1.1.12/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/gthr-dce.h/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/hpux-unwind.h/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/lib2funcs.S/1.1.1.10/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/linux-atomic.c/1.1.1.12/Fri Jul 22 19:52:33 2022//Tnetbsd-10-0-RELEASE
+/linux-unwind.h/1.1.1.12/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/milli64.S/1.1.1.10/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/pa64-hpux-lib.h/1.1.1.7/Fri Jul 22 19:52:33 2022//Tnetbsd-10-0-RELEASE
+/quadlib.c/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/stublib.c/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/t-hpux/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/t-hpux10/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/t-linux/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/t-linux64/1.1.1.2/Fri Jul 22 19:52:33 2022//Tnetbsd-10-0-RELEASE
+/t-netbsd/1.1/Sat Mar  1 09:26:01 2014//Tnetbsd-10-0-RELEASE
+/t-openbsd/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/t-pa64/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/t-slibgcc-dwarf-ver/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/t-slibgcc-hpux/1.1.1.9/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+/t-slibgcc-sjlj-ver/1.1.1.1/Sat Mar  1 08:41:59 2014//Tnetbsd-10-0-RELEASE
+/t-stublib/1.1.1.5/Sat Apr 10 22:10:02 2021//Tnetbsd-10-0-RELEASE
+D

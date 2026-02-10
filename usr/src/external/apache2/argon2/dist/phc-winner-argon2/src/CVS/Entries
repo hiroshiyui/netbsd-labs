@@ -1,0 +1,15 @@
+/argon2.c/1.2/Mon Nov  1 03:09:59 2021//Tnetbsd-10-0-RELEASE
+/bench.c/1.1/Wed Oct  9 13:13:09 2019//Tnetbsd-10-0-RELEASE
+/core.c/1.3/Mon Nov  1 03:09:59 2021//Tnetbsd-10-0-RELEASE
+/core.h/1.1/Wed Oct  9 13:13:09 2019//Tnetbsd-10-0-RELEASE
+/encoding.c/1.1/Wed Oct  9 13:13:09 2019//Tnetbsd-10-0-RELEASE
+/encoding.h/1.1/Wed Oct  9 13:13:09 2019//Tnetbsd-10-0-RELEASE
+/genkat.c/1.1/Wed Oct  9 13:13:09 2019//Tnetbsd-10-0-RELEASE
+/genkat.h/1.1/Wed Oct  9 13:13:09 2019//Tnetbsd-10-0-RELEASE
+/opt.c/1.1/Wed Oct  9 13:13:09 2019//Tnetbsd-10-0-RELEASE
+/ref.c/1.1/Wed Oct  9 13:13:09 2019//Tnetbsd-10-0-RELEASE
+/run.c/1.1/Wed Oct  9 13:13:09 2019//Tnetbsd-10-0-RELEASE
+/test.c/1.1/Wed Oct  9 13:13:09 2019//Tnetbsd-10-0-RELEASE
+/thread.c/1.2/Sat May 21 19:57:06 2022//Tnetbsd-10-0-RELEASE
+/thread.h/1.2/Sat May 21 19:57:06 2022//Tnetbsd-10-0-RELEASE
+D

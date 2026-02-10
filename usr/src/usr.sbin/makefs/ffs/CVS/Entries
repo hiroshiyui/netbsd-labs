@@ -1,0 +1,12 @@
+/Makefile.inc/1.1/Fri Jan 16 19:39:52 2009//Tnetbsd-10-0-RELEASE
+/buf.c/1.25/Sat Apr  9 10:05:35 2022//Tnetbsd-10-0-RELEASE
+/buf.h/1.14/Sun Mar  6 08:31:54 2022//Tnetbsd-10-0-RELEASE
+/ffs_alloc.c/1.30.2.1/Sat May 13 11:51:13 2023//Tnetbsd-10-0-RELEASE
+/ffs_balloc.c/1.22/Thu Nov 17 06:40:41 2022//Tnetbsd-10-0-RELEASE
+/ffs_extern.h/1.8.2.1/Sat May 13 11:51:13 2023//Tnetbsd-10-0-RELEASE
+/mkfs.c/1.41.2.1/Sat May 13 11:51:13 2023//Tnetbsd-10-0-RELEASE
+/namespace.h/1.1/Sun Mar  6 08:31:54 2022//Tnetbsd-10-0-RELEASE
+/newfs_extern.h/1.5/Sun Mar  6 08:31:54 2022//Tnetbsd-10-0-RELEASE
+/ufs_bmap.c/1.19/Sat Apr  9 10:05:35 2022//Tnetbsd-10-0-RELEASE
+/ufs_inode.h/1.5/Wed Jan 30 19:19:19 2013//Tnetbsd-10-0-RELEASE
+D

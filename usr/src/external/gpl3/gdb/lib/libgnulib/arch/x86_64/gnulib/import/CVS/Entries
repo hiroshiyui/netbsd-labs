@@ -1,0 +1,20 @@
+/alloca.h/1.1/Thu Sep 17 16:36:39 2020//Tnetbsd-10-0-RELEASE
+/ctype.h/1.1/Thu Sep 17 16:36:39 2020//Tnetbsd-10-0-RELEASE
+/dirent.h/1.2/Sun Sep 20 16:54:30 2020//Tnetbsd-10-0-RELEASE
+/fcntl.h/1.2/Sun Sep 20 16:54:30 2020//Tnetbsd-10-0-RELEASE
+/fnmatch.h/1.1/Thu Sep 17 16:36:39 2020//Tnetbsd-10-0-RELEASE
+/glob.h/1.1/Thu Sep 17 16:36:39 2020//Tnetbsd-10-0-RELEASE
+/inttypes.h/1.1/Thu Sep 17 16:36:39 2020//Tnetbsd-10-0-RELEASE
+/limits.h/1.1/Thu Sep 17 16:36:39 2020//Tnetbsd-10-0-RELEASE
+/locale.h/1.1/Thu Sep 17 16:36:39 2020//Tnetbsd-10-0-RELEASE
+/math.h/1.2/Sun Sep 20 16:54:30 2020//Tnetbsd-10-0-RELEASE
+/signal.h/1.1/Thu Sep 17 16:36:39 2020//Tnetbsd-10-0-RELEASE
+/stdint.h/1.1/Thu Sep 17 16:36:39 2020//Tnetbsd-10-0-RELEASE
+/stdio.h/1.2/Sun Sep 20 16:54:30 2020//Tnetbsd-10-0-RELEASE
+/stdlib.h/1.2/Sun Sep 20 16:54:30 2020//Tnetbsd-10-0-RELEASE
+/string.h/1.2/Sun Sep 20 16:54:30 2020//Tnetbsd-10-0-RELEASE
+/time.h/1.2/Sun Sep 20 16:54:30 2020//Tnetbsd-10-0-RELEASE
+/unistd.h/1.2/Sun Sep 20 16:54:30 2020//Tnetbsd-10-0-RELEASE
+/wchar.h/1.2/Sun Sep 20 16:54:30 2020//Tnetbsd-10-0-RELEASE
+/wctype.h/1.1/Thu Sep 17 16:36:39 2020//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,8 @@
+/build.info/1.1.1.1.14.1/Fri Aug 11 13:40:42 2023//Tnetbsd-10-0-RELEASE
+/seed.c/1.1.1.6.6.1/Fri Aug 11 13:40:42 2023//Tnetbsd-10-0-RELEASE
+/seed_cbc.c/1.1.1.4.14.1/Fri Aug 11 13:40:42 2023//Tnetbsd-10-0-RELEASE
+/seed_cfb.c/1.1.1.4.14.1/Fri Aug 11 13:40:42 2023//Tnetbsd-10-0-RELEASE
+/seed_ecb.c/1.1.1.4.14.1/Fri Aug 11 13:40:42 2023//Tnetbsd-10-0-RELEASE
+/seed_local.h/1.1.1.1.10.1/Fri Aug 11 13:40:42 2023//Tnetbsd-10-0-RELEASE
+/seed_ofb.c/1.1.1.4.14.1/Fri Aug 11 13:40:42 2023//Tnetbsd-10-0-RELEASE
+D

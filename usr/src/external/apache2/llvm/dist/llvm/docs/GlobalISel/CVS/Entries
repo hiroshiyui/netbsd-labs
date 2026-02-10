@@ -1,0 +1,18 @@
+/GMIR.rst/1.1.1.2/Sun May 30 01:28:14 2021//Tnetbsd-10-0-RELEASE
+/GenericOpcode.rst/1.1.1.1/Sun May 30 01:28:15 2021//Tnetbsd-10-0-RELEASE
+/IRTranslator.rst/1.1.1.2/Sun May 30 01:28:13 2021//Tnetbsd-10-0-RELEASE
+/InstructionSelect.rst/1.1.1.1/Fri Nov  8 14:28:19 2019//Tnetbsd-10-0-RELEASE
+/KnownBits.rst/1.1.1.1/Sun May 30 01:28:14 2021//Tnetbsd-10-0-RELEASE
+/Legalizer.rst/1.1.1.2/Sun May 30 01:28:14 2021//Tnetbsd-10-0-RELEASE
+/Pipeline.rst/1.1.1.2/Sun May 30 01:28:13 2021//Tnetbsd-10-0-RELEASE
+/Porting.rst/1.1.1.2/Sun May 30 01:28:15 2021//Tnetbsd-10-0-RELEASE
+/RegBankSelect.rst/1.1.1.1/Fri Nov  8 14:28:19 2019//Tnetbsd-10-0-RELEASE
+/Resources.rst/1.1.1.1/Fri Nov  8 14:28:20 2019//Tnetbsd-10-0-RELEASE
+/block-extract.png/1.1.1.1/Sun May 30 01:28:14 2021//Tnetbsd-10-0-RELEASE
+/index.rst/1.1.1.2/Sun May 30 01:28:14 2021//Tnetbsd-10-0-RELEASE
+/pipeline-overview-customized.png/1.1.1.1/Sun May 30 01:28:15 2021//Tnetbsd-10-0-RELEASE
+/pipeline-overview-with-combiners.png/1.1.1.1/Sun May 30 01:28:13 2021//Tnetbsd-10-0-RELEASE
+/pipeline-overview.png/1.1.1.1/Sun May 30 01:28:14 2021//Tnetbsd-10-0-RELEASE
+/testing-pass-level.png/1.1.1.1/Sun May 30 01:28:15 2021//Tnetbsd-10-0-RELEASE
+/testing-unit-level.png/1.1.1.1/Sun May 30 01:28:14 2021//Tnetbsd-10-0-RELEASE
+D

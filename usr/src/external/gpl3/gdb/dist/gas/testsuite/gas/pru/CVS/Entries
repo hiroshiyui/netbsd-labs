@@ -1,0 +1,26 @@
+/alu.d/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/alu.s/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/branch.d/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/branch.s/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/extern.d/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/extern.s/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/illegal.l/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/illegal.s/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/illegal2.l/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/illegal2.s/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/ldi.d/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/ldi.s/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/ldst.d/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/ldst.s/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/loop.d/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/loop.s/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/misc.d/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/misc.s/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/pru.exp/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/pseudo.d/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/pseudo.s/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/warn_reglabel.l/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/warn_reglabel.s/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/xfr.d/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+/xfr.s/1.1.1.1/Tue Sep 15 01:43:12 2020//Tnetbsd-10-0-RELEASE
+D

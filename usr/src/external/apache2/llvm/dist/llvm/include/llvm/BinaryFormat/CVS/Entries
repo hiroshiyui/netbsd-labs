@@ -1,0 +1,21 @@
+/AMDGPUMetadataVerifier.h/1.1.1.1/Fri Nov  8 14:29:25 2019//Tnetbsd-10-0-RELEASE
+/COFF.h/1.1.1.2/Sun May 30 01:26:45 2021//Tnetbsd-10-0-RELEASE
+/Dwarf.def/1.1.1.2/Sun May 30 01:26:45 2021//Tnetbsd-10-0-RELEASE
+/Dwarf.h/1.1.1.2/Sun May 30 01:26:45 2021//Tnetbsd-10-0-RELEASE
+/DynamicTags.def/1.1.1.2/Sun May 30 01:26:45 2021//Tnetbsd-10-0-RELEASE
+/ELF.h/1.1.1.2/Sun May 30 01:26:45 2021//Tnetbsd-10-0-RELEASE
+/MachO.def/1.1.1.1/Fri Nov  8 14:29:25 2019//Tnetbsd-10-0-RELEASE
+/MachO.h/1.1.1.2/Sun May 30 01:26:45 2021//Tnetbsd-10-0-RELEASE
+/Magic.h/1.1.1.2/Sun May 30 01:26:45 2021//Tnetbsd-10-0-RELEASE
+/Minidump.h/1.1.1.1/Fri Nov  8 14:29:25 2019//Tnetbsd-10-0-RELEASE
+/MinidumpConstants.def/1.1.1.2/Sun May 30 01:26:45 2021//Tnetbsd-10-0-RELEASE
+/MsgPack.def/1.1.1.1/Fri Nov  8 14:29:25 2019//Tnetbsd-10-0-RELEASE
+/MsgPack.h/1.1.1.1/Fri Nov  8 14:29:25 2019//Tnetbsd-10-0-RELEASE
+/MsgPackDocument.h/1.1.1.2/Sun May 30 01:26:45 2021//Tnetbsd-10-0-RELEASE
+/MsgPackReader.h/1.1.1.2/Sun May 30 01:26:45 2021//Tnetbsd-10-0-RELEASE
+/MsgPackWriter.h/1.1.1.2/Sun May 30 01:26:45 2021//Tnetbsd-10-0-RELEASE
+/Wasm.h/1.1.1.2/Sun May 30 01:26:45 2021//Tnetbsd-10-0-RELEASE
+/WasmRelocs.def/1.1.1.2/Sun May 30 01:26:45 2021//Tnetbsd-10-0-RELEASE
+/WasmTraits.h/1.1.1.1/Sun May 30 01:26:45 2021//Tnetbsd-10-0-RELEASE
+/XCOFF.h/1.1.1.2/Sun May 30 01:26:45 2021//Tnetbsd-10-0-RELEASE
+D

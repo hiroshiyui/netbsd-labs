@@ -1,0 +1,23 @@
+/config.ldif/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/datamorph.conf/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/test.ldif/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/test001-01-same-attr.ldif/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/test001-02-same-index.ldif/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/test001-02a-same-index.ldif/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/test001-03-invalid-attr.ldif/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/test002-config.ldif/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/test002-entry.ldif/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/test002-fail.ldif/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/test002-transformed-rdn.ldif/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/test003-config.ldif/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/test003-out.ldif/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/test005-01-fail.ldif/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/test005-02-fail.ldif/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/test005-03-fail.ldif/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/test005-03a-fail.ldif/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/test005-04-fail.ldif/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/test005-04a-fail.ldif/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/test005-changes.ldif/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/test005-out.ldif/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+/test007-config.ldif/1.1.1.1/Sat Aug 14 16:05:14 2021//Tnetbsd-10-0-RELEASE
+D

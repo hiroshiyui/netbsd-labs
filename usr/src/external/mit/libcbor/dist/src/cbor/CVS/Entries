@@ -1,0 +1,27 @@
+/arrays.c/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/arrays.h/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/bytestrings.c/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/bytestrings.h/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/callbacks.c/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/callbacks.h/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/common.c/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/common.h/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/configuration.h.in/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/data.h/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/encoding.c/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/encoding.h/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/floats_ctrls.c/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/floats_ctrls.h/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/ints.c/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/ints.h/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/maps.c/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/maps.h/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/serialization.c/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/serialization.h/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/streaming.c/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/streaming.h/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/strings.c/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/strings.h/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/tags.c/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+/tags.h/1.1.1.1/Tue Mar  3 00:34:31 2020//Tnetbsd-10-0-RELEASE
+D

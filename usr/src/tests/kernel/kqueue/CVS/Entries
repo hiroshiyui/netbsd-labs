@@ -1,0 +1,14 @@
+/Makefile/1.10/Sun Nov 21 09:35:39 2021//Tnetbsd-10-0-RELEASE
+/Makefile.inc/1.1/Wed Nov  3 16:10:20 2010//Tnetbsd-10-0-RELEASE
+/t_empty.c/1.1/Sat Oct 23 01:28:33 2021//Tnetbsd-10-0-RELEASE
+/t_ioctl.c/1.5/Sat Oct 31 14:57:02 2020//Tnetbsd-10-0-RELEASE
+/t_oneshot.c/1.1/Sat Oct 23 18:46:26 2021//Tnetbsd-10-0-RELEASE
+/t_proc1.c/1.3/Fri Jan 13 21:30:41 2017//Tnetbsd-10-0-RELEASE
+/t_proc2.c/1.3/Fri Jan 13 21:30:41 2017//Tnetbsd-10-0-RELEASE
+/t_proc3.c/1.3/Fri Jan 13 21:30:41 2017//Tnetbsd-10-0-RELEASE
+/t_proc4.c/1.1/Sun Oct 10 17:43:15 2021//Tnetbsd-10-0-RELEASE
+/t_scan.c/1.2/Sun Oct 10 19:17:31 2021//Tnetbsd-10-0-RELEASE
+/t_sig.c/1.4/Sun Oct 10 18:11:31 2021//Tnetbsd-10-0-RELEASE
+/t_timer.c/1.4/Sun Nov 21 09:35:39 2021//Tnetbsd-10-0-RELEASE
+/t_vnode.c/1.3/Wed Oct 20 14:33:14 2021//Tnetbsd-10-0-RELEASE
+D

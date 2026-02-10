@@ -1,0 +1,11 @@
+/Makefile/1.2/Tue Nov 20 05:26:25 2012//Tnetbsd-10-0-RELEASE
+/array.h/1.2/Tue Nov 20 05:26:25 2012//Tnetbsd-10-0-RELEASE
+/b64.c/1.2/Tue Nov 20 05:26:25 2012//Tnetbsd-10-0-RELEASE
+/b64.h/1.2/Tue Nov 20 05:26:26 2012//Tnetbsd-10-0-RELEASE
+/dump.c/1.2/Tue Nov 20 05:26:26 2012//Tnetbsd-10-0-RELEASE
+/libnetpgpverify.3/1.6/Mon Feb 17 07:23:18 2014//Tnetbsd-10-0-RELEASE
+/libverify.c/1.10/Thu May 14 08:34:19 2020//Tnetbsd-10-0-RELEASE
+/pgpsum.c/1.3/Thu Nov 22 00:38:45 2012//Tnetbsd-10-0-RELEASE
+/pgpsum.h/1.2/Tue Nov 20 05:26:26 2012//Tnetbsd-10-0-RELEASE
+/verify.h/1.2/Tue Nov 20 05:26:26 2012//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,12 @@
+/mkoffload.c/1.1.1.8/Sat Apr 10 22:09:48 2021//Tnetbsd-10-0-RELEASE
+/nvptx-modes.def/1.1.1.1/Tue Oct  1 09:36:30 2019//Tnetbsd-10-0-RELEASE
+/nvptx-opts.h/1.1.1.2/Sat Apr 10 22:09:48 2021//Tnetbsd-10-0-RELEASE
+/nvptx-protos.h/1.1.1.8/Sat Apr 10 22:09:48 2021//Tnetbsd-10-0-RELEASE
+/nvptx.c/1.1.1.11.2.1/Thu Jul 13 09:18:21 2023//Tnetbsd-10-0-RELEASE
+/nvptx.h/1.1.1.8.6.1/Thu Jul 13 09:18:21 2023//Tnetbsd-10-0-RELEASE
+/nvptx.md/1.1.1.8.6.1/Thu Jul 13 09:18:21 2023//Tnetbsd-10-0-RELEASE
+/nvptx.opt/1.1.1.8/Sat Apr 10 22:09:48 2021//Tnetbsd-10-0-RELEASE
+/offload.h/1.1.1.8/Sat Apr 10 22:09:48 2021//Tnetbsd-10-0-RELEASE
+/t-nvptx/1.1.1.2/Sat Jan 19 10:14:36 2019//Tnetbsd-10-0-RELEASE
+/t-omp-device/1.1.1.1/Sat Apr 10 22:09:48 2021//Tnetbsd-10-0-RELEASE
+D

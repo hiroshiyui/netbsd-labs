@@ -1,0 +1,13 @@
+/build.info/1.1.1.1.14.1/Fri Aug 11 13:40:37 2023//Tnetbsd-10-0-RELEASE
+/ocsp_asn.c/1.1.1.4.6.1/Fri Aug 11 13:40:37 2023//Tnetbsd-10-0-RELEASE
+/ocsp_cl.c/1.1.1.6.6.1/Fri Aug 11 13:40:37 2023//Tnetbsd-10-0-RELEASE
+/ocsp_err.c/1.1.1.4.10.1/Fri Aug 11 13:40:37 2023//Tnetbsd-10-0-RELEASE
+/ocsp_ext.c/1.1.1.8.6.1/Fri Aug 11 13:40:37 2023//Tnetbsd-10-0-RELEASE
+/ocsp_http.c/1.1.1.1.2.2/Fri Aug 11 13:40:37 2023//Tnetbsd-10-0-RELEASE
+/ocsp_lib.c/1.1.1.10.6.1/Fri Aug 11 13:40:37 2023//Tnetbsd-10-0-RELEASE
+/ocsp_local.h/1.1.1.1.10.1/Fri Aug 11 13:40:37 2023//Tnetbsd-10-0-RELEASE
+/ocsp_prn.c/1.1.1.7.6.1/Fri Aug 11 13:40:37 2023//Tnetbsd-10-0-RELEASE
+/ocsp_srv.c/1.1.1.5.6.1/Fri Aug 11 13:40:37 2023//Tnetbsd-10-0-RELEASE
+/ocsp_vfy.c/1.7.6.1/Fri Aug 11 13:40:37 2023//Tnetbsd-10-0-RELEASE
+/v3_ocsp.c/1.1.1.2.6.1/Fri Aug 11 13:40:37 2023//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,17 @@
+/Makefile.am/1.1.1.2/Wed Feb 23 15:21:35 2022//Tnetbsd-10-0-RELEASE
+/Makefile.in/1.1.1.2/Wed Feb 23 15:21:35 2022//Tnetbsd-10-0-RELEASE
+/README.txt/1.1.1.2/Fri Apr  6 10:23:32 2012//Tnetbsd-10-0-RELEASE
+/chardata.c/1.1.1.5/Wed Feb 23 15:21:35 2022//Tnetbsd-10-0-RELEASE
+/chardata.h/1.1.1.3/Wed Feb 23 15:21:35 2022//Tnetbsd-10-0-RELEASE
+/memcheck.c/1.1.1.3/Wed Feb 23 15:21:35 2022//Tnetbsd-10-0-RELEASE
+/memcheck.h/1.1.1.3/Wed Feb 23 15:21:35 2022//Tnetbsd-10-0-RELEASE
+/minicheck.c/1.1.1.5/Wed Feb 23 15:21:35 2022//Tnetbsd-10-0-RELEASE
+/minicheck.h/1.1.1.6/Wed Feb 23 15:21:35 2022//Tnetbsd-10-0-RELEASE
+/runtests.c/1.1.1.6/Wed Feb 23 15:21:35 2022//Tnetbsd-10-0-RELEASE
+/runtestspp.cpp/1.1.1.3/Wed Feb 23 15:21:35 2022//Tnetbsd-10-0-RELEASE
+/structdata.c/1.1.1.2/Wed Feb 23 15:21:35 2022//Tnetbsd-10-0-RELEASE
+/structdata.h/1.1.1.2/Wed Feb 23 15:21:35 2022//Tnetbsd-10-0-RELEASE
+/udiffer.py/1.1.1.2/Wed Feb 23 15:21:35 2022//Tnetbsd-10-0-RELEASE
+/xmltest.log.expected/1.1.1.1/Mon Sep 16 06:21:12 2019//Tnetbsd-10-0-RELEASE
+/xmltest.sh/1.5/Wed Feb 23 15:24:06 2022//Tnetbsd-10-0-RELEASE
+D

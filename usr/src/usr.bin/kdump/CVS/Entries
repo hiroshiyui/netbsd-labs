@@ -1,0 +1,11 @@
+/Makefile/1.35/Sun Aug 22 22:24:12 2021//Tnetbsd-10-0-RELEASE
+/Makefile.ioctl-c/1.39/Sat Nov 12 02:20:16 2022//Tnetbsd-10-0-RELEASE
+/Makefile.siginfo-c/1.6/Sun Oct 19 22:05:23 2008//Tnetbsd-10-0-RELEASE
+/ioctlprint.1/1.5/Fri Apr  3 06:12:48 2020//Tnetbsd-10-0-RELEASE
+/kdump.1/1.31/Fri Sep  2 03:39:29 2022//Tnetbsd-10-0-RELEASE
+/kdump.c/1.140.2.2/Mon Mar 25 15:15:20 2024//Tnetbsd-10-0-RELEASE
+/mkioctls/1.57/Sat Sep 12 01:36:26 2020//Tnetbsd-10-0-RELEASE
+/mksiginfos/1.6/Sat Sep 11 20:28:06 2021//Tnetbsd-10-0-RELEASE
+/setemul.c/1.32/Mon Mar 25 19:24:31 2019//Tnetbsd-10-0-RELEASE
+/setemul.h/1.15/Tue Apr 26 15:51:32 2011//Tnetbsd-10-0-RELEASE
+D

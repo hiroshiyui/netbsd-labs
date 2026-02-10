@@ -1,0 +1,12 @@
+/Makefile/1.27/Sun Jun 19 11:31:19 2022//Tnetbsd-10-0-RELEASE
+/fstat.1/1.36/Fri Sep  6 19:05:04 2019//Tnetbsd-10-0-RELEASE
+/fstat.c/1.117/Fri Oct 28 05:27:16 2022//Tnetbsd-10-0-RELEASE
+/fstat.h/1.11/Sun Jun 19 11:31:19 2022//Tnetbsd-10-0-RELEASE
+/isofs.c/1.7/Sun Apr 12 06:36:12 2009//Tnetbsd-10-0-RELEASE
+/misc.c/1.24/Sun Sep 13 04:14:48 2020//Tnetbsd-10-0-RELEASE
+/ntfs.c/1.13/Sat Oct 18 08:33:30 2014//Tnetbsd-10-0-RELEASE
+/ptyfs.c/1.7/Fri Jun  9 00:13:29 2017//Tnetbsd-10-0-RELEASE
+/tmpfs.c/1.11/Fri Jun  9 00:13:29 2017//Tnetbsd-10-0-RELEASE
+/zfs.c/1.1/Sun Jun 19 11:31:19 2022//Tnetbsd-10-0-RELEASE
+/zfs_znode.h/1.1/Sun Jun 19 11:31:19 2022//Tnetbsd-10-0-RELEASE
+D

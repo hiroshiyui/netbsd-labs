@@ -1,0 +1,14 @@
+/__clone.S/1.5/Thu May 22 15:01:57 2014//Tnetbsd-10-0-RELEASE
+/__sigtramp2.S/1.9/Mon Oct 19 11:29:26 2020//Tnetbsd-10-0-RELEASE
+/__syscall.S/1.2/Thu Aug  7 16:42:37 2003//Tnetbsd-10-0-RELEASE
+/__vfork14.S/1.5/Thu May 22 15:01:57 2014//Tnetbsd-10-0-RELEASE
+/brk.S/1.6/Thu May 22 15:01:57 2014//Tnetbsd-10-0-RELEASE
+/cerror.S/1.7/Thu May 22 15:01:57 2014//Tnetbsd-10-0-RELEASE
+/fork.S/1.4/Thu May 22 15:01:57 2014//Tnetbsd-10-0-RELEASE
+/getcontext.S/1.4/Thu May 22 15:01:57 2014//Tnetbsd-10-0-RELEASE
+/pipe.S/1.3/Thu May 22 15:01:57 2014//Tnetbsd-10-0-RELEASE
+/ptrace.S/1.7/Sat Mar 19 21:27:38 2016//Tnetbsd-10-0-RELEASE
+/sbrk.S/1.6/Thu May 22 15:01:57 2014//Tnetbsd-10-0-RELEASE
+/shmat.S/1.1/Tue Jun 19 00:25:06 2001//Tnetbsd-10-0-RELEASE
+/syscall.S/1.5/Sat Apr 18 23:55:52 2020//Tnetbsd-10-0-RELEASE
+D

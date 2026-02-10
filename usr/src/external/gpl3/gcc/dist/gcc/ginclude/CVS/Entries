@@ -1,0 +1,15 @@
+/float.h/1.1.1.10/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/iso646.h/1.1.1.10/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/stdalign.h/1.1.1.9/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/stdarg.h/1.1.1.10/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/stdatomic.h/1.1.1.8/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/stdbool.h/1.1.1.10/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/stddef.h/1.11/Sat Jul 17 16:31:51 2021//Tnetbsd-10-0-RELEASE
+/stdfix.h/1.1.1.10/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/stdint-gcc.h/1.1.1.10/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/stdint-wrap.h/1.1.1.2/Sat Mar  1 08:43:02 2014//Tnetbsd-10-0-RELEASE
+/stdnoreturn.h/1.1.1.9/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/tgmath.h/1.1.1.10/Sat Apr 10 22:09:54 2021//Tnetbsd-10-0-RELEASE
+/unwind-arm-common.h/1.8/Sun Apr 11 00:02:17 2021//Tnetbsd-10-0-RELEASE
+/varargs.h/1.1.1.1/Tue Jun 21 01:21:41 2011//Tnetbsd-10-0-RELEASE
+D

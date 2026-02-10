@@ -1,0 +1,9 @@
+/03-libldap_Debug.cocci/1.1.1.1/Sat Aug 14 16:05:19 2021//Tnetbsd-10-0-RELEASE
+/04-variadic.cocci/1.1.1.1/Sat Aug 14 16:05:19 2021//Tnetbsd-10-0-RELEASE
+/07-shortcut.cocci/1.1.1.1/Sat Aug 14 16:05:19 2021//Tnetbsd-10-0-RELEASE
+/09-merge.cocci/1.1.1.1/Sat Aug 14 16:05:19 2021//Tnetbsd-10-0-RELEASE
+/README/1.1.1.1/Sat Aug 14 16:05:19 2021//Tnetbsd-10-0-RELEASE
+/equivalence.iso/1.1.1.1/Sat Aug 14 16:05:19 2021//Tnetbsd-10-0-RELEASE
+/macros.h/1.2/Sat Aug 14 16:14:54 2021//Tnetbsd-10-0-RELEASE
+/script.sh/1.1.1.1/Sat Aug 14 16:05:19 2021//Tnetbsd-10-0-RELEASE
+D

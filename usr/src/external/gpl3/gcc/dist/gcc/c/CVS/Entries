@@ -1,0 +1,20 @@
+/ChangeLog/1.1.1.18.2.1/Thu Jul 13 09:18:19 2023//Tnetbsd-10-0-RELEASE
+/Make-lang.in/1.8/Sun Apr 11 00:02:11 2021//Tnetbsd-10-0-RELEASE
+/c-aux-info.c/1.1.1.9/Sat Apr 10 22:09:53 2021//Tnetbsd-10-0-RELEASE
+/c-convert.c/1.1.1.9/Sat Apr 10 22:09:53 2021//Tnetbsd-10-0-RELEASE
+/c-decl.c/1.1.1.15/Fri Jul 22 19:53:09 2022//Tnetbsd-10-0-RELEASE
+/c-errors.c/1.1.1.9/Sat Apr 10 22:09:53 2021//Tnetbsd-10-0-RELEASE
+/c-fold.c/1.1.1.8/Fri Jul 22 19:53:09 2022//Tnetbsd-10-0-RELEASE
+/c-lang.c/1.1.1.9/Sat Apr 10 22:09:53 2021//Tnetbsd-10-0-RELEASE
+/c-lang.h/1.1.1.9/Sat Apr 10 22:09:53 2021//Tnetbsd-10-0-RELEASE
+/c-objc-common.c/1.1.1.10/Sat Apr 10 22:09:53 2021//Tnetbsd-10-0-RELEASE
+/c-objc-common.h/1.1.1.9/Sat Apr 10 22:09:53 2021//Tnetbsd-10-0-RELEASE
+/c-parser.c/1.1.1.15.2.1/Thu Jul 13 09:18:19 2023//Tnetbsd-10-0-RELEASE
+/c-parser.h/1.1.1.6/Sat Apr 10 22:09:53 2021//Tnetbsd-10-0-RELEASE
+/c-tree.h/1.1.1.12/Sat Apr 10 22:09:53 2021//Tnetbsd-10-0-RELEASE
+/c-typeck.c/1.1.1.16.2.1/Thu Jul 13 09:18:20 2023//Tnetbsd-10-0-RELEASE
+/config-lang.in/1.1.1.9/Sat Apr 10 22:09:53 2021//Tnetbsd-10-0-RELEASE
+/gccspec.c/1.1.1.9/Sat Apr 10 22:09:53 2021//Tnetbsd-10-0-RELEASE
+/gimple-parser.c/1.1.1.6/Sat Apr 10 22:09:53 2021//Tnetbsd-10-0-RELEASE
+/gimple-parser.h/1.1.1.6/Sat Apr 10 22:09:53 2021//Tnetbsd-10-0-RELEASE
+D

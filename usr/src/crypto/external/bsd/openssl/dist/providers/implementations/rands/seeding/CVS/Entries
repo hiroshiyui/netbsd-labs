@@ -1,0 +1,8 @@
+/build.info/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+/rand_cpu_x86.c/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+/rand_tsc.c/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+/rand_unix.c/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+/rand_vms.c/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+/rand_vxworks.c/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+/rand_win.c/1.1.1.1.2.2/Fri Aug 11 13:41:20 2023//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,21 @@
+/AArch64.def/1.1.1.2/Sun May 30 01:26:45 2021//Tnetbsd-10-0-RELEASE
+/AMDGPU.def/1.1.1.1/Fri Nov  8 14:29:26 2019//Tnetbsd-10-0-RELEASE
+/ARC.def/1.1.1.1/Fri Nov  8 14:29:25 2019//Tnetbsd-10-0-RELEASE
+/ARM.def/1.1.1.1/Fri Nov  8 14:29:25 2019//Tnetbsd-10-0-RELEASE
+/AVR.def/1.1.1.1/Fri Nov  8 14:29:25 2019//Tnetbsd-10-0-RELEASE
+/BPF.def/1.1.1.1/Fri Nov  8 14:29:25 2019//Tnetbsd-10-0-RELEASE
+/CSKY.def/1.1.1.1/Sun May 30 01:26:45 2021//Tnetbsd-10-0-RELEASE
+/Hexagon.def/1.1.1.1/Fri Nov  8 14:29:26 2019//Tnetbsd-10-0-RELEASE
+/Lanai.def/1.1.1.1/Fri Nov  8 14:29:26 2019//Tnetbsd-10-0-RELEASE
+/M68k.def/1.1.1.1/Sun May 30 01:26:45 2021//Tnetbsd-10-0-RELEASE
+/MSP430.def/1.1.1.1/Fri Nov  8 14:29:26 2019//Tnetbsd-10-0-RELEASE
+/Mips.def/1.1.1.1/Fri Nov  8 14:29:25 2019//Tnetbsd-10-0-RELEASE
+/PowerPC.def/1.1.1.1/Fri Nov  8 14:29:26 2019//Tnetbsd-10-0-RELEASE
+/PowerPC64.def/1.1.1.2/Sun May 30 01:26:45 2021//Tnetbsd-10-0-RELEASE
+/RISCV.def/1.1.1.2/Sun May 30 01:26:45 2021//Tnetbsd-10-0-RELEASE
+/Sparc.def/1.1.1.1/Fri Nov  8 14:29:25 2019//Tnetbsd-10-0-RELEASE
+/SystemZ.def/1.1.1.1/Fri Nov  8 14:29:25 2019//Tnetbsd-10-0-RELEASE
+/VE.def/1.1.1.1/Sun May 30 01:26:45 2021//Tnetbsd-10-0-RELEASE
+/i386.def/1.1.1.1/Fri Nov  8 14:29:25 2019//Tnetbsd-10-0-RELEASE
+/x86_64.def/1.1.1.1/Fri Nov  8 14:29:25 2019//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,12 @@
+/Makefile/1.4/Sun Nov  7 18:05:36 2021//Tnetbsd-10-0-RELEASE
+/Makefile.inc/1.1/Mon Feb 13 21:03:08 2012//Tnetbsd-10-0-RELEASE
+/fa_spawn_utils.c/1.1/Sun Nov  7 15:46:20 2021//Tnetbsd-10-0-RELEASE
+/fa_spawn_utils.h/1.1/Sun Nov  7 15:46:20 2021//Tnetbsd-10-0-RELEASE
+/h_fileactions.c/1.2/Sun Nov  7 15:46:20 2021//Tnetbsd-10-0-RELEASE
+/h_nonexec.sh/1.1/Mon Feb 13 21:03:08 2012//Tnetbsd-10-0-RELEASE
+/h_spawn.c/1.3/Sun Nov  7 15:46:20 2021//Tnetbsd-10-0-RELEASE
+/h_spawnattr.c/1.3/Sun Nov  7 15:46:20 2021//Tnetbsd-10-0-RELEASE
+/t_fileactions.c/1.7/Sun Nov  7 15:46:20 2021//Tnetbsd-10-0-RELEASE
+/t_spawn.c/1.8/Tue May 31 11:22:34 2022//Tnetbsd-10-0-RELEASE
+/t_spawnattr.c/1.6/Mon May 23 21:46:12 2022//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,11 @@
+/dnskey-failures.test/1.1.1.1/Sat Sep 24 18:08:57 2022//Tnetbsd-10-0-RELEASE
+/dnskey-failures.test.signed/1.1.1.1.2.2/Sat Feb 24 13:06:45 2024//Tnetbsd-10-0-RELEASE
+/dnssec-failures.test/1.1.1.1/Sat Sep 24 18:08:57 2022//Tnetbsd-10-0-RELEASE
+/dnssec-failures.test.signed/1.1.1.1.2.2/Sat Feb 24 13:06:45 2024//Tnetbsd-10-0-RELEASE
+/make-broken-zone.sh/1.1.1.1.2.1/Sat Feb 24 13:06:45 2024//Tnetbsd-10-0-RELEASE
+/nsec-failures.test/1.1.1.1/Sat Sep 24 18:08:57 2022//Tnetbsd-10-0-RELEASE
+/nsec-failures.test.signed/1.1.1.1.2.2/Sat Feb 24 13:06:45 2024//Tnetbsd-10-0-RELEASE
+/rrsig-failures.test/1.1.1.1/Sat Sep 24 18:08:57 2022//Tnetbsd-10-0-RELEASE
+/rrsig-failures.test.signed/1.1.1.1.2.2/Sat Feb 24 13:06:45 2024//Tnetbsd-10-0-RELEASE
+/trust-anchors/1.1.1.1.2.2/Sat Feb 24 13:06:45 2024//Tnetbsd-10-0-RELEASE
+D

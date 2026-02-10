@@ -1,0 +1,11 @@
+/bcopy.S/1.1/Wed Sep  3 19:34:25 2014//Tnetbsd-10-0-RELEASE
+/bzero.S/1.1/Wed Sep  3 19:34:25 2014//Tnetbsd-10-0-RELEASE
+/clz.S/1.1/Wed Sep  3 19:34:25 2014//Tnetbsd-10-0-RELEASE
+/ctz.S/1.1/Wed Sep  3 19:34:25 2014//Tnetbsd-10-0-RELEASE
+/ffs.S/1.1/Wed Sep  3 19:34:25 2014//Tnetbsd-10-0-RELEASE
+/memcmp.S/1.1/Wed Sep  3 19:34:25 2014//Tnetbsd-10-0-RELEASE
+/memcpy.c/1.1/Wed Sep  3 19:34:25 2014//Tnetbsd-10-0-RELEASE
+/memmove.S/1.1/Wed Sep  3 19:34:25 2014//Tnetbsd-10-0-RELEASE
+/memset.S/1.1/Wed Sep  3 19:34:25 2014//Tnetbsd-10-0-RELEASE
+/strlen.S/1.1/Wed Sep  3 19:34:25 2014//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,19 @@
+/env-args-last-is-assign.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/env-args-last-is-u-arg.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/env-args-last-is-u.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/env-args-nested-none.txt/1.1.1.1/Sun May 30 01:28:23 2021//Tnetbsd-10-0-RELEASE
+/env-args-none.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/env-calls-cd.txt/1.1.1.1/Sun May 30 01:28:23 2021//Tnetbsd-10-0-RELEASE
+/env-calls-colon.txt/1.1.1.1/Sun May 30 01:28:23 2021//Tnetbsd-10-0-RELEASE
+/env-calls-echo.txt/1.1.1.1/Sun May 30 01:28:23 2021//Tnetbsd-10-0-RELEASE
+/env-calls-env.txt/1.1.1.1/Sun May 30 01:28:23 2021//Tnetbsd-10-0-RELEASE
+/env-calls-export.txt/1.1.1.1/Sun May 30 01:28:23 2021//Tnetbsd-10-0-RELEASE
+/env-calls-mkdir.txt/1.1.1.1/Sun May 30 01:28:23 2021//Tnetbsd-10-0-RELEASE
+/env-calls-not-builtin.txt/1.1.1.1/Sun May 30 01:28:23 2021//Tnetbsd-10-0-RELEASE
+/env-calls-rm.txt/1.1.1.1/Sun May 30 01:28:23 2021//Tnetbsd-10-0-RELEASE
+/env-u.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/env.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/lit.cfg/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/mixed.txt/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+/print_environment.py/1.1.1.1/Fri Nov  8 14:28:09 2019//Tnetbsd-10-0-RELEASE
+D

@@ -1,0 +1,7 @@
+/Makefile/1.5/Sat Jan 23 21:22:48 2016//Tnetbsd-10-0-RELEASE
+/dtfs.c/1.2/Wed Jul 21 06:58:25 2010//Tnetbsd-10-0-RELEASE
+/dtfs.h/1.2/Wed Jul 14 13:09:52 2010//Tnetbsd-10-0-RELEASE
+/dtfs_subr.c/1.5/Thu Sep 16 22:19:12 2021//Tnetbsd-10-0-RELEASE
+/dtfs_vfsops.c/1.5/Sun Sep 19 10:34:10 2021//Tnetbsd-10-0-RELEASE
+/dtfs_vnops.c/1.10/Sat Oct 19 17:45:00 2013//Tnetbsd-10-0-RELEASE
+D

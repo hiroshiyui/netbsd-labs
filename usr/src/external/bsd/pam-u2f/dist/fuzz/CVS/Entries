@@ -1,0 +1,11 @@
+/Makefile.am/1.1.1.1/Fri Sep 24 12:51:20 2021//Tnetbsd-10-0-RELEASE
+/authfile.h/1.1.1.1/Fri Sep 24 12:51:20 2021//Tnetbsd-10-0-RELEASE
+/coverage.sh/1.1.1.1/Fri Sep 24 12:51:20 2021//Tnetbsd-10-0-RELEASE
+/fuzz.h/1.1.1.1/Fri Sep 24 12:51:20 2021//Tnetbsd-10-0-RELEASE
+/fuzz_auth.c/1.1.1.1/Fri Sep 24 12:51:20 2021//Tnetbsd-10-0-RELEASE
+/fuzz_format_parsers.c/1.1.1.1/Fri Sep 24 12:51:20 2021//Tnetbsd-10-0-RELEASE
+/make_seed.py/1.1.1.1/Fri Sep 24 12:51:20 2021//Tnetbsd-10-0-RELEASE
+/pack.c/1.1.1.1/Fri Sep 24 12:51:20 2021//Tnetbsd-10-0-RELEASE
+/wiredata.h/1.1.1.1/Fri Sep 24 12:51:20 2021//Tnetbsd-10-0-RELEASE
+/wrap.c/1.1.1.1/Fri Sep 24 12:51:20 2021//Tnetbsd-10-0-RELEASE
+D

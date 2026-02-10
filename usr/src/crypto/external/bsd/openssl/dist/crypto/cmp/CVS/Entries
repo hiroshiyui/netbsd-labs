@@ -1,0 +1,15 @@
+/build.info/1.1.1.1.2.2/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+/cmp_asn.c/1.1.1.1.2.3/Thu Nov  2 19:32:08 2023//Tnetbsd-10-0-RELEASE
+/cmp_client.c/1.1.1.2.2.3/Thu Nov  2 19:32:08 2023//Tnetbsd-10-0-RELEASE
+/cmp_ctx.c/1.1.1.2.2.2/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+/cmp_err.c/1.1.1.2.2.2/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+/cmp_hdr.c/1.1.1.1.2.2/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+/cmp_http.c/1.1.1.1.2.2/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+/cmp_local.h/1.1.1.2.2.2/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+/cmp_msg.c/1.1.1.2.2.2/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+/cmp_protect.c/1.1.1.2.2.2/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+/cmp_server.c/1.1.1.2.2.2/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+/cmp_status.c/1.1.1.1.2.3/Thu Nov  2 19:32:08 2023//Tnetbsd-10-0-RELEASE
+/cmp_util.c/1.1.1.1.2.2/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+/cmp_vfy.c/1.1.1.2.2.2/Fri Aug 11 13:40:25 2023//Tnetbsd-10-0-RELEASE
+D
